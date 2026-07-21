@@ -7,74 +7,70 @@
 // EMBEDDED FALLBACK DATA (works even without today.md)
 // ============================================
 const EMBEDDED_TODAY_MD = `---
-title: Kasih yang Menguatkan
+title: Tuhan Meneguhkan Langkah 
 date: 2026-07-21
-verse: "1 Korintus 16:14 — Segala sesuatu yang kamu perbuat, perbuatlah dengan kasih."
----
+verse: "Mazmur 37:23 — TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya.
 
 # Embun Pagi
 
 ## Judul
-Kasih yang Menguatkan
+Tuhan Meneguhkan Langkah
 
 ## Ayat
-"Segala sesuatu yang kamu perbuat, perbuatlah dengan kasih." — 1 Korintus 16:14
-
+"TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya." - Mazmur 37:23
 ## Renungan
-Kasih adalah fondasi dari setiap tindakan kita sebagai orang Kristen. Ketika kita mengasihi dengan tulus, setiap pekerjaan menjadi berarti di mata Tuhan. Kasih bukan sekadar perasaan, melainkan pilihan untuk berbuat baik setiap hari.
+Setiap hari membawa pilihan, tantangan, dan ketidakpastian. Sering kali kita ingin mengetahui seluruh peta perjalanan sebelum melangkah. Namun Tuhan jarang memberikan seluruh peta itu. Ia lebih sering memberikan terang yang cukup untuk langkah berikutnya.
 
-Dalam kehidupan sehari-hari, kita sering dihadapkan pada situasi yang menguji kesabaran dan kemurahan hati kita. Mungkin di tempat kerja, di rumah, atau di jalanan. Namun, Tuhan tidak meminta kita untuk melakukan yang sempurna, melainkan untuk melakukan segala sesuatu dengan kasih.
+Di dalam Kristus kita belajar bahwa hidup bukan dikendalikan oleh rasa takut, melainkan oleh iman. Yesus sendiri berjalan taat kepada kehendak Bapa, bahkan ketika jalan itu menuju salib. Karena ketaatan-Nya, kita menerima keselamatan dan pengharapan yang tidak tergoncangkan.
 
-Kasih yang sejati tidak pernah gagal. Ia memaafkan, memberi, dan menguatkan. Ketika kita memilih untuk mengasihi, kita mencerminkan wajah Kristus kepada dunia.
+Ketika kita menyerahkan keputusan, pekerjaan, keluarga, dan pelayanan kepada Tuhan, kita dapat percaya bahwa Dia sedang membentuk karakter kita sekaligus memimpin arah hidup kita. Mungkin tidak semua doa dijawab sesuai keinginan kita, tetapi Tuhan tidak pernah berhenti bekerja demi kebaikan anak-anak-Nya.
+
+Hari ini, jangan hanya meminta Tuhan mengubah keadaan. Mintalah hati yang mau mengikuti pimpinan-Nya. Langkah kecil yang dilakukan dalam ketaatan sering kali menjadi awal dari pekerjaan besar yang Tuhan sediakan.
 
 ## Quotes
-"Kasih tidak pernah gagal, karena kasih berasal dari Tuhan yang kekal."
+"Ketaatan hari ini membuka jalan bagi penyertaan Tuhan esok hari."
 
 ---
 
 # Youth Devotion
 
 ## Judul
-Menjalani Hidup dengan Kasih
+Langkah Berani
 
 ## Ayat
-1 Korintus 16:14
+Amsal 3:5
 
 ## Renungan
-Sebagai anak muda, kita sering dihadapkan pada banyak pilihan. Di sekolah, di rumah, di media sosial — setiap hari kita memutuskan bagaimana berperilaku. Tuhan memanggil kita untuk tidak hanya melakukan yang benar, tetapi melakukannya dengan **kasih**.
+Dunia mendorong kita untuk mengandalkan kemampuan sendiri. Namun firman Tuhan mengingatkan bahwa hikmat sejati dimulai ketika kita percaya kepada-Nya. Yesus memahami pergumulan kita dan mengundang kita berjalan bersama-Nya setiap hari.
 
-Kasih adalah bedanya antara sekadar taat dan sungguh-sungguh mengikuti Kristus. Ketika kita berbicara dengan kasih, orang lain merasa dihargai. Ketika kita bertindak dengan kasih, dunia menjadi sedikit lebih baik.
-
-Jangan biarkan kemarahan, iri hati, atau kekecewaan menguasai hatimu. Pilih kasih, setiap hari, setiap saat.
+Di sekolah, kampus, atau tempat kerja, akan selalu ada tekanan untuk mengikuti arus. Jadilah pribadi yang berani memilih integritas sekalipun tidak populer. Tuhan mampu memakai kesetiaan kecil untuk menghasilkan dampak yang besar.
 
 ## Doa
-Tuhan Yesus, ajarilah aku untuk mengasihi seperti Engkau mengasihi. Berikan aku hati yang lembut terhadap sesama, meskipun mereka berbeda denganku. Dalam nama-Mu, aku berdoa. Amin.
+Tuhan Yesus, tuntun setiap langkahku hari ini. Berikan keberanian untuk memilih yang benar dan hati yang setia mengikuti-Mu. Amin.
 
 ## Quotes
-"Kasih adalah bahasa universal yang dipahami oleh setiap hati."
-
+"Orang yang berjalan bersama Kristus tidak pernah berjalan sendirian."
 ---
 
 # Daily Devotion
 
 ## Title
-Love in Action
+God Directs Every Faithful Step
 
 ## Verse
-1 Corinthians 16:14 — Do everything in love.
+Psalm 37:23 (NIV) - The LORD makes firm the steps of the one who delights in him.
 
 ## Reflection
-Love is not just a feeling but an action. When we choose to act with love, we reflect God's character to the world around us. Every small act of kindness becomes a testimony of His grace.
+Life often feels uncertain, yet God never loses sight of His children. Through Jesus Christ we see the perfect example of faithful obedience. Christ trusted the Father completely, even when the road led to the cross. Because of His sacrifice and resurrection, we have hope that our lives are held securely in God's hands.
 
-In a world that often feels cold and divided, love is the bridge that connects hearts. It does not require grand gestures; sometimes, a simple smile, a listening ear, or a helping hand is enough to change someone's day.
+Walking by faith does not mean having every answer. It means trusting the One who knows the end from the beginning. As you face today's responsibilities, invite Christ into every decision. His Spirit provides wisdom, peace, and strength for each step.
 
-Let us be intentional in our love. Let us choose patience over anger, understanding over judgment, and generosity over selfishness.
+Perhaps God is not changing your circumstances as quickly as you desire. Even so, He is shaping your heart. Every act of obedience prepares you for greater usefulness in His kingdom. Keep your eyes on Jesus and continue walking faithfully, knowing that He is leading you with perfect love.
 
 ## Prayer
-Lord, teach us to love genuinely. Help us to see others through Your eyes and to respond with compassion in every situation. May our lives be a reflection of Your perfect love. Amen.
-
+Lord Jesus, guide my steps today and help me trust You completely. May my life honor You in every decision. Amen.
 ## Inspirational Quote
-"Love never fails. It bears all things, believes all things, hopes all things, endures all things."
+"God rarely reveals the whole journey, but He is always faithful to lead the next step."
 `;
 
 // ============================================
