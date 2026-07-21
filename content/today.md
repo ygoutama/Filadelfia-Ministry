@@ -1,81 +1,79 @@
 ---
-title: God Never Fails
-date: 2026-07-20
-verse: Psalm 23:1
+title: Tuhan Meneguhkan Langkah
+date: 2026-07-21
+verse: "Mazmur 37:23"
 ---
 
 # Embun Pagi
 
-## Judul
-
-Tuhan Adalah Gembalaku
+## Tuhan Meneguhkan Langkah
 
 ## Ayat
 
-> "Tuhan adalah gembalaku, takkan kekurangan aku." — Mazmur 23:1
+"TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya." (Mazmur 37:23)
 
 ## Renungan
 
-Pagi ini, mari kita renungkan kasih setia Tuhan. Sebagai gembala yang baik, Dia selalu memelihara kita dengan penuh kasih. Di tengah tantangan hidup, kita tidak perlu takut karena Tuhan selalu menyediakan yang terbaik bagi umat-Nya.
+Setiap hari membawa pilihan, tantangan, dan ketidakpastian. Sering kali kita ingin mengetahui seluruh peta perjalanan sebelum melangkah. Namun Tuhan jarang memberikan seluruh peta itu. Ia lebih sering memberikan terang yang cukup untuk langkah berikutnya.
 
-Ketika kita merasa lelah dan kehabisan tenaga, ingatlah bahwa Tuhan mengajak kita untuk datang kepada-Nya. Dia akan memberikan kelegaan dan kekuatan baru. Jangan biarkan kekhawatiran menguasai hati kita, sebab Tuhan sudah mengatur setiap langkah hidup kita.
+Di dalam Kristus kita belajar bahwa hidup bukan dikendalikan oleh rasa takut, melainkan oleh iman. Yesus sendiri berjalan taat kepada kehendak Bapa, bahkan ketika jalan itu menuju salib. Karena ketaatan-Nya, kita menerima keselamatan dan pengharapan yang tidak tergoncangkan.
+
+Ketika kita menyerahkan keputusan, pekerjaan, keluarga, dan pelayanan kepada Tuhan, kita dapat percaya bahwa Dia sedang membentuk karakter kita sekaligus memimpin arah hidup kita. Mungkin tidak semua doa dijawab sesuai keinginan kita, tetapi Tuhan tidak pernah berhenti bekerja demi kebaikan anak-anak-Nya.
+
+Hari ini, jangan hanya meminta Tuhan mengubah keadaan. Mintalah hati yang mau mengikuti pimpinan-Nya. Langkah kecil yang dilakukan dalam ketaatan sering kali menjadi awal dari pekerjaan besar yang Tuhan sediakan.
+
+Aplikasi: Mulailah hari dengan doa singkat sebelum mengambil keputusan penting dan percayakan hasilnya kepada Tuhan.
 
 ## Quotes
 
-> "Kasih Tuhan tidak pernah berakhir, setiap pagi adalah bukti baru dari kesetiaan-Nya."
+Ketaatan hari ini membuka jalan bagi penyertaan Tuhan esok hari.
 
 ---
 
 # Youth Devotion
 
-## Judul
-
-Faith Over Fear
+## Langkah Berani
 
 ## Ayat
 
-> "Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan." — Yeremia 29:11
+"Percayalah kepada TUHAN dengan segenap hatimu..." (Amsal 3:5)
 
 ## Renungan
 
-Hai anak muda, jangan biarkan ketakutan menghentikan langkahmu! Tuhan sudah merencanakan masa depan yang penuh harapan bagimu. Setiap tantangan yang kamu hadapi adalah batu loncatan untuk membuatmu lebih kuat.
+Dunia mendorong kita untuk mengandalkan kemampuan sendiri. Namun firman Tuhan mengingatkan bahwa hikmat sejati dimulai ketika kita percaya kepada-Nya. Yesus memahami pergumulan kita dan mengundang kita berjalan bersama-Nya setiap hari.
 
-Dunia mungkin menawarkan banyak hal yang menggoda, tetapi ingatlah bahwa identitasmu ada di dalam Kristus. Kamu adalah anak Tuhan yang dicintai, dipilih, dan dipanggil untuk tujuan yang mulia.
-
-Jadilah berani dalam iman. Jadilah terang di tengah kegelapan. Dunia ini membutuhkan generasi muda yang tak gentar menghadapi tantangan karena mereka tahu siapa yang berada di pihak mereka.
+Di sekolah, kampus, atau tempat kerja, akan selalu ada tekanan untuk mengikuti arus. Jadilah pribadi yang berani memilih integritas sekalipun tidak populer. Tuhan mampu memakai kesetiaan kecil untuk menghasilkan dampak yang besar.
 
 ## Doa
 
-Bapa Surgawi, terima kasih untuk rencana indah-Mu dalam hidupku. Berikan aku keberanian untuk melangkah dengan iman, bukan dengan ketakutan. Ajar aku untuk selalu mengandalkan-Mu dalam setiap keputusan. Dalam nama Yesus, aku berdoa. Amin.
+Tuhan Yesus, tuntun setiap langkahku hari ini. Berikan keberanian untuk memilih yang benar dan hati yang setia mengikuti-Mu. Amin.
 
 ## Quotes
 
-> "Your faith must always be greater than your fear."
+Orang yang berjalan bersama Kristus tidak pernah berjalan sendirian.
 
 ---
 
 # Daily Devotion
 
-## Title
-
-The Lord Is My Shepherd
+## God Directs Every Faithful Step
 
 ## Verse
 
-> "The Lord is my shepherd; I shall not want." — Psalm 23:1 (ESV)
+“The LORD makes firm the steps of the one who delights in him.” — Psalm 37:23 (NIV)
 
 ## Reflection
 
-This morning, let us reflect on the faithful love of God. As a good shepherd, He always cares for us with full love. In the midst of life's challenges, we need not fear because God always provides the best for His people.
+Life often feels uncertain, yet God never loses sight of His children. Through Jesus Christ we see the perfect example of faithful obedience. Christ trusted the Father completely, even when the road led to the cross. Because of His sacrifice and resurrection, we have hope that our lives are held securely in God's hands.
 
-When we feel tired and exhausted, remember that God invites us to come to Him. He will give relief and new strength. Do not let worry dominate our hearts, for God has already arranged every step of our lives.
+Walking by faith does not mean having every answer. It means trusting the One who knows the end from the beginning. As you face today's responsibilities, invite Christ into every decision. His Spirit provides wisdom, peace, and strength for each step.
 
-The shepherd knows each sheep by name. He leads us to green pastures and still waters. Even when we walk through the valley of the shadow of death, His rod and staff comfort us. This is the promise we hold onto today.
+Perhaps God is not changing your circumstances as quickly as you desire. Even so, He is shaping your heart. Every act of obedience prepares you for greater usefulness in His kingdom. Keep your eyes on Jesus and continue walking faithfully, knowing that He is leading you with perfect love.
 
 ## Prayer
 
-Heavenly Father, thank You for being my Shepherd. I trust in Your provision and guidance today. Help me to rest in Your presence and not be anxious about tomorrow. Fill me with Your peace that surpasses all understanding. In Jesus' name, Amen.
+Lord Jesus, guide my steps today and help me trust You completely. May my life honor You in every decision. Amen.
 
 ## Inspirational Quote
 
-> "God's love never runs out. Every morning is fresh proof of His faithfulness."
+God rarely reveals the whole journey, but He is always faithful to lead the next step.
