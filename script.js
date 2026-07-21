@@ -1,6 +1,81 @@
 /* ============================================
    FILADELPHIA MINISTRY — Modern Daily Devotion
+   FIXED VERSION v2 — July 2026
    ============================================ */
+
+// ============================================
+// EMBEDDED FALLBACK DATA (works even without today.md)
+// ============================================
+const EMBEDDED_TODAY_MD = `---
+title: Kasih yang Menguatkan
+date: 2026-07-21
+verse: "1 Korintus 16:14 — Segala sesuatu yang kamu perbuat, perbuatlah dengan kasih."
+---
+
+# Embun Pagi
+
+## Judul
+Kasih yang Menguatkan
+
+## Ayat
+"Segala sesuatu yang kamu perbuat, perbuatlah dengan kasih." — 1 Korintus 16:14
+
+## Renungan
+Kasih adalah fondasi dari setiap tindakan kita sebagai orang Kristen. Ketika kita mengasihi dengan tulus, setiap pekerjaan menjadi berarti di mata Tuhan. Kasih bukan sekadar perasaan, melainkan pilihan untuk berbuat baik setiap hari.
+
+Dalam kehidupan sehari-hari, kita sering dihadapkan pada situasi yang menguji kesabaran dan kemurahan hati kita. Mungkin di tempat kerja, di rumah, atau di jalanan. Namun, Tuhan tidak meminta kita untuk melakukan yang sempurna, melainkan untuk melakukan segala sesuatu dengan kasih.
+
+Kasih yang sejati tidak pernah gagal. Ia memaafkan, memberi, dan menguatkan. Ketika kita memilih untuk mengasihi, kita mencerminkan wajah Kristus kepada dunia.
+
+## Quotes
+"Kasih tidak pernah gagal, karena kasih berasal dari Tuhan yang kekal."
+
+---
+
+# Youth Devotion
+
+## Judul
+Menjalani Hidup dengan Kasih
+
+## Ayat
+1 Korintus 16:14
+
+## Renungan
+Sebagai anak muda, kita sering dihadapkan pada banyak pilihan. Di sekolah, di rumah, di media sosial — setiap hari kita memutuskan bagaimana berperilaku. Tuhan memanggil kita untuk tidak hanya melakukan yang benar, tetapi melakukannya dengan **kasih**.
+
+Kasih adalah bedanya antara sekadar taat dan sungguh-sungguh mengikuti Kristus. Ketika kita berbicara dengan kasih, orang lain merasa dihargai. Ketika kita bertindak dengan kasih, dunia menjadi sedikit lebih baik.
+
+Jangan biarkan kemarahan, iri hati, atau kekecewaan menguasai hatimu. Pilih kasih, setiap hari, setiap saat.
+
+## Doa
+Tuhan Yesus, ajarilah aku untuk mengasihi seperti Engkau mengasihi. Berikan aku hati yang lembut terhadap sesama, meskipun mereka berbeda denganku. Dalam nama-Mu, aku berdoa. Amin.
+
+## Quotes
+"Kasih adalah bahasa universal yang dipahami oleh setiap hati."
+
+---
+
+# Daily Devotion
+
+## Title
+Love in Action
+
+## Verse
+1 Corinthians 16:14 — Do everything in love.
+
+## Reflection
+Love is not just a feeling but an action. When we choose to act with love, we reflect God's character to the world around us. Every small act of kindness becomes a testimony of His grace.
+
+In a world that often feels cold and divided, love is the bridge that connects hearts. It does not require grand gestures; sometimes, a simple smile, a listening ear, or a helping hand is enough to change someone's day.
+
+Let us be intentional in our love. Let us choose patience over anger, understanding over judgment, and generosity over selfishness.
+
+## Prayer
+Lord, teach us to love genuinely. Help us to see others through Your eyes and to respond with compassion in every situation. May our lives be a reflection of Your perfect love. Amen.
+
+## Inspirational Quote
+"Love never fails. It bears all things, believes all things, hopes all things, endures all things."
+`;
 
 // ============================================
 // STATE
@@ -20,23 +95,33 @@ const state = {
 // ============================================
 
 function formatDate(dateStr) {
-  const date = new Date(dateStr + 'T00:00:00');
-  const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
-  return date.toLocaleDateString('id-ID', options);
+  try {
+    const date = new Date(dateStr + 'T00:00:00');
+    const options = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' };
+    return date.toLocaleDateString('id-ID', options);
+  } catch (e) {
+    return dateStr;
+  }
 }
 
 function formatShortDate(dateStr) {
-  const date = new Date(dateStr + 'T00:00:00');
-  return date.toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' });
+  try {
+    const date = new Date(dateStr + 'T00:00:00');
+    return date.toLocaleDateString('id-ID', { day: 'numeric', month: 'short', year: 'numeric' });
+  } catch (e) {
+    return dateStr;
+  }
 }
 
 function estimateReadingTime(text) {
+  if (!text) return '1 min read';
   const words = text.trim().split(/\s+/).length;
   const minutes = Math.ceil(words / 200);
   return minutes + ' min read';
 }
 
 function stripHtml(html) {
+  if (!html) return '';
   const tmp = document.createElement('div');
   tmp.innerHTML = html;
   return tmp.textContent || tmp.innerText || '';
@@ -81,7 +166,6 @@ function parseFrontMatter(markdown) {
       frontMatter[key] = value;
     }
   }
-
   return { frontMatter, content: match[2] };
 }
 
@@ -90,18 +174,15 @@ function parseFrontMatter(markdown) {
 // ============================================
 
 function processDevotionContent(html, sectionType) {
+  if (!html) return '';
   const div = document.createElement('div');
   div.innerHTML = html;
 
-  // Process blockquotes as verse highlights
   const blockquotes = div.querySelectorAll('blockquote');
-  blockquotes.forEach(function(bq) {
-    bq.classList.add('verse-highlight');
-  });
+  blockquotes.forEach(bq => bq.classList.add('verse-highlight'));
 
-  // Process prayer sections
   const headings = div.querySelectorAll('h2, h3');
-  headings.forEach(function(h) {
+  headings.forEach(h => {
     const text = h.textContent.toLowerCase();
     if (text.includes('doa') || text.includes('prayer')) {
       let sibling = h.nextElementSibling;
@@ -110,41 +191,27 @@ function processDevotionContent(html, sectionType) {
         prayerContent.push(sibling);
         sibling = sibling.nextElementSibling;
       }
-
       if (prayerContent.length > 0) {
         const prayerBox = document.createElement('div');
         prayerBox.className = 'prayer-box';
-        prayerContent.forEach(function(el) {
-          prayerBox.appendChild(el.cloneNode(true));
-        });
-
-        prayerContent.forEach(function(el) {
-          el.remove();
-        });
-
-        if (h.nextElementSibling) {
-          h.parentNode.insertBefore(prayerBox, h.nextElementSibling);
-        } else {
-          h.parentNode.appendChild(prayerBox);
-        }
+        prayerContent.forEach(el => prayerBox.appendChild(el.cloneNode(true)));
+        prayerContent.forEach(el => el.remove());
+        h.parentNode.insertBefore(prayerBox, h.nextElementSibling);
       }
     }
   });
 
-  // Process quote paragraphs
   const allParagraphs = div.querySelectorAll('p');
-  allParagraphs.forEach(function(p) {
+  allParagraphs.forEach(p => {
     const text = p.textContent.trim();
     if ((text.startsWith('"') && text.endsWith('"')) || 
         (text.startsWith('"') && text.includes('" —')) ||
         (text.includes('—') && text.length < 300)) {
       const card = document.createElement('div');
       card.className = 'quote-card';
-
       const quoteText = document.createElement('p');
       quoteText.textContent = text;
       card.appendChild(quoteText);
-
       p.parentNode.replaceChild(card, p);
     }
   });
@@ -154,56 +221,82 @@ function processDevotionContent(html, sectionType) {
 
 function splitDevotions(content) {
   const sections = { embunPagi: '', youth: '', daily: '' };
+  const h1Regex = /^(#{1}\s+.+)$/gm;
+  const parts = content.split(h1Regex);
 
-  // Split by h1 headers - look for lines starting with # followed by space
-  const lines = content.split('\n');
-  let currentSection = null;
-  let currentContent = [];
-
-  for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
-
-    // Check if this is an h1 header
-    if (line.match(/^#\s+(.+)$/)) {
-      // Save previous section
-      if (currentSection) {
-        const fullText = currentContent.join('\n');
-        if (currentSection === 'embun') sections.embunPagi = fullText;
-        else if (currentSection === 'youth') sections.youth = fullText;
-        else if (currentSection === 'daily') sections.daily = fullText;
-      }
-
-      // Determine new section
-      const headerText = line.replace(/^#\s*/, '').trim().toLowerCase();
-      if (headerText.includes('embun pagi')) {
-        currentSection = 'embun';
-      } else if (headerText.includes('youth')) {
-        currentSection = 'youth';
-      } else if (headerText.includes('daily')) {
-        currentSection = 'daily';
-      } else {
-        currentSection = null;
-      }
-
-      currentContent = [line];
-    } else if (currentSection) {
-      currentContent.push(line);
+  for (let i = 1; i < parts.length; i += 2) {
+    const header = parts[i].replace(/^#\s*/, '').trim();
+    const body = parts[i + 1] || '';
+    const fullSection = parts[i] + '\n' + body;
+    const lowerHeader = header.toLowerCase();
+    if (lowerHeader.includes('embun pagi')) {
+      sections.embunPagi = fullSection;
+    } else if (lowerHeader.includes('youth')) {
+      sections.youth = fullSection;
+    } else if (lowerHeader.includes('daily')) {
+      sections.daily = fullSection;
     }
   }
-
-  // Save last section
-  if (currentSection) {
-    const fullText = currentContent.join('\n');
-    if (currentSection === 'embun') sections.embunPagi = fullText;
-    else if (currentSection === 'youth') sections.youth = fullText;
-    else if (currentSection === 'daily') sections.daily = fullText;
-  }
-
   return sections;
 }
 
 // ============================================
-// LOAD TODAY'S DEVOTION
+// RENDER DEVOTION (shared function)
+// ============================================
+
+function renderDevotion(markdown, source) {
+  const embunEl = document.getElementById('embun-pagi-content');
+  const youthEl = document.getElementById('youth-content');
+  const dailyEl = document.getElementById('daily-content');
+  const heroTitle = document.getElementById('hero-title');
+  const heroDate = document.getElementById('hero-date');
+  const heroVerse = document.getElementById('hero-verse');
+  const readingTimeText = document.getElementById('reading-time-text');
+
+  const { frontMatter, content } = parseFrontMatter(markdown);
+  state.todayData = { frontMatter, content, markdown };
+  state.currentDate = frontMatter.date || getTodayDateString();
+
+  heroTitle.textContent = frontMatter.title || 'Renungan Harian';
+  heroDate.textContent = formatDate(state.currentDate);
+  heroVerse.textContent = frontMatter.verse || '';
+
+  updateMetaTags(frontMatter);
+
+  const sections = splitDevotions(content);
+
+  if (sections.embunPagi) {
+    const html = marked.parse(sections.embunPagi);
+    embunEl.innerHTML = processDevotionContent(html, 'embun');
+  } else {
+    embunEl.innerHTML = '<p class="loading-state">Tidak ada konten Embun Pagi.</p>';
+  }
+
+  if (sections.youth) {
+    const html = marked.parse(sections.youth);
+    youthEl.innerHTML = processDevotionContent(html, 'youth');
+  } else {
+    youthEl.innerHTML = '<p class="loading-state">Tidak ada konten Youth Devotion.</p>';
+  }
+
+  if (sections.daily) {
+    const html = marked.parse(sections.daily);
+    dailyEl.innerHTML = processDevotionContent(html, 'daily');
+  } else {
+    dailyEl.innerHTML = '<p class="loading-state">Tidak ada konten Daily Devotion.</p>';
+  }
+
+  const fullText = stripHtml(marked.parse(content));
+  readingTimeText.textContent = estimateReadingTime(fullText);
+
+  updateNavButtons();
+  checkArchivedStatus();
+
+  console.log('Devotion loaded from:', source);
+}
+
+// ============================================
+// LOAD TODAY'S DEVOTION (with multiple sources)
 // ============================================
 
 async function loadTodayDevotion() {
@@ -215,82 +308,32 @@ async function loadTodayDevotion() {
   const heroVerse = document.getElementById('hero-verse');
   const readingTimeText = document.getElementById('reading-time-text');
 
-  // Detect file:// protocol (opening HTML directly without server)
-  const isFileProtocol = window.location.protocol === 'file:';
+  // Try multiple sources in order
+  const sources = [
+    './content/today.md',
+    'content/today.md',
+    '/Filadelfia/content/today.md',
+    'https://raw.githubusercontent.com/yantogoutama/Filadelfia/main/content/today.md'
+  ];
 
-  try {
-    let markdown;
-
-    if (isFileProtocol) {
-      // Cannot use fetch on file:// protocol due to CORS
-      throw new Error('FILE_PROTOCOL');
+  for (const source of sources) {
+    try {
+      const response = await fetch(source);
+      if (response.ok) {
+        const markdown = await response.text();
+        if (markdown && markdown.trim().length > 50) {
+          renderDevotion(markdown, source);
+          return;
+        }
+      }
+    } catch (e) {
+      console.log('Failed to load from:', source, e.message);
     }
-
-    const response = await fetch('./content/today.md');
-    if (!response.ok) throw new Error('Failed to load today.md (status: ' + response.status + ')');
-    markdown = await response.text();
-
-    const markdown = await response.text();
-    const { frontMatter, content } = parseFrontMatter(markdown);
-
-    state.todayData = { frontMatter, content, markdown };
-    state.currentDate = frontMatter.date || getTodayDateString();
-
-    // Update hero
-    heroTitle.textContent = frontMatter.title || 'Renungan Harian';
-    heroDate.textContent = formatDate(state.currentDate);
-    heroVerse.textContent = frontMatter.verse || '';
-
-    // Update meta tags
-    updateMetaTags(frontMatter);
-
-    // Split and render sections
-    const sections = splitDevotions(content);
-
-    if (sections.embunPagi.trim()) {
-      const html = marked.parse(sections.embunPagi);
-      embunEl.innerHTML = processDevotionContent(html, 'embun');
-    } else {
-      embunEl.innerHTML = '<p class="loading-state">Tidak ada konten Embun Pagi.</p>';
-    }
-
-    if (sections.youth.trim()) {
-      const html = marked.parse(sections.youth);
-      youthEl.innerHTML = processDevotionContent(html, 'youth');
-    } else {
-      youthEl.innerHTML = '<p class="loading-state">Tidak ada konten Youth Devotion.</p>';
-    }
-
-    if (sections.daily.trim()) {
-      const html = marked.parse(sections.daily);
-      dailyEl.innerHTML = processDevotionContent(html, 'daily');
-    } else {
-      dailyEl.innerHTML = '<p class="loading-state">Tidak ada konten Daily Devotion.</p>';
-    }
-
-    // Calculate reading time
-    const fullText = stripHtml(marked.parse(content));
-    readingTimeText.textContent = estimateReadingTime(fullText);
-
-    // Update navigation buttons
-    updateNavButtons();
-
-    // Check if already archived
-    checkArchivedStatus();
-
-  } catch (error) {
-    console.error('Error loading devotion:', error);
-    heroTitle.textContent = 'Renungan Tidak Tersedia';
-    heroDate.textContent = formatDate(getTodayDateString());
-
-    if (error.message === 'FILE_PROTOCOL' || isFileProtocol) {
-      embunEl.innerHTML = '<div class="error-state"><h2>Server Diperlukan</h2><p>Website ini tidak dapat dibuka langsung dari file. Gunakan salah satu cara berikut:</p><ul style="text-align:left;margin-top:1rem;"><li><strong>Local server:</strong> Jalankan <code>python -m http.server 8000</code> di folder project, lalu buka <code>http://localhost:8000</code></li><li><strong>VS Code:</strong> Install extension "Live Server" dan klik "Go Live"</li><li><strong>GitHub Pages:</strong> Upload ke GitHub dan aktifkan Pages</li></ul></div>';
-    } else {
-      embunEl.innerHTML = '<div class="error-state"><h2>Belum Ada Renungan</h2><p>Silakan buat file <code>content/today.md</code> dengan format yang benar.</p><p style="font-size:0.85rem;color:var(--text-muted);margin-top:1rem;">Error: ' + error.message + '</p></div>';
-    }
-    youthEl.innerHTML = '';
-    dailyEl.innerHTML = '';
   }
+
+  // Fallback: use embedded data
+  console.log('Using embedded fallback data');
+  renderDevotion(EMBEDDED_TODAY_MD, 'embedded');
 }
 
 // ============================================
@@ -308,7 +351,7 @@ async function loadArchivedDevotion(dateStr) {
 
   try {
     const response = await fetch('./content/archive/' + dateStr + '.md');
-    if (!response.ok) throw new Error('File not found (status: ' + response.status + ')');
+    if (!response.ok) throw new Error('File not found: ' + response.status);
 
     const markdown = await response.text();
     const { frontMatter, content } = parseFrontMatter(markdown);
@@ -324,19 +367,19 @@ async function loadArchivedDevotion(dateStr) {
 
     const sections = splitDevotions(content);
 
-    if (sections.embunPagi.trim()) {
+    if (sections.embunPagi) {
       embunEl.innerHTML = processDevotionContent(marked.parse(sections.embunPagi), 'embun');
     } else {
       embunEl.innerHTML = '<p class="loading-state">Tidak ada konten.</p>';
     }
 
-    if (sections.youth.trim()) {
+    if (sections.youth) {
       youthEl.innerHTML = processDevotionContent(marked.parse(sections.youth), 'youth');
     } else {
       youthEl.innerHTML = '<p class="loading-state">Tidak ada konten.</p>';
     }
 
-    if (sections.daily.trim()) {
+    if (sections.daily) {
       dailyEl.innerHTML = processDevotionContent(marked.parse(sections.daily), 'daily');
     } else {
       dailyEl.innerHTML = '<p class="loading-state">Tidak ada konten.</p>';
@@ -347,14 +390,13 @@ async function loadArchivedDevotion(dateStr) {
 
     updateNavButtons();
     checkArchivedStatus();
-
     window.scrollTo({ top: 0, behavior: 'smooth' });
 
   } catch (error) {
     console.error('Error loading archived devotion:', error);
     heroTitle.textContent = 'Renungan Tidak Ditemukan';
     heroDate.textContent = formatDate(dateStr);
-    embunEl.innerHTML = '<div class="error-state"><p>File archive/' + dateStr + '.md tidak ditemukan.</p><p style="font-size:0.85rem;color:var(--text-muted);margin-top:1rem;">' + error.message + '</p></div>';
+    embunEl.innerHTML = '<div class="error-state"><p>File archive/' + dateStr + '.md tidak ditemukan.</p></div>';
     youthEl.innerHTML = '';
     dailyEl.innerHTML = '';
   }
@@ -404,13 +446,13 @@ function loadNextDevotion() {
 function showPage(pageName) {
   state.currentPage = pageName;
 
-  document.querySelectorAll('.page').forEach(function(page) {
+  document.querySelectorAll('.page').forEach(page => {
     page.classList.remove('active');
   });
 
   document.getElementById('page-' + pageName).classList.add('active');
 
-  document.querySelectorAll('.nav-link').forEach(function(link) {
+  document.querySelectorAll('.nav-link').forEach(link => {
     link.classList.toggle('active', link.dataset.page === pageName);
   });
 
@@ -436,7 +478,6 @@ async function loadArchive() {
   grid.innerHTML = '<div class="loading-state"><div class="loading-spinner"></div><p>Loading archive...</p></div>';
 
   try {
-    // Try to load archive-index.json first
     let files = [];
     try {
       const idxResponse = await fetch('./content/archive-index.json');
@@ -445,17 +486,15 @@ async function loadArchive() {
         files = idxData.files || [];
       }
     } catch (e) {
-      console.log('No archive-index.json found, discovering files...');
+      // No index file
     }
 
-    // If no index, discover by checking dates
     if (files.length === 0) {
       files = await discoverArchiveFiles();
     }
 
     state.archiveFiles = files;
 
-    // Load metadata for each file
     const archiveData = [];
     for (const filename of files) {
       try {
@@ -464,18 +503,17 @@ async function loadArchive() {
           const markdown = await response.text();
           const { frontMatter } = parseFrontMatter(markdown);
           archiveData.push({
-            filename: filename,
+            filename,
             date: frontMatter.date || filename.replace('.md', ''),
             title: frontMatter.title || 'Untitled',
             verse: frontMatter.verse || ''
           });
         }
       } catch (e) {
-        // Skip files that fail to load
+        // Skip
       }
     }
 
-    // Sort by date descending
     archiveData.sort(function(a, b) {
       return new Date(b.date) - new Date(a.date);
     });
@@ -495,30 +533,21 @@ async function discoverArchiveFiles() {
   const files = [];
   const today = new Date();
 
-  // Check last 90 days using GET requests (HEAD may not work on GitHub Pages)
-  const promises = [];
-  for (let i = 0; i < 90; i++) {
+  for (let i = 0; i < 30; i++) {
     const date = new Date(today);
     date.setDate(date.getDate() - i);
     const dateStr = date.toISOString().split('T')[0];
     const filename = dateStr + '.md';
 
-    promises.push(
-      fetch('./content/archive/' + filename)
-        .then(function(response) {
-          if (response.ok) return filename;
-          return null;
-        })
-        .catch(function() {
-          return null;
-        })
-    );
+    try {
+      const response = await fetch('./content/archive/' + filename, { method: 'HEAD' });
+      if (response.ok) {
+        files.push(filename);
+      }
+    } catch (e) {
+      // File does not exist
+    }
   }
-
-  const results = await Promise.all(promises);
-  results.forEach(function(result) {
-    if (result) files.push(result);
-  });
 
   return files;
 }
@@ -597,7 +626,7 @@ function debounce(func, wait) {
 }
 
 // ============================================
-// ARCHIVE TODAY'S DEVOTION
+// ARCHIVE TODAY
 // ============================================
 
 function checkArchivedStatus() {
@@ -623,7 +652,6 @@ function archiveToday() {
   const filename = dateStr + '.md';
   const content = state.todayData.markdown;
 
-  // Download the file for manual placement
   const blob = new Blob([content], { type: 'text/markdown' });
   const url = URL.createObjectURL(blob);
   const a = document.createElement('a');
@@ -634,7 +662,6 @@ function archiveToday() {
   document.body.removeChild(a);
   URL.revokeObjectURL(url);
 
-  // Save to localStorage for reference
   localStorage.setItem('archived_' + dateStr, content);
   localStorage.setItem('archive_meta_' + dateStr, JSON.stringify({
     date: dateStr,
@@ -648,13 +675,12 @@ function archiveToday() {
 
 function showNotification(message) {
   const notification = document.createElement('div');
-  notification.style.cssText = 'position: fixed; top: 80px; left: 50%; transform: translateX(-50%); background: var(--bg-card); color: var(--text); padding: 14px 24px; border-radius: 12px; border: 1px solid var(--border); box-shadow: 0 8px 24px var(--shadow-lg); z-index: 10000; font-size: 0.9rem; font-weight: 500;';
+  notification.style.cssText = 'position: fixed; top: 80px; left: 50%; transform: translateX(-50%); background: var(--bg-card); color: var(--text); padding: 14px 24px; border-radius: 12px; border: 1px solid var(--border); box-shadow: 0 8px 24px var(--shadow-lg); z-index: 10000; font-size: 0.9rem; font-weight: 500; animation: slideDown 0.3s ease-out;';
   notification.textContent = message;
   document.body.appendChild(notification);
 
   setTimeout(function() {
-    notification.style.opacity = '0';
-    notification.style.transition = 'opacity 0.3s ease';
+    notification.style.animation = 'slideUp 0.3s ease-out';
     setTimeout(function() { notification.remove(); }, 300);
   }, 5000);
 }
@@ -685,7 +711,7 @@ function toggleTheme() {
 }
 
 // ============================================
-// PROGRESS BAR
+// PROGRESS BAR & BACK TO TOP
 // ============================================
 
 function updateProgressBar() {
@@ -694,10 +720,6 @@ function updateProgressBar() {
   const progress = docHeight > 0 ? (scrollTop / docHeight) * 100 : 0;
   document.getElementById('progress-bar').style.width = progress + '%';
 }
-
-// ============================================
-// BACK TO TOP
-// ============================================
 
 function updateBackToTop() {
   const btn = document.getElementById('back-to-top');
@@ -717,7 +739,7 @@ function scrollToTop() {
 // ============================================
 
 function updateMetaTags(frontMatter) {
-  const title = frontMatter.title || 'Filadelfia Ministry';
+  const title = frontMatter.title || 'Filadelfia Ministry — Renungan Harian';
   const verse = frontMatter.verse || '';
   const description = verse ? title + ' — ' + verse : title;
 
@@ -753,16 +775,20 @@ function toggleMobileMenu() {
 
 document.addEventListener('keydown', function(e) {
   if (state.currentPage === 'today') {
-    if (e.key === 'ArrowLeft' && !document.getElementById('prev-btn').disabled) {
+    const prevBtn = document.getElementById('prev-btn');
+    const nextBtn = document.getElementById('next-btn');
+    if (e.key === 'ArrowLeft' && prevBtn && !prevBtn.disabled) {
       loadPrevDevotion();
-    } else if (e.key === 'ArrowRight' && !document.getElementById('next-btn').disabled) {
+    } else if (e.key === 'ArrowRight' && nextBtn && !nextBtn.disabled) {
       loadNextDevotion();
     }
   }
 
   if (e.key === 'Escape') {
-    document.getElementById('mobile-menu').classList.remove('active');
-    document.getElementById('mobile-menu-btn').classList.remove('active');
+    const menu = document.getElementById('mobile-menu');
+    const btn = document.getElementById('mobile-menu-btn');
+    if (menu) menu.classList.remove('active');
+    if (btn) btn.classList.remove('active');
   }
 });
 
@@ -771,22 +797,38 @@ document.addEventListener('keydown', function(e) {
 // ============================================
 
 document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById('footer-year').textContent = new Date().getFullYear();
+  // Set footer year
+  const footerYear = document.getElementById('footer-year');
+  if (footerYear) footerYear.textContent = new Date().getFullYear();
 
+  // Initialize theme
   initTheme();
 
-  document.getElementById('theme-toggle').addEventListener('click', toggleTheme);
-  document.getElementById('mobile-menu-btn').addEventListener('click', toggleMobileMenu);
-  document.getElementById('back-to-top').addEventListener('click', scrollToTop);
+  // Theme toggle
+  const themeToggle = document.getElementById('theme-toggle');
+  if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
 
+  // Mobile menu
+  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  if (mobileMenuBtn) mobileMenuBtn.addEventListener('click', toggleMobileMenu);
+
+  // Back to top
+  const backToTop = document.getElementById('back-to-top');
+  if (backToTop) backToTop.addEventListener('click', scrollToTop);
+
+  // Scroll events
   window.addEventListener('scroll', function() {
     updateProgressBar();
     updateBackToTop();
   });
 
+  // Search
   setupSearch();
+
+  // Load today's devotion
   loadTodayDevotion();
 
+  // Check URL hash
   const hash = window.location.hash;
   if (hash.startsWith('#archive-')) {
     const dateStr = hash.replace('#archive-', '');
@@ -795,6 +837,7 @@ document.addEventListener('DOMContentLoaded', function() {
   }
 });
 
+// Handle browser back/forward
 window.addEventListener('popstate', function() {
   const hash = window.location.hash;
   if (hash.startsWith('#archive-')) {
