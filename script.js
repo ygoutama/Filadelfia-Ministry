@@ -7,109 +7,87 @@
 // EMBEDDED TODAY DATA
 // ============================================
 const TODAY_MD = `---
-title: Tetap Setia dalam Proses Tuhan
-date: 2026-07-22
-verse: "Yakobus 1:2-3"
+title: Percaya Sepenuhnya kepada Tuhan
+date: 2026-07-31
+verse: Amsal 3:5-6
 ---
 
 # Embun Pagi
 
-## Tetap Setia dalam Proses Tuhan
+## Percaya Sepenuhnya kepada Tuhan
 
 ## Ayat
 
-"Saudara-saudaraku, anggaplah sebagai suatu kebahagiaan, apabila kamu jatuh ke dalam berbagai-bagai pencobaan, sebab kamu tahu, bahwa ujian terhadap imanmu itu menghasilkan ketekunan." (Yakobus 1:2-3)
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."_  
+**- Amsal 3:5-6**
 
 ## Renungan
 
-Tidak seorang pun menyukai proses yang sulit. Kita lebih senang jika doa segera dijawab, masalah cepat selesai, dan jalan hidup terasa mudah. Namun, Tuhan sering kali memakai proses untuk membentuk karakter kita.
+Manusia cenderung mengandalkan logika, pengalaman, dan kekuatannya sendiri. Tidak salah menggunakan hikmat yang Tuhan berikan, tetapi menjadi masalah ketika kita lebih percaya pada diri sendiri daripada kepada Tuhan.
 
-Yakobus mengajarkan bahwa ujian iman menghasilkan ketekunan. Artinya, setiap tantangan yang Tuhan izinkan bukanlah tanpa tujuan. Dia sedang membentuk kita menjadi pribadi yang lebih dewasa, lebih rendah hati, dan lebih bergantung kepada-Nya.
+Amsal mengajarkan bahwa hidup yang diberkati dimulai dari hati yang sepenuhnya percaya kepada Tuhan. Percaya bukan hanya saat semuanya berjalan baik, tetapi juga ketika jawaban belum terlihat dan keadaan tidak sesuai harapan.
 
-Sering kali kita berdoa meminta Tuhan mengubah keadaan. Padahal, sebelum mengubah keadaan, Tuhan terlebih dahulu ingin mengubah hati kita. Dia ingin membentuk iman yang tidak mudah goyah, kasih yang tetap mengampuni, dan pengharapan yang tidak bergantung pada situasi.
+Mengakui Tuhan dalam segala laku berarti melibatkan Dia dalam setiap keputusan—baik yang besar maupun yang kecil. Saat kita mencari kehendak-Nya melalui doa dan Firman, Tuhan akan memberikan hikmat serta menuntun langkah kita ke jalan yang benar.
 
-Lihatlah kehidupan Yusuf. Bertahun-tahun ia mengalami penolakan, perbudakan, dan penjara. Namun, di setiap tahap kehidupannya, Tuhan sedang mempersiapkannya untuk tanggung jawab yang lebih besar. Jika Yusuf menyerah di tengah proses, ia tidak akan melihat penggenapan rencana Tuhan.
-
-Demikian juga dengan hidup kita. Mungkin hari ini Anda sedang berada dalam proses yang tidak mudah. Jangan terburu-buru menyimpulkan bahwa Tuhan meninggalkan Anda. Justru di tengah proses itulah Dia sedang bekerja, meskipun mata kita belum dapat melihat hasilnya.
-
-Tetaplah setia. Teruslah berdoa, melakukan yang benar, dan percaya kepada Tuhan. Proses yang dijalani bersama Tuhan tidak pernah sia-sia. Pada waktu-Nya, Anda akan melihat bahwa setiap langkah yang Dia izinkan memiliki tujuan yang indah.
-
-Aplikasi: Tetaplah setia mengiring Tuhan dan jangan ada pikiran untuk meninggalkannya.
+Mungkin hari ini Anda sedang diperhadapkan pada pilihan yang sulit. Jangan terburu-buru mengambil keputusan hanya berdasarkan perasaan atau tekanan keadaan. Datanglah kepada Tuhan terlebih dahulu. Dia melihat apa yang tidak dapat kita lihat dan mengetahui jalan terbaik bagi hidup kita.
 
 ## Quotes
 
-Tuhan lebih tertarik membentuk karakter kita melalui proses daripada sekadar membawa kita dengan cepat menuju tujuan.
+*"Iman yang sejati bukan hanya percaya bahwa Tuhan mampu, tetapi juga percaya bahwa jalan-Nya selalu yang terbaik."*
 
 ---
 
 # Youth Devotion
 
-## Berani Berkata Benar
+## Trust God with Your Future
 
 ## Ayat
 
-"Jangan seorang pun menganggap engkau rendah karena engkau muda. Jadilah teladan bagi orang-orang percaya dalam perkataanmu, tingkah lakumu, kasihmu, kesetiaanmu, dan kesucianmu." (1 Timotius 4:12)
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."_  
+**- Amsal 3:5**
 
 ## Renungan
 
-Mengatakan kebenaran tidak selalu mudah. Ada kalanya kita tergoda untuk berbohong agar tidak dimarahi, menyembunyikan kesalahan agar terlihat baik, atau mengikuti pendapat orang lain supaya tidak dikucilkan.
-Namun, sebagai pengikut Kristus, kita dipanggil untuk hidup dalam kebenaran.
+Masa muda dipenuhi dengan banyak keputusan penting: memilih jurusan, pekerjaan, pasangan hidup, pelayanan, dan impian masa depan. Tidak jarang semua itu membuatmu bingung atau takut mengambil langkah.
 
-Kejujuran bukan hanya soal tidak berbohong. Kejujuran adalah keberanian untuk hidup apa adanya di hadapan Tuhan dan sesama. Orang yang jujur dapat dipercaya karena perkataan dan tindakannya sejalan.
+Tuhan tidak meminta kamu mengetahui semua jawabannya sekarang. Dia mengundangmu untuk mempercayai-Nya setiap hari. Ketika kamu menempatkan Tuhan sebagai pusat hidupmu, Dia akan menuntun setiap langkahmu sesuai dengan rencana-Nya yang terbaik.
 
-Di sekolah, kampus, tempat kerja, atau bahkan di media sosial, kamu akan menemukan banyak situasi yang menguji integritasmu. Mungkin ada ajakan untuk menyontek, memanipulasi tugas, menyebarkan gosip, atau membuat citra diri yang tidak sesuai dengan kenyataan.
-
-Firman Tuhan mengajarkan bahwa anak muda dapat menjadi teladan. Bukan karena usianya, tetapi karena karakternya. Ketika kamu memilih berkata benar, sekalipun harus menanggung risiko, kamu sedang menunjukkan bahwa hidupmu dipimpin oleh Kristus.
-
-Kejujuran mungkin tidak selalu membuatmu populer, tetapi akan membuatmu menjadi pribadi yang dapat dipercaya. Dan kepercayaan adalah sesuatu yang dibangun bertahun-tahun, tetapi bisa hilang hanya karena satu kebohongan.
-
-Hari ini, mintalah keberanian kepada Tuhan untuk berkata benar, melakukan yang benar, dan hidup benar. Ketika Kristus menjadi pusat hidupmu, Dia akan memberikan kekuatan untuk tetap berdiri teguh di tengah dunia yang sering kali menganggap kompromi sebagai hal yang biasa.
+Jangan hanya bertanya, "Apa yang aku inginkan?" Mulailah bertanya, "Tuhan, apa yang Engkau kehendaki?" Di situlah kamu akan menemukan damai dan arah yang benar.
 
 ## Doa
 
-Tuhan Yesus, terima kasih karena Engkau adalah Tuhan yang penuh kebenaran. Tolong aku agar memiliki hati yang jujur dan berani melakukan apa yang benar, meskipun itu tidak mudah. Jauhkan aku dari kebiasaan berkompromi dengan dosa dan bentuklah karaktermu di dalam hidupku agar aku menjadi teladan bagi orang-orang di sekitarku. Di dalam nama Tuhan Yesus aku berdoa. Amin.
+Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Berikan hikmat dalam setiap keputusan yang kuambil, dan ajarku untuk selalu mengandalkan-Mu lebih daripada pengertianku sendiri. Amin.
 
 ## Quotes
 
-Keberanian untuk berkata benar lahir dari hati yang lebih takut mengecewakan Tuhan daripada kehilangan penerimaan manusia.
+*"The safest place for your future is in the hands of God."*
 
 ---
 
 # Daily Devotion
 
-## Growing Through Every Season
+## Trust God with All Your Heart
 
 ## Verse
 
-"And not only that, but we also glory in tribulations, knowing that tribulation produces perseverance; and perseverance, character; and character, hope. Now hope does not disappoint, because the love of God has been poured out in our hearts by the Holy Spirit who was given to us." — Romans 5:3-5 (NKJV)
+> **"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight."**  
+> **Proverbs 3:5–6 (NIV)**
 
 ## Reflection
 
-Life is made up of seasons.
+Life presents us with decisions that can feel overwhelming. Our natural tendency is to rely on our own understanding, experiences, or emotions. While wisdom is valuable, it has limits. God's wisdom, however, is perfect and eternal.
 
-There are seasons of joy and seasons of sorrow. Seasons of abundance and seasons of waiting. Seasons when prayers are answered quickly, and seasons when God seems silent.
+Trusting God means surrendering our plans, expectations, and fears into His hands. It means believing that He sees what we cannot see and knows what we cannot know. Even when His direction is different from our own desires, we can be confident that His path is always the best one.
 
-While we naturally prefer the easier seasons, God uses every season to accomplish His purpose in our lives.
-
-The Apostle Paul reminds us that trials are not meaningless. They produce perseverance, perseverance shapes character, and character gives birth to hope. God is not only concerned with changing our circumstances—He is committed to transforming us into the likeness of Christ.
-
-It is often during life's most difficult moments that our faith grows the deepest. We learn to depend on God's strength rather than our own. We discover that His grace is sufficient, His promises are trustworthy, and His presence never leaves us.
-
-Think about a tree. It does not grow only on sunny days. Its roots grow deeper through storms, strong winds, and changing seasons. In the same way, our spiritual roots become stronger when we continue to trust God through every challenge.
-
-Perhaps today you are walking through a difficult season. Do not lose heart. The God who began a good work in you has not abandoned His plan. He is using this very season to prepare you for what lies ahead.
-
-Remain faithful. Continue praying. Keep obeying His Word even when you cannot see immediate results. God's work is often happening beneath the surface before it becomes visible.
-
-Trust the process, because you can trust the One who is leading you.
+Today, invite God into every decision you make. Seek His guidance through prayer and Scripture, and trust Him to lead you step by step. A surrendered heart will always find security in His faithful guidance.
 
 ## Prayer
 
-Heavenly Father, thank You for walking with me through every season of life. Help me not to become discouraged when I face trials, but to trust that You are using them to strengthen my faith and shape my character. Give me perseverance when I feel weary, hope when I feel uncertain, and confidence that Your plans for my life are always good. May I continue to grow closer to You every day. In Jesus' name, Amen.
+Heavenly Father, teach me to trust You with all my heart. Help me not to rely on my own understanding but to seek Your wisdom in every decision. Lead my steps, shape my heart, and help me walk faithfully in Your perfect will. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-Every season in God's hands has a purpose. What challenges your faith today may become tomorrow's testimony of His faithfulness.
+*"God's direction is always better than our best intentions when we place our complete trust in Him."*
 `;
 
 // ============================================
@@ -117,89 +95,91 @@ Every season in God's hands has a purpose. What challenges your faith today may 
 // ============================================
 const ARCHIVE_DATA = [
   {
-    date: '2026-07-21',
-    title: 'Tuhan Meneguhkan Langkah',
-    verse: 'Mazmur 37:23',
+    date: '2026-07-31',
+    title: 'Mengandalkan Tuhan dalam Segala Hal,
+    verse: 'Amsal 3:5-6',
     markdown: `---
-title: Tuhan Meneguhkan Langkah
-date: 2026-07-21
-verse: "Mazmur 37:23"
+title: Mengandalkan Tuhan dalam Segala Hal
+date: 2026-07-31
+verse: Amsal 3:5-6
 ---
 
 # Embun Pagi
 
-## Tuhan Meneguhkan Langkah
+## Percaya Sepenuhnya kepada Tuhan
 
 ## Ayat
 
-"TUHAN menetapkan langkah-langkah orang yang hidupnya berkenan kepada-Nya." (Mazmur 37:23)
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."_  
+**- Amsal 3:5-6**
 
 ## Renungan
 
-Setiap hari membawa pilihan, tantangan, dan ketidakpastian. Sering kali kita ingin mengetahui seluruh peta perjalanan sebelum melangkah. Namun Tuhan jarang memberikan seluruh peta itu. Ia lebih sering memberikan terang yang cukup untuk langkah berikutnya.
+Manusia cenderung mengandalkan logika, pengalaman, dan kekuatannya sendiri. Tidak salah menggunakan hikmat yang Tuhan berikan, tetapi menjadi masalah ketika kita lebih percaya pada diri sendiri daripada kepada Tuhan.
 
-Di dalam Kristus kita belajar bahwa hidup bukan dikendalikan oleh rasa takut, melainkan oleh iman. Yesus sendiri berjalan taat kepada kehendak Bapa, bahkan ketika jalan itu menuju salib. Karena ketaatan-Nya, kita menerima keselamatan dan pengharapan yang tidak tergoncangkan.
+Amsal mengajarkan bahwa hidup yang diberkati dimulai dari hati yang sepenuhnya percaya kepada Tuhan. Percaya bukan hanya saat semuanya berjalan baik, tetapi juga ketika jawaban belum terlihat dan keadaan tidak sesuai harapan.
 
-Ketika kita menyerahkan keputusan, pekerjaan, keluarga, dan pelayanan kepada Tuhan, kita dapat percaya bahwa Dia sedang membentuk karakter kita sekaligus memimpin arah hidup kita. Mungkin tidak semua doa dijawab sesuai keinginan kita, tetapi Tuhan tidak pernah berhenti bekerja demi kebaikan anak-anak-Nya.
+Mengakui Tuhan dalam segala laku berarti melibatkan Dia dalam setiap keputusan—baik yang besar maupun yang kecil. Saat kita mencari kehendak-Nya melalui doa dan Firman, Tuhan akan memberikan hikmat serta menuntun langkah kita ke jalan yang benar.
 
-Hari ini, jangan hanya meminta Tuhan mengubah keadaan. Mintalah hati yang mau mengikuti pimpinan-Nya. Langkah kecil yang dilakukan dalam ketaatan sering kali menjadi awal dari pekerjaan besar yang Tuhan sediakan.
-
-Aplikasi: Mulailah hari dengan doa singkat sebelum mengambil keputusan penting dan percayakan hasilnya kepada Tuhan.
+Mungkin hari ini Anda sedang diperhadapkan pada pilihan yang sulit. Jangan terburu-buru mengambil keputusan hanya berdasarkan perasaan atau tekanan keadaan. Datanglah kepada Tuhan terlebih dahulu. Dia melihat apa yang tidak dapat kita lihat dan mengetahui jalan terbaik bagi hidup kita.
 
 ## Quotes
 
-Ketaatan hari ini membuka jalan bagi penyertaan Tuhan esok hari.
+*"Iman yang sejati bukan hanya percaya bahwa Tuhan mampu, tetapi juga percaya bahwa jalan-Nya selalu yang terbaik."*
 
 ---
 
 # Youth Devotion
 
-## Langkah Berani
+## Trust God with Your Future
 
 ## Ayat
 
-"Percayalah kepada TUHAN dengan segenap hatimu..." (Amsal 3:5)
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."_  
+**- Amsal 3:5**
 
 ## Renungan
 
-Dunia mendorong kita untuk mengandalkan kemampuan sendiri. Namun firman Tuhan mengingatkan bahwa hikmat sejati dimulai ketika kita percaya kepada-Nya. Yesus memahami pergumulan kita dan mengundang kita berjalan bersama-Nya setiap hari.
+Masa muda dipenuhi dengan banyak keputusan penting: memilih jurusan, pekerjaan, pasangan hidup, pelayanan, dan impian masa depan. Tidak jarang semua itu membuatmu bingung atau takut mengambil langkah.
 
-Di sekolah, kampus, atau tempat kerja, akan selalu ada tekanan untuk mengikuti arus. Jadilah pribadi yang berani memilih integritas sekalipun tidak populer. Tuhan mampu memakai kesetiaan kecil untuk menghasilkan dampak yang besar.
+Tuhan tidak meminta kamu mengetahui semua jawabannya sekarang. Dia mengundangmu untuk mempercayai-Nya setiap hari. Ketika kamu menempatkan Tuhan sebagai pusat hidupmu, Dia akan menuntun setiap langkahmu sesuai dengan rencana-Nya yang terbaik.
+
+Jangan hanya bertanya, "Apa yang aku inginkan?" Mulailah bertanya, "Tuhan, apa yang Engkau kehendaki?" Di situlah kamu akan menemukan damai dan arah yang benar.
 
 ## Doa
 
-Tuhan Yesus, tuntun setiap langkahku hari ini. Berikan keberanian untuk memilih yang benar dan hati yang setia mengikuti-Mu. Amin.
+Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Berikan hikmat dalam setiap keputusan yang kuambil, dan ajarku untuk selalu mengandalkan-Mu lebih daripada pengertianku sendiri. Amin.
 
 ## Quotes
 
-Orang yang berjalan bersama Kristus tidak pernah berjalan sendirian.
+*"The safest place for your future is in the hands of God."*
 
 ---
 
 # Daily Devotion
 
-## God Directs Every Faithful Step
+## Trust God with All Your Heart
 
 ## Verse
 
-"The LORD makes firm the steps of the one who delights in him." — Psalm 37:23 (NIV)
+> **"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight."**  
+> **Proverbs 3:5–6 (NIV)**
 
 ## Reflection
 
-Life often feels uncertain, yet God never loses sight of His children. Through Jesus Christ we see the perfect example of faithful obedience. Christ trusted the Father completely, even when the road led to the cross. Because of His sacrifice and resurrection, we have hope that our lives are held securely in God's hands.
+Life presents us with decisions that can feel overwhelming. Our natural tendency is to rely on our own understanding, experiences, or emotions. While wisdom is valuable, it has limits. God's wisdom, however, is perfect and eternal.
 
-Walking by faith does not mean having every answer. It means trusting the One who knows the end from the beginning. As you face today's responsibilities, invite Christ into every decision. His Spirit provides wisdom, peace, and strength for each step.
+Trusting God means surrendering our plans, expectations, and fears into His hands. It means believing that He sees what we cannot see and knows what we cannot know. Even when His direction is different from our own desires, we can be confident that His path is always the best one.
 
-Perhaps God is not changing your circumstances as quickly as you desire. Even so, He is shaping your heart. Every act of obedience prepares you for greater usefulness in His kingdom. Keep your eyes on Jesus and continue walking faithfully, knowing that He is leading you with perfect love.
+Today, invite God into every decision you make. Seek His guidance through prayer and Scripture, and trust Him to lead you step by step. A surrendered heart will always find security in His faithful guidance.
 
 ## Prayer
 
-Lord Jesus, guide my steps today and help me trust You completely. May my life honor You in every decision. Amen.
+Heavenly Father, teach me to trust You with all my heart. Help me not to rely on my own understanding but to seek Your wisdom in every decision. Lead my steps, shape my heart, and help me walk faithfully in Your perfect will. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-God rarely reveals the whole journey, but He is always faithful to lead the next step.
-`
+*"God's direction is always better than our best intentions when we place our complete trust in Him."*`
   }
 ];
 
