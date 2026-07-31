@@ -96,7 +96,7 @@ Heavenly Father, teach me to trust You with all my heart. Help me not to rely on
 const ARCHIVE_DATA = [
   {
     date: '2026-07-31',
-    title: 'Mengandalkan Tuhan dalam Segala Hal,
+    title: 'Mengandalkan Tuhan dalam Segala Hal',
     verse: 'Amsal 3:5-6',
     markdown: `---
 title: Mengandalkan Tuhan dalam Segala Hal
@@ -193,6 +193,27 @@ const state = {
 };
 
 // ============================================
+// SIMPLE MARKDOWN PARSER (fallback jika marked.js tidak tersedia)
+// ============================================
+const mdParser = {
+  parse: function(text) {
+    if (!text) return '';
+    let html = text
+      .replace(/^### (.*$)/gim, '<h3>$1</h3>')
+      .replace(/^## (.*$)/gim, '<h2>$1</h2>')
+      .replace(/^# (.*$)/gim, '<h1>$1</h1>')
+      .replace(/^> (.*$)/gim, '<blockquote>$1</blockquote>')
+      .replace(/\*\*(.*)\*\*/gim, '<b>$1</b>')
+      .replace(/\*(.*)\*/gim, '<i>$1</i>')
+      .replace(/_(.*)_/gim, '<i>$1</i>')
+      .replace(/!\[(.*?)\]\((.*?)\)/gim, '<img alt="$1" src="$2" />')
+      .replace(/\[(.*?)\]\((.*?)\)/gim, '<a href="$2">$1</a>')
+      .replace(/\n/gim, '<br>');
+    return html;
+  }
+};
+
+// ============================================
 // UTILITY
 // ============================================
 function formatDate(dateStr) {
@@ -226,9 +247,13 @@ function getTomorrowDateString(dateStr) {
 }
 
 function escapeHtml(text) {
-  const div = document.createElement('div');
-  div.textContent = text;
-  return div.innerHTML;
+  if (!text) return '';
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#039;');
 }
 
 // ============================================
@@ -270,18 +295,23 @@ function render(markdown) {
   const { frontMatter, content } = parseFrontMatter(markdown);
   state.currentDate = frontMatter.date || getTodayDateString();
 
-  document.getElementById('hero-title').textContent = frontMatter.title || 'Renungan Harian';
-  document.getElementById('hero-date').textContent = formatDate(state.currentDate);
-  document.getElementById('hero-verse').textContent = frontMatter.verse || '';
-
-  const sections = splitSections(content);
+  const heroTitle = document.getElementById('hero-title');
+  const heroDate = document.getElementById('hero-date');
+  const heroVerse = document.getElementById('hero-verse');
   const embun = document.getElementById('embun-pagi-content');
   const youth = document.getElementById('youth-content');
   const daily = document.getElementById('daily-content');
 
-  embun.innerHTML = sections.embunPagi ? marked.parse(sections.embunPagi) : '<p>Tidak ada konten.</p>';
-  youth.innerHTML = sections.youth ? marked.parse(sections.youth) : '<p>Tidak ada konten.</p>';
-  daily.innerHTML = sections.daily ? marked.parse(sections.daily) : '<p>Tidak ada konten.</p>';
+  if (heroTitle) heroTitle.textContent = frontMatter.title || 'Renungan Harian';
+  if (heroDate) heroDate.textContent = formatDate(state.currentDate);
+  if (heroVerse) heroVerse.textContent = frontMatter.verse || '';
+
+  const sections = splitSections(content);
+  const parser = (typeof marked !== 'undefined' && marked.parse) ? marked : mdParser;
+
+  if (embun) embun.innerHTML = sections.embunPagi ? parser.parse(sections.embunPagi) : '<p>Tidak ada konten.</p>';
+  if (youth) youth.innerHTML = sections.youth ? parser.parse(sections.youth) : '<p>Tidak ada konten.</p>';
+  if (daily) daily.innerHTML = sections.daily ? parser.parse(sections.daily) : '<p>Tidak ada konten.</p>';
 
   updateNav();
 }
@@ -289,6 +319,8 @@ function render(markdown) {
 function updateNav() {
   const prev = document.getElementById('prev-btn');
   const next = document.getElementById('next-btn');
+  if (!prev || !next) return;
+
   const yesterday = getYesterdayDateString(state.currentDate);
   const tomorrow = getTomorrowDateString(state.currentDate);
   const today = getTodayDateString();
@@ -318,11 +350,20 @@ function loadByDate(dateStr) {
     render(TODAY_MD);
     return;
   }
-  document.getElementById('hero-title').textContent = 'Renungan Tidak Ditemukan';
-  document.getElementById('hero-date').textContent = formatDate(dateStr);
-  document.getElementById('embun-pagi-content').innerHTML = '<p>Renungan untuk tanggal ini belum tersedia.</p>';
-  document.getElementById('youth-content').innerHTML = '';
-  document.getElementById('daily-content').innerHTML = '';
+  const heroTitle = document.getElementById('hero-title');
+  const heroDate = document.getElementById('hero-date');
+  const embun = document.getElementById('embun-pagi-content');
+  const youth = document.getElementById('youth-content');
+  const daily = document.getElementById('daily-content');
+
+  if (heroTitle) heroTitle.textContent = 'Renungan Tidak Ditemukan';
+  if (heroDate) heroDate.textContent = formatDate(dateStr);
+  if (embun) embun.innerHTML = '<p>Renungan untuk tanggal ini belum tersedia.</p>';
+  if (youth) youth.innerHTML = '';
+  if (daily) daily.innerHTML = '';
+
+  state.currentDate = dateStr;
+  updateNav();
 }
 
 // ============================================
@@ -331,6 +372,7 @@ function loadByDate(dateStr) {
 function loadArchive() {
   const grid = document.getElementById('archive-grid');
   const stats = document.getElementById('archive-stats');
+  if (!grid || !stats) return;
 
   const all = [...ARCHIVE_DATA];
   const todayStr = getTodayDateString();
@@ -339,7 +381,7 @@ function loadArchive() {
     all.push({ date: todayStr, title: frontMatter.title, verse: frontMatter.verse, markdown: TODAY_MD });
   }
 
-  all.sort((a, b) => new Date(b.date) - new Date(a.date));
+  all.sort((a, b) => new Date(b.date + 'T00:00:00') - new Date(a.date + 'T00:00:00'));
 
   if (all.length === 0) {
     grid.innerHTML = '<p>Belum ada archive.</p>';
@@ -368,8 +410,10 @@ function showPage(name) {
   const page = document.getElementById('page-' + name);
   if (page) page.classList.add('active');
   document.querySelectorAll('.nav-link').forEach(l => l.classList.toggle('active', l.dataset.page === name));
-  document.getElementById('mobile-menu')?.classList.remove('active');
-  document.getElementById('mobile-menu-btn')?.classList.remove('active');
+  const mobileMenu = document.getElementById('mobile-menu');
+  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  if (mobileMenu) mobileMenu.classList.remove('active');
+  if (mobileMenuBtn) mobileMenuBtn.classList.remove('active');
   window.scrollTo({ top: 0, behavior: 'smooth' });
   if (name === 'archive') loadArchive();
 }
@@ -396,14 +440,27 @@ function toggleTheme() {
 // INIT
 // ============================================
 document.addEventListener('DOMContentLoaded', function() {
-  document.getElementById('footer-year').textContent = new Date().getFullYear();
+  const footerYear = document.getElementById('footer-year');
+  if (footerYear) footerYear.textContent = new Date().getFullYear();
+
   initTheme();
-  document.getElementById('theme-toggle')?.addEventListener('click', toggleTheme);
-  document.getElementById('mobile-menu-btn')?.addEventListener('click', () => {
-    document.getElementById('mobile-menu')?.classList.toggle('active');
-    document.getElementById('mobile-menu-btn')?.classList.toggle('active');
-  });
-  document.getElementById('back-to-top')?.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+
+  const themeToggle = document.getElementById('theme-toggle');
+  if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
+
+  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  if (mobileMenuBtn) {
+    mobileMenuBtn.addEventListener('click', () => {
+      const mobileMenu = document.getElementById('mobile-menu');
+      if (mobileMenu) mobileMenu.classList.toggle('active');
+      mobileMenuBtn.classList.toggle('active');
+    });
+  }
+
+  const backToTop = document.getElementById('back-to-top');
+  if (backToTop) {
+    backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+  }
 
   render(TODAY_MD);
 });
