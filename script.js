@@ -7,87 +7,89 @@
 // EMBEDDED TODAY DATA
 // ============================================
 const TODAY_MD = `---
-title: Percaya Sepenuhnya kepada Tuhan
-date: 2026-07-31
-verse: Amsal 3:5-6
+title: Menjadi Terang bagi Dunia
+date: 2026-08-01
+verse: Matius 5:14-16
 ---
 
 # Embun Pagi
 
-## Percaya Sepenuhnya kepada Tuhan
+## Hidup yang Memancarkan Terang Kristus
 
 ## Ayat
 
-_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."_  
-**- Amsal 3:5-6**
+_"Kamu adalah terang dunia. Kota yang terletak di atas gunung tidak mungkin tersembunyi. Demikianlah hendaknya terangmu bercahaya di depan orang, supaya mereka melihat perbuatanmu yang baik dan memuliakan Bapamu yang di sorga."_  
+**- Matius 5:14,16**
 
 ## Renungan
 
-Manusia cenderung mengandalkan logika, pengalaman, dan kekuatannya sendiri. Tidak salah menggunakan hikmat yang Tuhan berikan, tetapi menjadi masalah ketika kita lebih percaya pada diri sendiri daripada kepada Tuhan.
+Terang tidak perlu berusaha menarik perhatian. Ia cukup bersinar, dan kegelapan akan tersingkir. Demikian pula kehidupan seorang percaya. Tuhan tidak memanggil kita menjadi terkenal, tetapi menjadi terang.
 
-Amsal mengajarkan bahwa hidup yang diberkati dimulai dari hati yang sepenuhnya percaya kepada Tuhan. Percaya bukan hanya saat semuanya berjalan baik, tetapi juga ketika jawaban belum terlihat dan keadaan tidak sesuai harapan.
+Terang Kristus terpancar melalui perkataan yang membangun, tindakan yang penuh kasih, kejujuran dalam pekerjaan, kesabaran dalam menghadapi orang lain, dan kesetiaan dalam melakukan kehendak Tuhan. Dunia mungkin tidak membaca Alkitab, tetapi dunia sedang "membaca" kehidupan kita setiap hari.
 
-Mengakui Tuhan dalam segala laku berarti melibatkan Dia dalam setiap keputusan—baik yang besar maupun yang kecil. Saat kita mencari kehendak-Nya melalui doa dan Firman, Tuhan akan memberikan hikmat serta menuntun langkah kita ke jalan yang benar.
+Menjadi terang bukan berarti hidup tanpa kesalahan, melainkan hidup yang terus bertobat dan semakin menyerupai Kristus. Ketika orang melihat kasih, damai, dan integritas dalam diri kita, mereka akan melihat pantulan karakter Kristus.
 
-Mungkin hari ini Anda sedang diperhadapkan pada pilihan yang sulit. Jangan terburu-buru mengambil keputusan hanya berdasarkan perasaan atau tekanan keadaan. Datanglah kepada Tuhan terlebih dahulu. Dia melihat apa yang tidak dapat kita lihat dan mengetahui jalan terbaik bagi hidup kita.
+Hari ini, mintalah agar Tuhan memakai hidup Anda menjadi terang di mana pun Anda berada—di rumah, tempat kerja, sekolah, maupun di tengah masyarakat. Biarlah setiap langkah hidup kita membawa kemuliaan bagi nama-Nya.
 
 ## Quotes
 
-*"Iman yang sejati bukan hanya percaya bahwa Tuhan mampu, tetapi juga percaya bahwa jalan-Nya selalu yang terbaik."*
+*"Terang Kristus paling terang bersinar melalui kehidupan yang rendah hati, penuh kasih, dan taat kepada Tuhan."*
 
 ---
 
 # Youth Devotion
 
-## Trust God with Your Future
+## Shine Where God Has Placed You
 
 ## Ayat
 
-_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."_  
-**- Amsal 3:5**
+_"Kamu adalah terang dunia."_  
+**- Matius 5:14**
 
 ## Renungan
 
-Masa muda dipenuhi dengan banyak keputusan penting: memilih jurusan, pekerjaan, pasangan hidup, pelayanan, dan impian masa depan. Tidak jarang semua itu membuatmu bingung atau takut mengambil langkah.
+Menjadi anak muda Kristen bukan hanya soal datang ke gereja setiap minggu. Tuhan ingin hidupmu menjadi terang di sekolah, kampus, tempat kerja, media sosial, dan dalam pergaulanmu.
 
-Tuhan tidak meminta kamu mengetahui semua jawabannya sekarang. Dia mengundangmu untuk mempercayai-Nya setiap hari. Ketika kamu menempatkan Tuhan sebagai pusat hidupmu, Dia akan menuntun setiap langkahmu sesuai dengan rencana-Nya yang terbaik.
+Terang tidak mengikuti kegelapan; terang mengubah suasana. Saat teman-temanmu memilih jalan yang salah, kamu dipanggil untuk tetap hidup dalam kebenaran. Saat orang lain menyebarkan kebencian, kamu bisa menyebarkan kasih. Saat banyak orang kehilangan harapan, kamu bisa menjadi pembawa pengharapan karena Kristus hidup di dalammu.
 
-Jangan hanya bertanya, "Apa yang aku inginkan?" Mulailah bertanya, "Tuhan, apa yang Engkau kehendaki?" Di situlah kamu akan menemukan damai dan arah yang benar.
+Jangan pernah berpikir bahwa usiamu terlalu muda untuk dipakai Tuhan. Mulailah menjadi terang melalui hal-hal sederhana: berkata jujur, mengampuni, menolong sesama, dan hidup sesuai Firman Tuhan.
 
 ## Doa
 
-Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Berikan hikmat dalam setiap keputusan yang kuambil, dan ajarku untuk selalu mengandalkan-Mu lebih daripada pengertianku sendiri. Amin.
+Tuhan Yesus, jadikan aku terang di mana pun Engkau menempatkanku. Tolong aku agar melalui perkataan, sikap, dan tindakanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
 
 ## Quotes
 
-*"The safest place for your future is in the hands of God."*
+*"The brightest light is a life that reflects Jesus every single day."*
 
 ---
 
 # Daily Devotion
 
-## Trust God with All Your Heart
+## Let Your Light Shine
 
 ## Verse
 
-> **"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight."**  
-> **Proverbs 3:5–6 (NIV)**
+> **"You are the light of the world. A city set on a hill cannot be hidden... Let your light so shine before men, that they may see your good works and glorify your Father in heaven."**  
+> **Matthew 5:14,16 (NKJV)**
 
 ## Reflection
 
-Life presents us with decisions that can feel overwhelming. Our natural tendency is to rely on our own understanding, experiences, or emotions. While wisdom is valuable, it has limits. God's wisdom, however, is perfect and eternal.
+Jesus did not say that we should become the light of the world—He declared that we already are. As His followers, we carry His light into places filled with darkness, fear, and hopelessness.
 
-Trusting God means surrendering our plans, expectations, and fears into His hands. It means believing that He sees what we cannot see and knows what we cannot know. Even when His direction is different from our own desires, we can be confident that His path is always the best one.
+Our light shines through everyday faithfulness: speaking truth with love, showing compassion, acting with integrity, and serving others with humility. These simple acts point people beyond us to Christ.
 
-Today, invite God into every decision you make. Seek His guidance through prayer and Scripture, and trust Him to lead you step by step. A surrendered heart will always find security in His faithful guidance.
+The world does not need more impressive Christians; it needs authentic disciples whose lives consistently reflect the character of Jesus. Every conversation, decision, and act of kindness is an opportunity to reveal His light.
+
+Today, ask yourself: Does my life make it easier for others to see Jesus? Let His light shine through you so that your Heavenly Father may be glorified.
 
 ## Prayer
 
-Heavenly Father, teach me to trust You with all my heart. Help me not to rely on my own understanding but to seek Your wisdom in every decision. Lead my steps, shape my heart, and help me walk faithfully in Your perfect will. In Jesus' name, Amen.
+Heavenly Father, thank You for calling me to be a light in this world. Fill my heart with Your love and let my words, actions, and attitudes reflect the character of Christ. Use my life to bring hope, truth, and encouragement to those around me. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"God's direction is always better than our best intentions when we place our complete trust in Him."*
+*"A life surrendered to Christ becomes a light that no darkness can overcome."*
 `;
 
 // ============================================
