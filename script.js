@@ -7,89 +7,87 @@
 // EMBEDDED TODAY DATA
 // ============================================
 const TODAY_MD = `---
-title: Menjadi Terang bagi Dunia
-date: 2026-08-01
-verse: Matius 5:14-16
+title: Damai Sejahtera yang Memelihara Hati
+date: 2026-08-02
+verse: Filipi 4:6-7
 ---
 
 # Embun Pagi
 
-## Hidup yang Memancarkan Terang Kristus
+## Menyerahkan Kekhawatiran kepada Tuhan
 
 ## Ayat
 
-_"Kamu adalah terang dunia. Kota yang terletak di atas gunung tidak mungkin tersembunyi. Demikianlah hendaknya terangmu bercahaya di depan orang, supaya mereka melihat perbuatanmu yang baik dan memuliakan Bapamu yang di sorga."_  
-**- Matius 5:14,16**
+_"Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur. Damai sejahtera Allah, yang melampaui segala akal, akan memelihara hati dan pikiranmu dalam Kristus Yesus."_  
+**- Filipi 4:6-7**
 
 ## Renungan
 
-Terang tidak perlu berusaha menarik perhatian. Ia cukup bersinar, dan kegelapan akan tersingkir. Demikian pula kehidupan seorang percaya. Tuhan tidak memanggil kita menjadi terkenal, tetapi menjadi terang.
+Kekhawatiran adalah beban yang sering kita pikul sendiri. Kita memikirkan hari esok, pekerjaan, keluarga, kesehatan, dan berbagai hal yang belum tentu terjadi. Semakin kita mencoba mengendalikan semuanya dengan kekuatan sendiri, semakin hati kita dipenuhi kegelisahan.
 
-Terang Kristus terpancar melalui perkataan yang membangun, tindakan yang penuh kasih, kejujuran dalam pekerjaan, kesabaran dalam menghadapi orang lain, dan kesetiaan dalam melakukan kehendak Tuhan. Dunia mungkin tidak membaca Alkitab, tetapi dunia sedang "membaca" kehidupan kita setiap hari.
+Firman Tuhan mengajarkan jalan yang berbeda. Tuhan tidak berkata bahwa kita tidak akan menghadapi persoalan, tetapi Dia mengundang kita untuk membawa setiap persoalan kepada-Nya dalam doa. Setiap kekhawatiran dapat ditukar dengan damai sejahtera-Nya.
 
-Menjadi terang bukan berarti hidup tanpa kesalahan, melainkan hidup yang terus bertobat dan semakin menyerupai Kristus. Ketika orang melihat kasih, damai, dan integritas dalam diri kita, mereka akan melihat pantulan karakter Kristus.
+Damai dari Tuhan bukan berarti semua masalah langsung selesai. Damai itu adalah ketenangan yang tetap tinggal di dalam hati, karena kita yakin Tuhan memegang kendali atas segala sesuatu. Ketika kita menyerahkan beban kepada-Nya, Dia memelihara hati dan pikiran kita agar tidak dikuasai oleh ketakutan.
 
-Hari ini, mintalah agar Tuhan memakai hidup Anda menjadi terang di mana pun Anda berada—di rumah, tempat kerja, sekolah, maupun di tengah masyarakat. Biarlah setiap langkah hidup kita membawa kemuliaan bagi nama-Nya.
+Hari ini, apa pun yang sedang mengganggu pikiran Anda, bawalah kepada Tuhan. Dia mendengar setiap doa, memahami setiap air mata, dan sanggup memberikan damai yang tidak dapat diberikan oleh dunia.
 
 ## Quotes
 
-*"Terang Kristus paling terang bersinar melalui kehidupan yang rendah hati, penuh kasih, dan taat kepada Tuhan."*
+*"Doa mengubah kekhawatiran menjadi ketenangan, karena di hadapan Tuhan tidak ada beban yang terlalu berat."*
 
 ---
 
 # Youth Devotion
 
-## Shine Where God Has Placed You
+## Pray Instead of Worry
 
 ## Ayat
 
-_"Kamu adalah terang dunia."_  
-**- Matius 5:14**
+_"Janganlah hendaknya kamu kuatir tentang apa pun juga..."_  
+**- Filipi 4:6**
 
 ## Renungan
 
-Menjadi anak muda Kristen bukan hanya soal datang ke gereja setiap minggu. Tuhan ingin hidupmu menjadi terang di sekolah, kampus, tempat kerja, media sosial, dan dalam pergaulanmu.
+Sebagai anak muda, ada banyak hal yang bisa membuatmu cemas: nilai, kuliah, pekerjaan, masa depan, hubungan dengan teman, atau tekanan dari media sosial. Tanpa disadari, kekhawatiran itu bisa menguras sukacita dan membuatmu kehilangan fokus.
 
-Terang tidak mengikuti kegelapan; terang mengubah suasana. Saat teman-temanmu memilih jalan yang salah, kamu dipanggil untuk tetap hidup dalam kebenaran. Saat orang lain menyebarkan kebencian, kamu bisa menyebarkan kasih. Saat banyak orang kehilangan harapan, kamu bisa menjadi pembawa pengharapan karena Kristus hidup di dalammu.
+Yesus mengajakmu untuk datang kepada-Nya, bukan hanya saat keadaan sudah buruk, tetapi setiap hari. Jadikan doa sebagai respons pertamamu, bukan pilihan terakhir.
 
-Jangan pernah berpikir bahwa usiamu terlalu muda untuk dipakai Tuhan. Mulailah menjadi terang melalui hal-hal sederhana: berkata jujur, mengampuni, menolong sesama, dan hidup sesuai Firman Tuhan.
+Saat kamu menyerahkan kekhawatiran kepada Tuhan, kamu sedang mengakui bahwa hidupmu ada di tangan-Nya. Dia sanggup membuka jalan, memberi hikmat, dan memeliharamu melewati setiap tantangan.
 
 ## Doa
 
-Tuhan Yesus, jadikan aku terang di mana pun Engkau menempatkanku. Tolong aku agar melalui perkataan, sikap, dan tindakanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
+Tuhan Yesus, aku menyerahkan semua kekhawatiran dan ketakutanku kepada-Mu. Penuhi hatiku dengan damai sejahtera-Mu dan ajarku untuk selalu percaya kepada-Mu dalam setiap keadaan. Amin.
 
 ## Quotes
 
-*"The brightest light is a life that reflects Jesus every single day."*
+*"The more you pray, the less worry controls your heart."*
 
 ---
 
 # Daily Devotion
 
-## Let Your Light Shine
+## God's Peace Guards Your Heart
 
 ## Verse
 
-> **"You are the light of the world. A city set on a hill cannot be hidden... Let your light so shine before men, that they may see your good works and glorify your Father in heaven."**  
-> **Matthew 5:14,16 (NKJV)**
+> **"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."**  
+> **Philippians 4:6–7 (NIV)**
 
 ## Reflection
 
-Jesus did not say that we should become the light of the world—He declared that we already are. As His followers, we carry His light into places filled with darkness, fear, and hopelessness.
+Anxiety often grows when we try to carry burdens that were never meant for us to bear. God does not ask us to pretend our problems do not exist; He invites us to bring every concern to Him in prayer.
 
-Our light shines through everyday faithfulness: speaking truth with love, showing compassion, acting with integrity, and serving others with humility. These simple acts point people beyond us to Christ.
+Prayer shifts our focus from the size of our problems to the greatness of our God. As we trust Him with thankful hearts, He responds with a peace that goes beyond human understanding. This peace does not always remove the storm, but it faithfully guards our hearts and minds while we walk through it.
 
-The world does not need more impressive Christians; it needs authentic disciples whose lives consistently reflect the character of Jesus. Every conversation, decision, and act of kindness is an opportunity to reveal His light.
-
-Today, ask yourself: Does my life make it easier for others to see Jesus? Let His light shine through you so that your Heavenly Father may be glorified.
+Whatever burden you are carrying today, place it into God's hands. His peace is stronger than your fears, His wisdom is greater than your confusion, and His love will never fail.
 
 ## Prayer
 
-Heavenly Father, thank You for calling me to be a light in this world. Fill my heart with Your love and let my words, actions, and attitudes reflect the character of Christ. Use my life to bring hope, truth, and encouragement to those around me. In Jesus' name, Amen.
+Heavenly Father, thank You for inviting me to bring every worry before You. Help me to replace anxiety with prayer and fear with faith. Fill my heart with Your perfect peace, guard my mind, and teach me to trust You completely each day. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"A life surrendered to Christ becomes a light that no darkness can overcome."*
+*"Peace is not found in having all the answers, but in trusting the One who does."*
 `;
 
 // ============================================
@@ -182,6 +180,95 @@ Heavenly Father, teach me to trust You with all my heart. Help me not to rely on
 ## Inspirational Quote
 
 *"God's direction is always better than our best intentions when we place our complete trust in Him."*`
+  },
+{
+    date: '2026-08-01',
+    title: 'Menjadi Terang bagi Dunia',
+    verse: 'Matius 5:14-16',
+    markdown: `---
+title: Menjadi Terang bagi Dunia
+date: 2026-08-01
+verse: Matius 5:14-16
+---
+
+# Embun Pagi
+
+## Hidup yang Memancarkan Terang Kristus
+
+## Ayat
+
+_"Kamu adalah terang dunia. Kota yang terletak di atas gunung tidak mungkin tersembunyi. Demikianlah hendaknya terangmu bercahaya di depan orang, supaya mereka melihat perbuatanmu yang baik dan memuliakan Bapamu yang di sorga."_  
+**- Matius 5:14,16**
+
+## Renungan
+
+Terang tidak perlu berusaha menarik perhatian. Ia cukup bersinar, dan kegelapan akan tersingkir. Demikian pula kehidupan seorang percaya. Tuhan tidak memanggil kita menjadi terkenal, tetapi menjadi terang.
+
+Terang Kristus terpancar melalui perkataan yang membangun, tindakan yang penuh kasih, kejujuran dalam pekerjaan, kesabaran dalam menghadapi orang lain, dan kesetiaan dalam melakukan kehendak Tuhan. Dunia mungkin tidak membaca Alkitab, tetapi dunia sedang "membaca" kehidupan kita setiap hari.
+
+Menjadi terang bukan berarti hidup tanpa kesalahan, melainkan hidup yang terus bertobat dan semakin menyerupai Kristus. Ketika orang melihat kasih, damai, dan integritas dalam diri kita, mereka akan melihat pantulan karakter Kristus.
+
+Hari ini, mintalah agar Tuhan memakai hidup Anda menjadi terang di mana pun Anda berada—di rumah, tempat kerja, sekolah, maupun di tengah masyarakat. Biarlah setiap langkah hidup kita membawa kemuliaan bagi nama-Nya.
+
+## Quotes
+
+*"Terang Kristus paling terang bersinar melalui kehidupan yang rendah hati, penuh kasih, dan taat kepada Tuhan."*
+
+---
+
+# Youth Devotion
+
+## Shine Where God Has Placed You
+
+## Ayat
+
+_"Kamu adalah terang dunia."_  
+**- Matius 5:14**
+
+## Renungan
+
+Menjadi anak muda Kristen bukan hanya soal datang ke gereja setiap minggu. Tuhan ingin hidupmu menjadi terang di sekolah, kampus, tempat kerja, media sosial, dan dalam pergaulanmu.
+
+Terang tidak mengikuti kegelapan; terang mengubah suasana. Saat teman-temanmu memilih jalan yang salah, kamu dipanggil untuk tetap hidup dalam kebenaran. Saat orang lain menyebarkan kebencian, kamu bisa menyebarkan kasih. Saat banyak orang kehilangan harapan, kamu bisa menjadi pembawa pengharapan karena Kristus hidup di dalammu.
+
+Jangan pernah berpikir bahwa usiamu terlalu muda untuk dipakai Tuhan. Mulailah menjadi terang melalui hal-hal sederhana: berkata jujur, mengampuni, menolong sesama, dan hidup sesuai Firman Tuhan.
+
+## Doa
+
+Tuhan Yesus, jadikan aku terang di mana pun Engkau menempatkanku. Tolong aku agar melalui perkataan, sikap, dan tindakanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
+
+## Quotes
+
+*"The brightest light is a life that reflects Jesus every single day."*
+
+---
+
+# Daily Devotion
+
+## Let Your Light Shine
+
+## Verse
+
+> **"You are the light of the world. A city set on a hill cannot be hidden... Let your light so shine before men, that they may see your good works and glorify your Father in heaven."**  
+> **Matthew 5:14,16 (NKJV)**
+
+## Reflection
+
+Jesus did not say that we should become the light of the world—He declared that we already are. As His followers, we carry His light into places filled with darkness, fear, and hopelessness.
+
+Our light shines through everyday faithfulness: speaking truth with love, showing compassion, acting with integrity, and serving others with humility. These simple acts point people beyond us to Christ.
+
+The world does not need more impressive Christians; it needs authentic disciples whose lives consistently reflect the character of Jesus. Every conversation, decision, and act of kindness is an opportunity to reveal His light.
+
+Today, ask yourself: Does my life make it easier for others to see Jesus? Let His light shine through you so that your Heavenly Father may be glorified.
+
+## Prayer
+
+Heavenly Father, thank You for calling me to be a light in this world. Fill my heart with Your love and let my words, actions, and attitudes reflect the character of Christ. Use my life to bring hope, truth, and encouragement to those around me. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"A life surrendered to Christ becomes a light that no darkness can overcome."*
   }
 ];
 
