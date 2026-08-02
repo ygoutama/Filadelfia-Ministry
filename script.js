@@ -181,7 +181,7 @@ Heavenly Father, teach me to trust You with all my heart. Help me not to rely on
 
 *"God's direction is always better than our best intentions when we place our complete trust in Him."*`
   },
-{
+  {
     date: '2026-08-01',
     title: 'Menjadi Terang bagi Dunia',
     verse: 'Matius 5:14-16',
@@ -268,7 +268,7 @@ Heavenly Father, thank You for calling me to be a light in this world. Fill my h
 
 ## Inspirational Quote
 
-*"A life surrendered to Christ becomes a light that no darkness can overcome."*
+*"A life surrendered to Christ becomes a light that no darkness can overcome."*`
   }
 ];
 
@@ -292,7 +292,6 @@ const mdParser = {
       .replace(/^## (.*$)/gim, '<h2>$1</h2>')
       .replace(/^# (.*$)/gim, '<h1>$1</h1>')
       .replace(/^> (.*$)/gim, '<blockquote>$1</blockquote>')
-      // FIX: ganti .* jadi .*? (non-greedy) supaya tidak "melahap" teks di antara dua bold/italic
       .replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>')
       .replace(/\*(.*?)\*/gim, '<i>$1</i>')
       .replace(/_(.*?)_/gim, '<i>$1</i>')
@@ -306,8 +305,6 @@ const mdParser = {
 // ============================================
 // UTILITY
 // ============================================
-
-// FIX: helper agar tanggal selalu lokal (tidak UTC), menghindari bug toISOString()
 function toISODateString(date) {
   const year = date.getFullYear();
   const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -329,19 +326,16 @@ function formatShortDate(dateStr) {
   } catch (e) { return dateStr; }
 }
 
-// FIX: pakai toISODateString(new Date()) agar mengikuti timezone lokal, bukan UTC
 function getTodayDateString() {
   return toISODateString(new Date());
 }
 
-// FIX: pakai toISODateString agar tidak salah tanggal karena UTC
 function getYesterdayDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() - 1);
   return toISODateString(date);
 }
 
-// FIX: pakai toISODateString agar tidak salah tanggal karena UTC
 function getTomorrowDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() + 1);
@@ -376,7 +370,6 @@ function parseFrontMatter(md) {
   return { frontMatter: fm, content: match[2] };
 }
 
-// FIX: tambahkan capturing group ( ) pada regex split supaya header tidak hilang
 function splitSections(content) {
   const sections = { embunPagi: '', youth: '', daily: '' };
   const parts = content.split(/(^#{1}\s+.+$)/m);
@@ -391,7 +384,6 @@ function splitSections(content) {
   return sections;
 }
 
-// FIX: wrapper aman untuk marked.parse — paksa sync & fallback ke mdParser kalau tetap Promise
 function safeParseMarkdown(text) {
   if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
     try {
@@ -411,27 +403,31 @@ function safeParseMarkdown(text) {
 // RENDER
 // ============================================
 function render(markdown) {
-  const { frontMatter, content } = parseFrontMatter(markdown);
-  state.currentDate = frontMatter.date || getTodayDateString();
+  try {
+    const { frontMatter, content } = parseFrontMatter(markdown);
+    state.currentDate = frontMatter.date || getTodayDateString();
 
-  const heroTitle = document.getElementById('hero-title');
-  const heroDate = document.getElementById('hero-date');
-  const heroVerse = document.getElementById('hero-verse');
-  const embun = document.getElementById('embun-pagi-content');
-  const youth = document.getElementById('youth-content');
-  const daily = document.getElementById('daily-content');
+    const heroTitle = document.getElementById('hero-title');
+    const heroDate = document.getElementById('hero-date');
+    const heroVerse = document.getElementById('hero-verse');
+    const embun = document.getElementById('embun-pagi-content');
+    const youth = document.getElementById('youth-content');
+    const daily = document.getElementById('daily-content');
 
-  if (heroTitle) heroTitle.textContent = frontMatter.title || 'Renungan Harian';
-  if (heroDate) heroDate.textContent = formatDate(state.currentDate);
-  if (heroVerse) heroVerse.textContent = frontMatter.verse || '';
+    if (heroTitle) heroTitle.textContent = frontMatter.title || 'Renungan Harian';
+    if (heroDate) heroDate.textContent = formatDate(state.currentDate);
+    if (heroVerse) heroVerse.textContent = frontMatter.verse || '';
 
-  const sections = splitSections(content);
+    const sections = splitSections(content);
 
-  if (embun) embun.innerHTML = sections.embunPagi ? safeParseMarkdown(sections.embunPagi) : '<p>Tidak ada konten.</p>';
-  if (youth) youth.innerHTML = sections.youth ? safeParseMarkdown(sections.youth) : '<p>Tidak ada konten.</p>';
-  if (daily) daily.innerHTML = sections.daily ? safeParseMarkdown(sections.daily) : '<p>Tidak ada konten.</p>';
+    if (embun) embun.innerHTML = sections.embunPagi ? safeParseMarkdown(sections.embunPagi) : '<p>Tidak ada konten.</p>';
+    if (youth) youth.innerHTML = sections.youth ? safeParseMarkdown(sections.youth) : '<p>Tidak ada konten.</p>';
+    if (daily) daily.innerHTML = sections.daily ? safeParseMarkdown(sections.daily) : '<p>Tidak ada konten.</p>';
 
-  updateNav();
+    updateNav();
+  } catch (err) {
+    console.error('Render error:', err);
+  }
 }
 
 function updateNav() {
@@ -459,29 +455,33 @@ function updateNav() {
 // LOAD BY DATE
 // ============================================
 function loadByDate(dateStr) {
-  const archived = ARCHIVE_DATA.find(a => a.date === dateStr);
-  if (archived) {
-    render(archived.markdown);
-    return;
-  }
-  if (dateStr === getTodayDateString()) {
-    render(TODAY_MD);
-    return;
-  }
-  const heroTitle = document.getElementById('hero-title');
-  const heroDate = document.getElementById('hero-date');
-  const embun = document.getElementById('embun-pagi-content');
-  const youth = document.getElementById('youth-content');
-  const daily = document.getElementById('daily-content');
+  try {
+    const archived = ARCHIVE_DATA.find(a => a.date === dateStr);
+    if (archived) {
+      render(archived.markdown);
+      return;
+    }
+    if (dateStr === getTodayDateString()) {
+      render(TODAY_MD);
+      return;
+    }
+    const heroTitle = document.getElementById('hero-title');
+    const heroDate = document.getElementById('hero-date');
+    const embun = document.getElementById('embun-pagi-content');
+    const youth = document.getElementById('youth-content');
+    const daily = document.getElementById('daily-content');
 
-  if (heroTitle) heroTitle.textContent = 'Renungan Tidak Ditemukan';
-  if (heroDate) heroDate.textContent = formatDate(dateStr);
-  if (embun) embun.innerHTML = '<p>Renungan untuk tanggal ini belum tersedia.</p>';
-  if (youth) youth.innerHTML = '';
-  if (daily) daily.innerHTML = '';
+    if (heroTitle) heroTitle.textContent = 'Renungan Tidak Ditemukan';
+    if (heroDate) heroDate.textContent = formatDate(dateStr);
+    if (embun) embun.innerHTML = '<p>Renungan untuk tanggal ini belum tersedia.</p>';
+    if (youth) youth.innerHTML = '';
+    if (daily) daily.innerHTML = '';
 
-  state.currentDate = dateStr;
-  updateNav();
+    state.currentDate = dateStr;
+    updateNav();
+  } catch (err) {
+    console.error('LoadByDate error:', err);
+  }
 }
 
 // ============================================
@@ -523,62 +523,80 @@ function loadArchive() {
 // PAGE NAV
 // ============================================
 function showPage(name) {
-  state.currentPage = name;
-  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-  const page = document.getElementById('page-' + name);
-  if (page) page.classList.add('active');
-  document.querySelectorAll('.nav-link').forEach(l => l.classList.toggle('active', l.dataset.page === name));
-  const mobileMenu = document.getElementById('mobile-menu');
-  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-  if (mobileMenu) mobileMenu.classList.remove('active');
-  if (mobileMenuBtn) mobileMenuBtn.classList.remove('active');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-  if (name === 'archive') loadArchive();
+  try {
+    state.currentPage = name;
+    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+    const page = document.getElementById('page-' + name);
+    if (page) page.classList.add('active');
+    document.querySelectorAll('.nav-link').forEach(l => l.classList.toggle('active', l.dataset.page === name));
+    const mobileMenu = document.getElementById('mobile-menu');
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    if (mobileMenu) mobileMenu.classList.remove('active');
+    if (mobileMenuBtn) mobileMenuBtn.classList.remove('active');
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+    if (name === 'archive') loadArchive();
+  } catch (err) {
+    console.error('ShowPage error:', err);
+  }
 }
 
 // ============================================
 // THEME
 // ============================================
 function initTheme() {
-  const saved = localStorage.getItem('theme');
-  const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  if (saved === 'dark' || (!saved && dark)) {
-    document.documentElement.setAttribute('data-theme', 'dark');
-    state.isDark = true;
+  try {
+    const saved = localStorage.getItem('theme');
+    const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+    if (saved === 'dark' || (!saved && dark)) {
+      document.documentElement.setAttribute('data-theme', 'dark');
+      state.isDark = true;
+    }
+  } catch (err) {
+    console.error('InitTheme error:', err);
   }
 }
 
 function toggleTheme() {
-  state.isDark = !state.isDark;
-  document.documentElement.setAttribute('data-theme', state.isDark ? 'dark' : 'light');
-  localStorage.setItem('theme', state.isDark ? 'dark' : 'light');
+  try {
+    state.isDark = !state.isDark;
+    document.documentElement.setAttribute('data-theme', state.isDark ? 'dark' : 'light');
+    localStorage.setItem('theme', state.isDark ? 'dark' : 'light');
+  } catch (err) {
+    console.error('ToggleTheme error:', err);
+  }
 }
 
 // ============================================
 // INIT
 // ============================================
 document.addEventListener('DOMContentLoaded', function() {
-  const footerYear = document.getElementById('footer-year');
-  if (footerYear) footerYear.textContent = new Date().getFullYear();
+  try {
+    const footerYear = document.getElementById('footer-year');
+    if (footerYear) footerYear.textContent = new Date().getFullYear();
 
-  initTheme();
+    initTheme();
 
-  const themeToggle = document.getElementById('theme-toggle');
-  if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
+    const themeToggle = document.getElementById('theme-toggle');
+    if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
 
-  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-  if (mobileMenuBtn) {
-    mobileMenuBtn.addEventListener('click', () => {
-      const mobileMenu = document.getElementById('mobile-menu');
-      if (mobileMenu) mobileMenu.classList.toggle('active');
-      mobileMenuBtn.classList.toggle('active');
-    });
+    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+    if (mobileMenuBtn) {
+      mobileMenuBtn.addEventListener('click', () => {
+        const mobileMenu = document.getElementById('mobile-menu');
+        if (mobileMenu) mobileMenu.classList.toggle('active');
+        mobileMenuBtn.classList.toggle('active');
+      });
+    }
+
+    const backToTop = document.getElementById('back-to-top');
+    if (backToTop) {
+      backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+    }
+
+    // PENTING: Pastikan page 'today' aktif saat init
+    showPage('today');
+    render(TODAY_MD);
+  } catch (err) {
+    console.error('Init error:', err);
   }
-
-  const backToTop = document.getElementById('back-to-top');
-  if (backToTop) {
-    backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-  }
-
-  render(TODAY_MD);
 });
