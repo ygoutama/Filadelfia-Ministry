@@ -292,9 +292,10 @@ const mdParser = {
       .replace(/^## (.*$)/gim, '<h2>$1</h2>')
       .replace(/^# (.*$)/gim, '<h1>$1</h1>')
       .replace(/^> (.*$)/gim, '<blockquote>$1</blockquote>')
-      .replace(/\*\*(.*)\*\*/gim, '<b>$1</b>')
-      .replace(/\*(.*)\*/gim, '<i>$1</i>')
-      .replace(/_(.*)_/gim, '<i>$1</i>')
+      // FIX: ganti .* jadi .*? (non-greedy) supaya tidak "melahap" teks di antara dua bold/italic
+      .replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>')
+      .replace(/\*(.*?)\*/gim, '<i>$1</i>')
+      .replace(/_(.*?)_/gim, '<i>$1</i>')
       .replace(/!\[(.*?)\]\((.*?)\)/gim, '<img alt="$1" src="$2" />')
       .replace(/\[(.*?)\]\((.*?)\)/gim, '<a href="$2">$1</a>')
       .replace(/\n/gim, '<br>');
@@ -305,6 +306,15 @@ const mdParser = {
 // ============================================
 // UTILITY
 // ============================================
+
+// FIX: helper agar tanggal selalu lokal (tidak UTC), menghindari bug toISOString()
+function toISODateString(date) {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, '0');
+  const day = String(date.getDate()).padStart(2, '0');
+  return `${year}-${month}-${day}`;
+}
+
 function formatDate(dateStr) {
   try {
     const date = new Date(dateStr + 'T00:00:00');
@@ -319,20 +329,23 @@ function formatShortDate(dateStr) {
   } catch (e) { return dateStr; }
 }
 
+// FIX: pakai toISODateString(new Date()) agar mengikuti timezone lokal, bukan UTC
 function getTodayDateString() {
-  return new Date().toISOString().split('T')[0];
+  return toISODateString(new Date());
 }
 
+// FIX: pakai toISODateString agar tidak salah tanggal karena UTC
 function getYesterdayDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() - 1);
-  return date.toISOString().split('T')[0];
+  return toISODateString(date);
 }
 
+// FIX: pakai toISODateString agar tidak salah tanggal karena UTC
 function getTomorrowDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() + 1);
-  return date.toISOString().split('T')[0];
+  return toISODateString(date);
 }
 
 function escapeHtml(text) {
@@ -363,9 +376,10 @@ function parseFrontMatter(md) {
   return { frontMatter: fm, content: match[2] };
 }
 
+// FIX: tambahkan capturing group ( ) pada regex split supaya header tidak hilang
 function splitSections(content) {
   const sections = { embunPagi: '', youth: '', daily: '' };
-  const parts = content.split(/^(#{1}\s+.+)$/gm);
+  const parts = content.split(/(^#{1}\s+.+$)/m);
   for (let i = 1; i < parts.length; i += 2) {
     const h = parts[i].replace(/^#\s*/, '').trim().toLowerCase();
     const body = parts[i + 1] || '';
@@ -375,6 +389,22 @@ function splitSections(content) {
     else if (h.includes('daily')) sections.daily = full;
   }
   return sections;
+}
+
+// FIX: wrapper aman untuk marked.parse — paksa sync & fallback ke mdParser kalau tetap Promise
+function safeParseMarkdown(text) {
+  if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
+    try {
+      const result = marked.parse(text, { async: false });
+      if (result && typeof result.then === 'function') {
+        return mdParser.parse(text);
+      }
+      return result;
+    } catch (e) {
+      return mdParser.parse(text);
+    }
+  }
+  return mdParser.parse(text);
 }
 
 // ============================================
@@ -396,11 +426,10 @@ function render(markdown) {
   if (heroVerse) heroVerse.textContent = frontMatter.verse || '';
 
   const sections = splitSections(content);
-  const parser = (typeof marked !== 'undefined' && marked.parse) ? marked : mdParser;
 
-  if (embun) embun.innerHTML = sections.embunPagi ? parser.parse(sections.embunPagi) : '<p>Tidak ada konten.</p>';
-  if (youth) youth.innerHTML = sections.youth ? parser.parse(sections.youth) : '<p>Tidak ada konten.</p>';
-  if (daily) daily.innerHTML = sections.daily ? parser.parse(sections.daily) : '<p>Tidak ada konten.</p>';
+  if (embun) embun.innerHTML = sections.embunPagi ? safeParseMarkdown(sections.embunPagi) : '<p>Tidak ada konten.</p>';
+  if (youth) youth.innerHTML = sections.youth ? safeParseMarkdown(sections.youth) : '<p>Tidak ada konten.</p>';
+  if (daily) daily.innerHTML = sections.daily ? safeParseMarkdown(sections.daily) : '<p>Tidak ada konten.</p>';
 
   updateNav();
 }
