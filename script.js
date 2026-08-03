@@ -4,90 +4,92 @@
    ============================================ */
 
 // ============================================
-// EMBEDDED TODAY DATA
+// EMBEDDED TODAY DATA  (3 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Damai Sejahtera yang Memelihara Hati
-date: 2026-08-02
-verse: Filipi 4:6-7
+title: Kasih yang Mengubahkan
+date: 2026-08-03
+verse: 1 Yohanes 4:19
 ---
 
 # Embun Pagi
 
-## Menyerahkan Kekhawatiran kepada Tuhan
+## Mengasihi karena Terlebih Dahulu Dikasihi
 
 ## Ayat
 
-_"Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur. Damai sejahtera Allah, yang melampaui segala akal, akan memelihara hati dan pikiranmu dalam Kristus Yesus."_  
-**- Filipi 4:6-7**
+_"Kita mengasihi, karena Allah lebih dahulu mengasihi kita."_  
+**- 1 Yohanes 4:19**
 
 ## Renungan
 
-Kekhawatiran adalah beban yang sering kita pikul sendiri. Kita memikirkan hari esok, pekerjaan, keluarga, kesehatan, dan berbagai hal yang belum tentu terjadi. Semakin kita mencoba mengendalikan semuanya dengan kekuatan sendiri, semakin hati kita dipenuhi kegelisahan.
+Kasih adalah inti dari kehidupan orang percaya. Namun kasih yang sejati bukanlah sesuatu yang dapat kita hasilkan dengan kekuatan sendiri. Kasih yang sejati mengalir dari hati yang telah mengalami kasih Allah.
 
-Firman Tuhan mengajarkan jalan yang berbeda. Tuhan tidak berkata bahwa kita tidak akan menghadapi persoalan, tetapi Dia mengundang kita untuk membawa setiap persoalan kepada-Nya dalam doa. Setiap kekhawatiran dapat ditukar dengan damai sejahtera-Nya.
+Ketika kita menyadari betapa besar kasih Kristus melalui pengorbanan-Nya di kayu salib, hati kita diubahkan. Kita belajar mengampuni orang yang menyakiti kita, mengasihi mereka yang sulit dikasihi, dan melayani tanpa mengharapkan balasan.
 
-Damai dari Tuhan bukan berarti semua masalah langsung selesai. Damai itu adalah ketenangan yang tetap tinggal di dalam hati, karena kita yakin Tuhan memegang kendali atas segala sesuatu. Ketika kita menyerahkan beban kepada-Nya, Dia memelihara hati dan pikiran kita agar tidak dikuasai oleh ketakutan.
+Dunia sering mengajarkan untuk mengasihi orang yang baik kepada kita. Tetapi Yesus mengajarkan kasih yang melampaui batas itu. Kasih yang tetap memilih mengampuni, tetap memilih berbuat baik, dan tetap memilih menjadi berkat.
 
-Hari ini, apa pun yang sedang mengganggu pikiran Anda, bawalah kepada Tuhan. Dia mendengar setiap doa, memahami setiap air mata, dan sanggup memberikan damai yang tidak dapat diberikan oleh dunia.
+Hari ini, biarlah kasih Kristus memenuhi hati Anda. Jadikan setiap perkataan, tindakan, dan keputusan sebagai cerminan kasih-Nya. Sebab ketika kasih Kristus terpancar melalui hidup kita, dunia dapat melihat siapa Dia.
 
 ## Quotes
 
-*"Doa mengubah kekhawatiran menjadi ketenangan, karena di hadapan Tuhan tidak ada beban yang terlalu berat."*
+*"Kasih Kristus tidak berhenti pada hati yang menerimanya, tetapi mengalir melalui hidup yang membagikannya."*
 
 ---
 
 # Youth Devotion
 
-## Pray Instead of Worry
+## Love Like Jesus
 
 ## Ayat
 
-_"Janganlah hendaknya kamu kuatir tentang apa pun juga..."_  
-**- Filipi 4:6**
+_"Kita mengasihi, karena Allah lebih dahulu mengasihi kita."_  
+**- 1 Yohanes 4:19**
 
 ## Renungan
 
-Sebagai anak muda, ada banyak hal yang bisa membuatmu cemas: nilai, kuliah, pekerjaan, masa depan, hubungan dengan teman, atau tekanan dari media sosial. Tanpa disadari, kekhawatiran itu bisa menguras sukacita dan membuatmu kehilangan fokus.
+Mengasihi orang lain memang tidak selalu mudah. Ada teman yang mengecewakan, orang yang salah paham, atau seseorang yang memperlakukanmu dengan tidak baik. Reaksi pertama kita mungkin ingin membalas atau menjauh.
 
-Yesus mengajakmu untuk datang kepada-Nya, bukan hanya saat keadaan sudah buruk, tetapi setiap hari. Jadikan doa sebagai respons pertamamu, bukan pilihan terakhir.
+Namun Yesus menunjukkan cara yang berbeda. Dia mengasihi kita bahkan ketika kita masih berdosa. Kasih-Nya tidak bergantung pada apakah kita layak atau tidak.
 
-Saat kamu menyerahkan kekhawatiran kepada Tuhan, kamu sedang mengakui bahwa hidupmu ada di tangan-Nya. Dia sanggup membuka jalan, memberi hikmat, dan memeliharamu melewati setiap tantangan.
+Sebagai pengikut Kristus, kita dipanggil untuk menunjukkan kasih yang sama. Mulailah dari hal-hal sederhana: mengampuni, mendengarkan, membantu teman yang membutuhkan, dan memperlakukan semua orang dengan hormat.
+
+Kasih seperti inilah yang akan membuat orang lain melihat Yesus melalui hidupmu.
 
 ## Doa
 
-Tuhan Yesus, aku menyerahkan semua kekhawatiran dan ketakutanku kepada-Mu. Penuhi hatiku dengan damai sejahtera-Mu dan ajarku untuk selalu percaya kepada-Mu dalam setiap keadaan. Amin.
+Tuhan Yesus, terima kasih karena Engkau telah lebih dahulu mengasihiku. Tolong aku agar mampu mengasihi orang lain seperti Engkau mengasihiku. Jadikan hidupku saluran kasih-Mu setiap hari. Amin.
 
 ## Quotes
 
-*"The more you pray, the less worry controls your heart."*
+*"The world sees Jesus when His love is seen through you."*
 
 ---
 
 # Daily Devotion
 
-## God's Peace Guards Your Heart
+## Loved First, Love Others
 
 ## Verse
 
-> **"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."**  
-> **Philippians 4:6–7 (NIV)**
+> **"We love because He first loved us."**  
+> **1 John 4:19 (NIV)**
 
 ## Reflection
 
-Anxiety often grows when we try to carry burdens that were never meant for us to bear. God does not ask us to pretend our problems do not exist; He invites us to bring every concern to Him in prayer.
+The foundation of the Christian life is not our love for God, but God's love for us. Before we ever sought Him, He reached out to us through Jesus Christ. His love was never based on our worthiness but on His perfect grace.
 
-Prayer shifts our focus from the size of our problems to the greatness of our God. As we trust Him with thankful hearts, He responds with a peace that goes beyond human understanding. This peace does not always remove the storm, but it faithfully guards our hearts and minds while we walk through it.
+When we truly understand how deeply we are loved by God, our hearts begin to change. We become more willing to forgive, more patient with others, and more compassionate toward those in need. His love becomes the source of our love.
 
-Whatever burden you are carrying today, place it into God's hands. His peace is stronger than your fears, His wisdom is greater than your confusion, and His love will never fail.
+Today, remember that you are deeply loved by your Heavenly Father. Let His love fill your heart so completely that it naturally overflows into every relationship, every conversation, and every act of kindness.
 
 ## Prayer
 
-Heavenly Father, thank You for inviting me to bring every worry before You. Help me to replace anxiety with prayer and fear with faith. Fill my heart with Your perfect peace, guard my mind, and teach me to trust You completely each day. In Jesus' name, Amen.
+Heavenly Father, thank You for loving me first and loving me unconditionally. Fill my heart with Your love so that I may reflect Christ in the way I speak, forgive, and serve others. Help me become a living testimony of Your grace each day. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"Peace is not found in having all the answers, but in trusting the One who does."*
+*"The greatest evidence of God's love in us is our willingness to love others like Christ."*
 `;
 
 // ============================================
@@ -269,6 +271,93 @@ Heavenly Father, thank You for calling me to be a light in this world. Fill my h
 ## Inspirational Quote
 
 *"A life surrendered to Christ becomes a light that no darkness can overcome."*`
+  },
+  {
+    date: '2026-08-02',
+    title: 'Damai Sejahtera yang Memelihara Hati',
+    verse: 'Filipi 4:6-7',
+    markdown: `---
+title: Damai Sejahtera yang Memelihara Hati
+date: 2026-08-02
+verse: Filipi 4:6-7
+---
+
+# Embun Pagi
+
+## Menyerahkan Kekhawatiran kepada Tuhan
+
+## Ayat
+
+_"Janganlah hendaknya kamu kuatir tentang apa pun juga, tetapi nyatakanlah dalam segala hal keinginanmu kepada Allah dalam doa dan permohonan dengan ucapan syukur. Damai sejahtera Allah, yang melampaui segala akal, akan memelihara hati dan pikiranmu dalam Kristus Yesus."_  
+**- Filipi 4:6-7**
+
+## Renungan
+
+Kekhawatiran adalah beban yang sering kita pikul sendiri. Kita memikirkan hari esok, pekerjaan, keluarga, kesehatan, dan berbagai hal yang belum tentu terjadi. Semakin kita mencoba mengendalikan semuanya dengan kekuatan sendiri, semakin hati kita dipenuhi kegelisahan.
+
+Firman Tuhan mengajarkan jalan yang berbeda. Tuhan tidak berkata bahwa kita tidak akan menghadapi persoalan, tetapi Dia mengundang kita untuk membawa setiap persoalan kepada-Nya dalam doa. Setiap kekhawatiran dapat ditukar dengan damai sejahtera-Nya.
+
+Damai dari Tuhan bukan berarti semua masalah langsung selesai. Damai itu adalah ketenangan yang tetap tinggal di dalam hati, karena kita yakin Tuhan memegang kendali atas segala sesuatu. Ketika kita menyerahkan beban kepada-Nya, Dia memelihara hati dan pikiran kita agar tidak dikuasai oleh ketakutan.
+
+Hari ini, apa pun yang sedang mengganggu pikiran Anda, bawalah kepada Tuhan. Dia mendengar setiap doa, memahami setiap air mata, dan sanggup memberikan damai yang tidak dapat diberikan oleh dunia.
+
+## Quotes
+
+*"Doa mengubah kekhawatiran menjadi ketenangan, karena di hadapan Tuhan tidak ada beban yang terlalu berat."*
+
+---
+
+# Youth Devotion
+
+## Pray Instead of Worry
+
+## Ayat
+
+_"Janganlah hendaknya kamu kuatir tentang apa pun juga..."_  
+**- Filipi 4:6**
+
+## Renungan
+
+Sebagai anak muda, ada banyak hal yang bisa membuatmu cemas: nilai, kuliah, pekerjaan, masa depan, hubungan dengan teman, atau tekanan dari media sosial. Tanpa disadari, kekhawatiran itu bisa menguras sukacita dan membuatmu kehilangan fokus.
+
+Yesus mengajakmu untuk datang kepada-Nya, bukan hanya saat keadaan sudah buruk, tetapi setiap hari. Jadikan doa sebagai respons pertamamu, bukan pilihan terakhir.
+
+Saat kamu menyerahkan kekhawatiran kepada Tuhan, kamu sedang mengakui bahwa hidupmu ada di tangan-Nya. Dia sanggup membuka jalan, memberi hikmat, dan memeliharamu melewati setiap tantangan.
+
+## Doa
+
+Tuhan Yesus, aku menyerahkan semua kekhawatiran dan ketakutanku kepada-Mu. Penuhi hatiku dengan damai sejahtera-Mu dan ajarku untuk selalu percaya kepada-Mu dalam setiap keadaan. Amin.
+
+## Quotes
+
+*"The more you pray, the less worry controls your heart."*
+
+---
+
+# Daily Devotion
+
+## God's Peace Guards Your Heart
+
+## Verse
+
+> **"Do not be anxious about anything, but in every situation, by prayer and petition, with thanksgiving, present your requests to God. And the peace of God, which transcends all understanding, will guard your hearts and your minds in Christ Jesus."**  
+> **Philippians 4:6–7 (NIV)**
+
+## Reflection
+
+Anxiety often grows when we try to carry burdens that were never meant for us to bear. God does not ask us to pretend our problems do not exist; He invites us to bring every concern to Him in prayer.
+
+Prayer shifts our focus from the size of our problems to the greatness of our God. As we trust Him with thankful hearts, He responds with a peace that goes beyond human understanding. This peace does not always remove the storm, but it faithfully guards our hearts and minds while we walk through it.
+
+Whatever burden you are carrying today, place it into God's hands. His peace is stronger than your fears, His wisdom is greater than your confusion, and His love will never fail.
+
+## Prayer
+
+Heavenly Father, thank You for inviting me to bring every worry before You. Help me to replace anxiety with prayer and fear with faith. Fill my heart with Your perfect peace, guard my mind, and teach me to trust You completely each day. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"Peace is not found in having all the answers, but in trusting the One who does."*`
   }
 ];
 
@@ -292,6 +381,7 @@ const mdParser = {
       .replace(/^## (.*$)/gim, '<h2>$1</h2>')
       .replace(/^# (.*$)/gim, '<h1>$1</h1>')
       .replace(/^> (.*$)/gim, '<blockquote>$1</blockquote>')
+      // FIX: non-greedy supaya tidak melahap teks di antara dua bold/italic
       .replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>')
       .replace(/\*(.*?)\*/gim, '<i>$1</i>')
       .replace(/_(.*?)_/gim, '<i>$1</i>')
@@ -305,11 +395,12 @@ const mdParser = {
 // ============================================
 // UTILITY
 // ============================================
-function toISODateString(date) {
-  const year = date.getFullYear();
-  const month = String(date.getMonth() + 1).padStart(2, '0');
-  const day = String(date.getDate()).padStart(2, '0');
-  return `${year}-${month}-${day}`;
+
+// FIX: helper agar tanggal mengikuti timezone lokal (bukan UTC)
+function toLocalISODateString(date) {
+  const d = new Date(date);
+  d.setMinutes(d.getMinutes() - d.getTimezoneOffset());
+  return d.toISOString().split('T')[0];
 }
 
 function formatDate(dateStr) {
@@ -326,20 +417,23 @@ function formatShortDate(dateStr) {
   } catch (e) { return dateStr; }
 }
 
+// FIX: pakai toLocalISODateString agar sesuai timezone lokal
 function getTodayDateString() {
-  return toISODateString(new Date());
+  return toLocalISODateString(new Date());
 }
 
+// FIX: pakai toLocalISODateString agar tidak salah tanggal
 function getYesterdayDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() - 1);
-  return toISODateString(date);
+  return toLocalISODateString(date);
 }
 
+// FIX: pakai toLocalISODateString agar tidak salah tanggal
 function getTomorrowDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() + 1);
-  return toISODateString(date);
+  return toLocalISODateString(date);
 }
 
 function escapeHtml(text) {
@@ -370,6 +464,7 @@ function parseFrontMatter(md) {
   return { frontMatter: fm, content: match[2] };
 }
 
+// FIX: tambahkan capturing group ( ) pada regex split supaya header tidak hilang
 function splitSections(content) {
   const sections = { embunPagi: '', youth: '', daily: '' };
   const parts = content.split(/(^#{1}\s+.+$)/m);
@@ -384,6 +479,7 @@ function splitSections(content) {
   return sections;
 }
 
+// FIX: wrapper aman untuk marked.parse — paksa sync & fallback ke mdParser kalau tetap Promise
 function safeParseMarkdown(text) {
   if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
     try {
@@ -403,31 +499,27 @@ function safeParseMarkdown(text) {
 // RENDER
 // ============================================
 function render(markdown) {
-  try {
-    const { frontMatter, content } = parseFrontMatter(markdown);
-    state.currentDate = frontMatter.date || getTodayDateString();
+  const { frontMatter, content } = parseFrontMatter(markdown);
+  state.currentDate = frontMatter.date || getTodayDateString();
 
-    const heroTitle = document.getElementById('hero-title');
-    const heroDate = document.getElementById('hero-date');
-    const heroVerse = document.getElementById('hero-verse');
-    const embun = document.getElementById('embun-pagi-content');
-    const youth = document.getElementById('youth-content');
-    const daily = document.getElementById('daily-content');
+  const heroTitle = document.getElementById('hero-title');
+  const heroDate = document.getElementById('hero-date');
+  const heroVerse = document.getElementById('hero-verse');
+  const embun = document.getElementById('embun-pagi-content');
+  const youth = document.getElementById('youth-content');
+  const daily = document.getElementById('daily-content');
 
-    if (heroTitle) heroTitle.textContent = frontMatter.title || 'Renungan Harian';
-    if (heroDate) heroDate.textContent = formatDate(state.currentDate);
-    if (heroVerse) heroVerse.textContent = frontMatter.verse || '';
+  if (heroTitle) heroTitle.textContent = frontMatter.title || 'Renungan Harian';
+  if (heroDate) heroDate.textContent = formatDate(state.currentDate);
+  if (heroVerse) heroVerse.textContent = frontMatter.verse || '';
 
-    const sections = splitSections(content);
+  const sections = splitSections(content);
 
-    if (embun) embun.innerHTML = sections.embunPagi ? safeParseMarkdown(sections.embunPagi) : '<p>Tidak ada konten.</p>';
-    if (youth) youth.innerHTML = sections.youth ? safeParseMarkdown(sections.youth) : '<p>Tidak ada konten.</p>';
-    if (daily) daily.innerHTML = sections.daily ? safeParseMarkdown(sections.daily) : '<p>Tidak ada konten.</p>';
+  if (embun) embun.innerHTML = sections.embunPagi ? safeParseMarkdown(sections.embunPagi) : '<p>Tidak ada konten.</p>';
+  if (youth) youth.innerHTML = sections.youth ? safeParseMarkdown(sections.youth) : '<p>Tidak ada konten.</p>';
+  if (daily) daily.innerHTML = sections.daily ? safeParseMarkdown(sections.daily) : '<p>Tidak ada konten.</p>';
 
-    updateNav();
-  } catch (err) {
-    console.error('Render error:', err);
-  }
+  updateNav();
 }
 
 function updateNav() {
@@ -455,33 +547,29 @@ function updateNav() {
 // LOAD BY DATE
 // ============================================
 function loadByDate(dateStr) {
-  try {
-    const archived = ARCHIVE_DATA.find(a => a.date === dateStr);
-    if (archived) {
-      render(archived.markdown);
-      return;
-    }
-    if (dateStr === getTodayDateString()) {
-      render(TODAY_MD);
-      return;
-    }
-    const heroTitle = document.getElementById('hero-title');
-    const heroDate = document.getElementById('hero-date');
-    const embun = document.getElementById('embun-pagi-content');
-    const youth = document.getElementById('youth-content');
-    const daily = document.getElementById('daily-content');
-
-    if (heroTitle) heroTitle.textContent = 'Renungan Tidak Ditemukan';
-    if (heroDate) heroDate.textContent = formatDate(dateStr);
-    if (embun) embun.innerHTML = '<p>Renungan untuk tanggal ini belum tersedia.</p>';
-    if (youth) youth.innerHTML = '';
-    if (daily) daily.innerHTML = '';
-
-    state.currentDate = dateStr;
-    updateNav();
-  } catch (err) {
-    console.error('LoadByDate error:', err);
+  const archived = ARCHIVE_DATA.find(a => a.date === dateStr);
+  if (archived) {
+    render(archived.markdown);
+    return;
   }
+  if (dateStr === getTodayDateString()) {
+    render(TODAY_MD);
+    return;
+  }
+  const heroTitle = document.getElementById('hero-title');
+  const heroDate = document.getElementById('hero-date');
+  const embun = document.getElementById('embun-pagi-content');
+  const youth = document.getElementById('youth-content');
+  const daily = document.getElementById('daily-content');
+
+  if (heroTitle) heroTitle.textContent = 'Renungan Tidak Ditemukan';
+  if (heroDate) heroDate.textContent = formatDate(dateStr);
+  if (embun) embun.innerHTML = '<p>Renungan untuk tanggal ini belum tersedia.</p>';
+  if (youth) youth.innerHTML = '';
+  if (daily) daily.innerHTML = '';
+
+  state.currentDate = dateStr;
+  updateNav();
 }
 
 // ============================================
@@ -523,80 +611,62 @@ function loadArchive() {
 // PAGE NAV
 // ============================================
 function showPage(name) {
-  try {
-    state.currentPage = name;
-    document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-    const page = document.getElementById('page-' + name);
-    if (page) page.classList.add('active');
-    document.querySelectorAll('.nav-link').forEach(l => l.classList.toggle('active', l.dataset.page === name));
-    const mobileMenu = document.getElementById('mobile-menu');
-    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-    if (mobileMenu) mobileMenu.classList.remove('active');
-    if (mobileMenuBtn) mobileMenuBtn.classList.remove('active');
-    window.scrollTo({ top: 0, behavior: 'smooth' });
-    if (name === 'archive') loadArchive();
-  } catch (err) {
-    console.error('ShowPage error:', err);
-  }
+  state.currentPage = name;
+  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
+  const page = document.getElementById('page-' + name);
+  if (page) page.classList.add('active');
+  document.querySelectorAll('.nav-link').forEach(l => l.classList.toggle('active', l.dataset.page === name));
+  const mobileMenu = document.getElementById('mobile-menu');
+  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  if (mobileMenu) mobileMenu.classList.remove('active');
+  if (mobileMenuBtn) mobileMenuBtn.classList.remove('active');
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+  if (name === 'archive') loadArchive();
 }
 
 // ============================================
 // THEME
 // ============================================
 function initTheme() {
-  try {
-    const saved = localStorage.getItem('theme');
-    const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-    if (saved === 'dark' || (!saved && dark)) {
-      document.documentElement.setAttribute('data-theme', 'dark');
-      state.isDark = true;
-    }
-  } catch (err) {
-    console.error('InitTheme error:', err);
+  const saved = localStorage.getItem('theme');
+  const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
+  if (saved === 'dark' || (!saved && dark)) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    state.isDark = true;
   }
 }
 
 function toggleTheme() {
-  try {
-    state.isDark = !state.isDark;
-    document.documentElement.setAttribute('data-theme', state.isDark ? 'dark' : 'light');
-    localStorage.setItem('theme', state.isDark ? 'dark' : 'light');
-  } catch (err) {
-    console.error('ToggleTheme error:', err);
-  }
+  state.isDark = !state.isDark;
+  document.documentElement.setAttribute('data-theme', state.isDark ? 'dark' : 'light');
+  localStorage.setItem('theme', state.isDark ? 'dark' : 'light');
 }
 
 // ============================================
 // INIT
 // ============================================
 document.addEventListener('DOMContentLoaded', function() {
-  try {
-    const footerYear = document.getElementById('footer-year');
-    if (footerYear) footerYear.textContent = new Date().getFullYear();
+  const footerYear = document.getElementById('footer-year');
+  if (footerYear) footerYear.textContent = new Date().getFullYear();
 
-    initTheme();
+  initTheme();
 
-    const themeToggle = document.getElementById('theme-toggle');
-    if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
+  const themeToggle = document.getElementById('theme-toggle');
+  if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
 
-    const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-    if (mobileMenuBtn) {
-      mobileMenuBtn.addEventListener('click', () => {
-        const mobileMenu = document.getElementById('mobile-menu');
-        if (mobileMenu) mobileMenu.classList.toggle('active');
-        mobileMenuBtn.classList.toggle('active');
-      });
-    }
-
-    const backToTop = document.getElementById('back-to-top');
-    if (backToTop) {
-      backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-    }
-
-    // PENTING: Pastikan page 'today' aktif saat init
-    showPage('today');
-    render(TODAY_MD);
-  } catch (err) {
-    console.error('Init error:', err);
+  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
+  if (mobileMenuBtn) {
+    mobileMenuBtn.addEventListener('click', () => {
+      const mobileMenu = document.getElementById('mobile-menu');
+      if (mobileMenu) mobileMenu.classList.toggle('active');
+      mobileMenuBtn.classList.toggle('active');
+    });
   }
+
+  const backToTop = document.getElementById('back-to-top');
+  if (backToTop) {
+    backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
+  }
+
+  render(TODAY_MD);
 });
