@@ -7,89 +7,89 @@
 // EMBEDDED TODAY DATA  (3 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Kasih yang Mengubahkan
-date: 2026-08-03
-verse: 1 Yohanes 4:19
+title: Berakar dan Bertumbuh di Dalam Kristus
+date: 2026-08-04
+verse: Kolose 2:6-7
 ---
 
 # Embun Pagi
 
-## Mengasihi karena Terlebih Dahulu Dikasihi
+## Berakar Sebelum Berbuah
 
 ## Ayat
 
-_"Kita mengasihi, karena Allah lebih dahulu mengasihi kita."_  
-**- 1 Yohanes 4:19**
+_"Kamu telah menerima Kristus Yesus, Tuhan kita. Karena itu hendaklah hidupmu tetap di dalam Dia. Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur."_  
+**- Kolose 2:6-7**
 
 ## Renungan
 
-Kasih adalah inti dari kehidupan orang percaya. Namun kasih yang sejati bukanlah sesuatu yang dapat kita hasilkan dengan kekuatan sendiri. Kasih yang sejati mengalir dari hati yang telah mengalami kasih Allah.
+Pohon yang tinggi tidak berdiri karena batangnya yang besar, tetapi karena akarnya yang kuat. Semakin dalam akar menembus tanah, semakin kokoh pohon itu menghadapi angin dan badai.
 
-Ketika kita menyadari betapa besar kasih Kristus melalui pengorbanan-Nya di kayu salib, hati kita diubahkan. Kita belajar mengampuni orang yang menyakiti kita, mengasihi mereka yang sulit dikasihi, dan melayani tanpa mengharapkan balasan.
+Begitu pula kehidupan rohani kita. Tuhan tidak hanya ingin kita bertumbuh secara lahiriah melalui aktivitas pelayanan atau pengetahuan Alkitab. Dia ingin kita berakar di dalam Kristus. Akar yang kuat dibangun melalui doa, Firman Tuhan, penyembahan, dan ketaatan setiap hari.
 
-Dunia sering mengajarkan untuk mengasihi orang yang baik kepada kita. Tetapi Yesus mengajarkan kasih yang melampaui batas itu. Kasih yang tetap memilih mengampuni, tetap memilih berbuat baik, dan tetap memilih menjadi berkat.
+Ketika akar iman kita kuat, badai kehidupan tidak mudah menggoyahkan kita. Masalah mungkin datang, tetapi pengharapan tetap hidup. Pencobaan mungkin menghampiri, tetapi iman tetap berdiri teguh karena fondasinya adalah Kristus.
 
-Hari ini, biarlah kasih Kristus memenuhi hati Anda. Jadikan setiap perkataan, tindakan, dan keputusan sebagai cerminan kasih-Nya. Sebab ketika kasih Kristus terpancar melalui hidup kita, dunia dapat melihat siapa Dia.
+Jangan hanya mengejar buah yang terlihat oleh manusia. Bangunlah akar yang hanya dilihat oleh Tuhan. Sebab akar yang sehat pada waktunya akan menghasilkan buah yang memuliakan-Nya.
 
 ## Quotes
 
-*"Kasih Kristus tidak berhenti pada hati yang menerimanya, tetapi mengalir melalui hidup yang membagikannya."*
+*"Buah yang bertahan lama selalu lahir dari akar yang tertanam dalam di dalam Kristus."*
 
 ---
 
 # Youth Devotion
 
-## Love Like Jesus
+## Grow Deep Before You Grow Big
 
 ## Ayat
 
-_"Kita mengasihi, karena Allah lebih dahulu mengasihi kita."_  
-**- 1 Yohanes 4:19**
+_"Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia."_  
+**- Kolose 2:7**
 
 ## Renungan
 
-Mengasihi orang lain memang tidak selalu mudah. Ada teman yang mengecewakan, orang yang salah paham, atau seseorang yang memperlakukanmu dengan tidak baik. Reaksi pertama kita mungkin ingin membalas atau menjauh.
+Di era media sosial, banyak orang ingin terlihat hebat secepat mungkin. Namun Tuhan lebih peduli pada siapa dirimu daripada seberapa terkenal dirimu.
 
-Namun Yesus menunjukkan cara yang berbeda. Dia mengasihi kita bahkan ketika kita masih berdosa. Kasih-Nya tidak bergantung pada apakah kita layak atau tidak.
+Karakter yang kuat tidak dibangun dalam semalam. Dibutuhkan waktu bersama Tuhan setiap hari. Saat kamu membaca Alkitab, berdoa, dan hidup dalam ketaatan, imanmu sedang bertumbuh, meskipun orang lain mungkin tidak melihatnya.
 
-Sebagai pengikut Kristus, kita dipanggil untuk menunjukkan kasih yang sama. Mulailah dari hal-hal sederhana: mengampuni, mendengarkan, membantu teman yang membutuhkan, dan memperlakukan semua orang dengan hormat.
-
-Kasih seperti inilah yang akan membuat orang lain melihat Yesus melalui hidupmu.
+Jangan terburu-buru mengejar pengakuan. Kejar kedekatan dengan Kristus. Ketika akar rohanimu semakin dalam, Tuhan sendiri yang akan mempercayakan hal-hal yang lebih besar kepadamu pada waktu-Nya.
 
 ## Doa
 
-Tuhan Yesus, terima kasih karena Engkau telah lebih dahulu mengasihiku. Tolong aku agar mampu mengasihi orang lain seperti Engkau mengasihiku. Jadikan hidupku saluran kasih-Mu setiap hari. Amin.
+Tuhan Yesus, tolong aku untuk terus bertumbuh di dalam-Mu. Tanamkan Firman-Mu dalam hatiku, kuatkan imanku, dan jadikan hidupku berakar di dalam kasih-Mu agar aku tetap setia sampai akhir. Amin.
 
 ## Quotes
 
-*"The world sees Jesus when His love is seen through you."*
+*"Strong roots in Christ produce a strong life for Christ."*
 
 ---
 
 # Daily Devotion
 
-## Loved First, Love Others
+## Rooted in Christ
 
 ## Verse
 
-> **"We love because He first loved us."**  
-> **1 John 4:19 (NIV)**
+> **"So then, just as you received Christ Jesus as Lord, continue to live your lives in Him, rooted and built up in Him, strengthened in the faith as you were taught, and overflowing with thankfulness."**  
+> **Colossians 2:6–7 (NIV)**
 
 ## Reflection
 
-The foundation of the Christian life is not our love for God, but God's love for us. Before we ever sought Him, He reached out to us through Jesus Christ. His love was never based on our worthiness but on His perfect grace.
+Healthy trees survive storms because their roots run deep. In the same way, a strong Christian life is built on a deep relationship with Christ rather than outward appearances or religious activity.
 
-When we truly understand how deeply we are loved by God, our hearts begin to change. We become more willing to forgive, more patient with others, and more compassionate toward those in need. His love becomes the source of our love.
+Being rooted in Christ means consistently spending time in His presence, studying His Word, obeying His commands, and trusting Him through every season. Spiritual maturity is not measured by how visible we are but by how deeply we are connected to Jesus.
 
-Today, remember that you are deeply loved by your Heavenly Father. Let His love fill your heart so completely that it naturally overflows into every relationship, every conversation, and every act of kindness.
+As your roots grow deeper, your faith becomes stronger, your character becomes more Christlike, and gratitude begins to overflow from your heart. A deeply rooted believer can stand firm because Christ is the unshakable foundation.
+
+Today, focus less on being impressive and more on being deeply rooted in Christ. The fruit will come in God's perfect time.
 
 ## Prayer
 
-Heavenly Father, thank You for loving me first and loving me unconditionally. Fill my heart with Your love so that I may reflect Christ in the way I speak, forgive, and serve others. Help me become a living testimony of Your grace each day. In Jesus' name, Amen.
+Heavenly Father, thank You for planting my life in Christ. Help me to grow deeper in Your Word, stronger in faith, and richer in gratitude. May my life remain firmly rooted in You and bear fruit that brings glory to Your name. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"The greatest evidence of God's love in us is our willingness to love others like Christ."*
+*"A life deeply rooted in Christ will continue to bear fruit in every season."*
 `;
 
 // ============================================
@@ -358,7 +358,95 @@ Heavenly Father, thank You for inviting me to bring every worry before You. Help
 ## Inspirational Quote
 
 *"Peace is not found in having all the answers, but in trusting the One who does."*`
-  }
+  },
+{
+  date: '2026-08-03'
+  title: 'Kasih yang Mengubahkan'
+  verse: 1 Yohanes 4:19
+  markdown: '---
+title: Mengasihi karena Terlebih Dahulu Dikasihi
+verse: 1 Yohanes 4:19
+---
+
+# Embun Pagi
+
+## Mengasihi karena Terlebih Dahulu Dikasihi
+
+## Ayat
+
+_"Kita mengasihi, karena Allah lebih dahulu mengasihi kita."_  
+**- 1 Yohanes 4:19**
+
+## Renungan
+
+Kasih adalah inti dari kehidupan orang percaya. Namun kasih yang sejati bukanlah sesuatu yang dapat kita hasilkan dengan kekuatan sendiri. Kasih yang sejati mengalir dari hati yang telah mengalami kasih Allah.
+
+Ketika kita menyadari betapa besar kasih Kristus melalui pengorbanan-Nya di kayu salib, hati kita diubahkan. Kita belajar mengampuni orang yang menyakiti kita, mengasihi mereka yang sulit dikasihi, dan melayani tanpa mengharapkan balasan.
+
+Dunia sering mengajarkan untuk mengasihi orang yang baik kepada kita. Tetapi Yesus mengajarkan kasih yang melampaui batas itu. Kasih yang tetap memilih mengampuni, tetap memilih berbuat baik, dan tetap memilih menjadi berkat.
+
+Hari ini, biarlah kasih Kristus memenuhi hati Anda. Jadikan setiap perkataan, tindakan, dan keputusan sebagai cerminan kasih-Nya. Sebab ketika kasih Kristus terpancar melalui hidup kita, dunia dapat melihat siapa Dia.
+
+## Quotes
+
+*"Kasih Kristus tidak berhenti pada hati yang menerimanya, tetapi mengalir melalui hidup yang membagikannya."*
+
+---
+
+# Youth Devotion
+
+## Love Like Jesus
+
+## Ayat
+
+_"Kita mengasihi, karena Allah lebih dahulu mengasihi kita."_  
+**- 1 Yohanes 4:19**
+
+## Renungan
+
+Mengasihi orang lain memang tidak selalu mudah. Ada teman yang mengecewakan, orang yang salah paham, atau seseorang yang memperlakukanmu dengan tidak baik. Reaksi pertama kita mungkin ingin membalas atau menjauh.
+
+Namun Yesus menunjukkan cara yang berbeda. Dia mengasihi kita bahkan ketika kita masih berdosa. Kasih-Nya tidak bergantung pada apakah kita layak atau tidak.
+
+Sebagai pengikut Kristus, kita dipanggil untuk menunjukkan kasih yang sama. Mulailah dari hal-hal sederhana: mengampuni, mendengarkan, membantu teman yang membutuhkan, dan memperlakukan semua orang dengan hormat.
+
+Kasih seperti inilah yang akan membuat orang lain melihat Yesus melalui hidupmu.
+
+## Doa
+
+Tuhan Yesus, terima kasih karena Engkau telah lebih dahulu mengasihiku. Tolong aku agar mampu mengasihi orang lain seperti Engkau mengasihiku. Jadikan hidupku saluran kasih-Mu setiap hari. Amin.
+
+## Quotes
+
+*"The world sees Jesus when His love is seen through you."*
+
+---
+
+# Daily Devotion
+
+## Loved First, Love Others
+
+## Verse
+
+> **"We love because He first loved us."**  
+> **1 John 4:19 (NIV)**
+
+## Reflection
+
+The foundation of the Christian life is not our love for God, but God's love for us. Before we ever sought Him, He reached out to us through Jesus Christ. His love was never based on our worthiness but on His perfect grace.
+
+When we truly understand how deeply we are loved by God, our hearts begin to change. We become more willing to forgive, more patient with others, and more compassionate toward those in need. His love becomes the source of our love.
+
+Today, remember that you are deeply loved by your Heavenly Father. Let His love fill your heart so completely that it naturally overflows into every relationship, every conversation, and every act of kindness.
+
+## Prayer
+
+Heavenly Father, thank You for loving me first and loving me unconditionally. Fill my heart with Your love so that I may reflect Christ in the way I speak, forgive, and serve others. Help me become a living testimony of Your grace each day. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"The greatest evidence of God's love in us is our willingness to love others like Christ."*
+ }
 ];
 
 // ============================================
