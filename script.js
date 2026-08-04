@@ -27,7 +27,7 @@ Pohon yang tinggi tidak berdiri karena batangnya yang besar, tetapi karena akarn
 
 Begitu pula kehidupan rohani kita. Tuhan tidak hanya ingin kita bertumbuh secara lahiriah melalui aktivitas pelayanan atau pengetahuan Alkitab. Dia ingin kita berakar di dalam Kristus. Akar yang kuat dibangun melalui doa, Firman Tuhan, penyembahan, dan ketaatan setiap hari.
 
-Ketika akar iman kita kuat, badai kehidupan tidak mudah menggoyahkan kita. Masalah mungkin datang, tetapi pengharapan tetap hidup. Pencobaan mungkin menghampiri, tetapi iman tetap berdiri teguh karena fondasinya adalah Kristus.
+Ketika akar iman kita kuat, badai kehidupan tidak mudah menggoyangkan kita. Masalah mungkin datang, tetapi pengharapan tetap hidup. Pencobaan mungkin menghampiri, tetapi iman tetap berdiri teguh karena fondasinya adalah Kristus.
 
 Jangan hanya mengejar buah yang terlihat oleh manusia. Bangunlah akar yang hanya dilihat oleh Tuhan. Sebab akar yang sehat pada waktunya akan menghasilkan buah yang memuliakan-Nya.
 
@@ -359,11 +359,11 @@ Heavenly Father, thank You for inviting me to bring every worry before You. Help
 
 *"Peace is not found in having all the answers, but in trusting the One who does."*`
   },
-{
-  date: '2026-08-03'
-  title: 'Kasih yang Mengubahkan'
-  verse: 1 Yohanes 4:19
-  markdown: '---
+  {
+    date: '2026-08-03',
+    title: 'Kasih yang Mengubahkan',
+    verse: '1 Yohanes 4:19',
+    markdown: `---
 title: Mengasihi karena Terlebih Dahulu Dikasihi
 verse: 1 Yohanes 4:19
 ---
@@ -445,8 +445,8 @@ Heavenly Father, thank You for loving me first and loving me unconditionally. Fi
 
 ## Inspirational Quote
 
-*"The greatest evidence of God's love in us is our willingness to love others like Christ."*
- }
+*"The greatest evidence of God's love in us is our willingness to love others like Christ."*`
+  }
 ];
 
 // ============================================
