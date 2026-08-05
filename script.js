@@ -79,6 +79,10 @@ Tuhan Yesus, terima kasih atas kasih-Mu yang tidak pernah berubah. Tolong aku un
 
 Jesus invites us to do more than simply believe in His love—He calls us to abide in it. To abide means to remain, to dwell, and to make His love the place where our hearts find rest.
 
+The world offers a love that often changes with circumstances, but Christ's love is constant and unfailing. When we remain in His love, we are strengthened to forgive, empowered to obey, and filled with peace that cannot be shaken by life's uncertainties.
+
+Today, don't let distractions pull you away from the presence of Christ. Spend time with Him, meditate on His Word, and allow His love to shape your thoughts, your attitudes, and your relationships. A life that abides in His love becomes a life that reflects His love.
+
 ## Prayer
 
 Heavenly Father, thank You for Your unchanging love. Help me to abide in You daily, and let Your love overflow from my heart to others. In Jesus' name, Amen.
