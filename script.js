@@ -364,7 +364,7 @@ Heavenly Father, thank You for inviting me to bring every worry before You. Help
     title: 'Kasih yang Mengubahkan',
     verse: '1 Yohanes 4:19',
     markdown: `---
-title: Mengasihi karena Terlebih Dahulu Dikasihi
+title: Kasih yang Mengubahkan
 date: 2026-08-03
 verse: 1 Yohanes 4:19
 ---
