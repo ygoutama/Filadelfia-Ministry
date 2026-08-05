@@ -4,92 +4,88 @@
    ============================================ */
 
 // ============================================
-// EMBEDDED TODAY DATA  (3 AGUSTUS 2026)
+// EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Berakar dan Bertumbuh di Dalam Kristus
-date: 2026-08-04
-verse: Kolose 2:6-7
+title: Tinggallah di Dalam Kasih-Ku
+date: 2026-08-05
+verse: Yohanes 15:9
 ---
 
 # Embun Pagi
 
-## Berakar Sebelum Berbuah
+## Tetap Tinggal di Dalam Kasih Kristus
 
 ## Ayat
 
-_"Kamu telah menerima Kristus Yesus, Tuhan kita. Karena itu hendaklah hidupmu tetap di dalam Dia. Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur."_  
-**- Kolose 2:6-7**
+_"Seperti Bapa telah mengasihi Aku, demikian juga Aku telah mengasihi kamu; tinggallah di dalam kasih-Ku itu."_  
+**- Yohanes 15:9**
 
 ## Renungan
 
-Pohon yang tinggi tidak berdiri karena batangnya yang besar, tetapi karena akarnya yang kuat. Semakin dalam akar menembus tanah, semakin kokoh pohon itu menghadapi angin dan badai.
+Di tengah dunia yang penuh dengan perubahan, ada satu hal yang tidak pernah berubah: kasih Kristus. Kasih manusia sering bergantung pada keadaan. Ketika dikecewakan, kasih itu dapat memudar. Ketika harapan tidak terpenuhi, kasih itu dapat berubah menjadi kepahitan. Namun kasih Kristus tetap sama, kemarin, hari ini, dan sampai selama-lamanya.
 
-Begitu pula kehidupan rohani kita. Tuhan tidak hanya ingin kita bertumbuh secara lahiriah melalui aktivitas pelayanan atau pengetahuan Alkitab. Dia ingin kita berakar di dalam Kristus. Akar yang kuat dibangun melalui doa, Firman Tuhan, penyembahan, dan ketaatan setiap hari.
+Yesus tidak hanya mengajak kita untuk mengetahui kasih-Nya, tetapi juga untuk tinggal di dalam kasih itu. Tinggal berarti hidup, berdiam, dan menjadikan kasih Kristus sebagai tempat kita memperoleh kekuatan setiap hari.
 
-Ketika akar iman kita kuat, badai kehidupan tidak mudah menggoyangkan kita. Masalah mungkin datang, tetapi pengharapan tetap hidup. Pencobaan mungkin menghampiri, tetapi iman tetap berdiri teguh karena fondasinya adalah Kristus.
+Ketika kita tinggal di dalam kasih-Nya, hati kita dipenuhi damai, kita lebih mudah mengampuni, lebih sabar menghadapi orang lain, dan lebih kuat menghadapi pencobaan. Kasih Kristus menjadi sumber yang tidak pernah kering bagi jiwa kita.
 
-Jangan hanya mengejar buah yang terlihat oleh manusia. Bangunlah akar yang hanya dilihat oleh Tuhan. Sebab akar yang sehat pada waktunya akan menghasilkan buah yang memuliakan-Nya.
+Hari ini, jangan biarkan luka, kegagalan, atau kekecewaan menjauhkan Anda dari Tuhan. Datanglah kembali kepada-Nya. Di dalam kasih-Nya selalu ada pemulihan, pengharapan, dan kekuatan yang baru.
 
 ## Quotes
 
-*"Buah yang bertahan lama selalu lahir dari akar yang tertanam dalam di dalam Kristus."*
+*"Orang yang tinggal di dalam kasih Kristus akan tetap memiliki damai, bahkan ketika dunia di sekelilingnya berubah."*
 
 ---
 
 # Youth Devotion
 
-## Grow Deep Before You Grow Big
+## Stay Close to Jesus
 
 ## Ayat
 
-_"Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia."_  
-**- Kolose 2:7**
+_"...tinggallah di dalam kasih-Ku itu."_  
+**- Yohanes 15:9**
 
 ## Renungan
 
-Di era media sosial, banyak orang ingin terlihat hebat secepat mungkin. Namun Tuhan lebih peduli pada siapa dirimu daripada seberapa terkenal dirimu.
+Banyak hal berusaha menarik perhatianmu setiap hari. Media sosial, hiburan, ambisi, bahkan tekanan dari teman sebaya dapat membuat hubunganmu dengan Tuhan perlahan menjadi renggang.
 
-Karakter yang kuat tidak dibangun dalam semalam. Dibutuhkan waktu bersama Tuhan setiap hari. Saat kamu membaca Alkitab, berdoa, dan hidup dalam ketaatan, imanmu sedang bertumbuh, meskipun orang lain mungkin tidak melihatnya.
+Yesus mengundangmu untuk tetap tinggal di dalam kasih-Nya. Itu berarti meluangkan waktu bersama-Nya, membaca Firman, berdoa, dan hidup sesuai dengan kehendak-Nya.
 
-Jangan terburu-buru mengejar pengakuan. Kejar kedekatan dengan Kristus. Ketika akar rohanimu semakin dalam, Tuhan sendiri yang akan mempercayakan hal-hal yang lebih besar kepadamu pada waktu-Nya.
+Semakin dekat kamu dengan Yesus, semakin kamu memahami siapa dirimu di mata Tuhan. Kamu tidak perlu mencari nilai dirimu dari jumlah pengikut, prestasi, atau pengakuan orang lain. Identitasmu telah aman di dalam kasih Kristus.
+
+Jangan hanya mencari berkat dari Tuhan. Carilah Tuhan itu sendiri. Di dalam hadirat-Nya, kamu akan menemukan sukacita, damai, dan arah hidup yang sejati.
 
 ## Doa
 
-Tuhan Yesus, tolong aku untuk terus bertumbuh di dalam-Mu. Tanamkan Firman-Mu dalam hatiku, kuatkan imanku, dan jadikan hidupku berakar di dalam kasih-Mu agar aku tetap setia sampai akhir. Amin.
+Tuhan Yesus, terima kasih atas kasih-Mu yang tidak pernah berubah. Tolong aku untuk tetap tinggal di dalam-Mu setiap hari. Bentuklah hatiku agar semakin serupa dengan-Mu dan biarlah hidupku memancarkan kasih-Mu kepada orang lain. Amin.
 
 ## Quotes
 
-*"Strong roots in Christ produce a strong life for Christ."*
+*"The closer you stay to Jesus, the clearer you discover who you truly are."*
 
 ---
 
 # Daily Devotion
 
-## Rooted in Christ
+## Abide in His Love
 
 ## Verse
 
-> **"So then, just as you received Christ Jesus as Lord, continue to live your lives in Him, rooted and built up in Him, strengthened in the faith as you were taught, and overflowing with thankfulness."**  
-> **Colossians 2:6–7 (NIV)**
+> **"As the Father has loved Me, I have also loved you; abide in My love."**  
+> **John 15:9 (NKJV)**
 
 ## Reflection
 
-Healthy trees survive storms because their roots run deep. In the same way, a strong Christian life is built on a deep relationship with Christ rather than outward appearances or religious activity.
-
-Being rooted in Christ means consistently spending time in His presence, studying His Word, obeying His commands, and trusting Him through every season. Spiritual maturity is not measured by how visible we are but by how deeply we are connected to Jesus.
-
-As your roots grow deeper, your faith becomes stronger, your character becomes more Christlike, and gratitude begins to overflow from your heart. A deeply rooted believer can stand firm because Christ is the unshakable foundation.
-
-Today, focus less on being impressive and more on being deeply rooted in Christ. The fruit will come in God's perfect time.
+Jesus invites us to do more than simply believe in His love—He calls us to abide in it. To abide means to remain, to dwell, and to make His love the place where our hearts find rest.
 
 ## Prayer
 
-Heavenly Father, thank You for planting my life in Christ. Help me to grow deeper in Your Word, stronger in faith, and richer in gratitude. May my life remain firmly rooted in You and bear fruit that brings glory to Your name. In Jesus' name, Amen.
+Heavenly Father, thank You for Your unchanging love. Help me to abide in You daily, and let Your love overflow from my heart to others. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"A life deeply rooted in Christ will continue to bear fruit in every season."*
+*"To abide in Christ's love is to find rest for your soul in every season."*
 `;
 
 // ============================================
@@ -446,6 +442,95 @@ Heavenly Father, thank You for loving me first and loving me unconditionally. Fi
 ## Inspirational Quote
 
 *"The greatest evidence of God's love in us is our willingness to love others like Christ."*`
+  },
+  {
+    date: '2026-08-04',
+    title: 'Berakar dan Bertumbuh di Dalam Kristus',
+    verse: 'Kolose 2:6-7',
+    markdown: `---
+title: Berakar dan Bertumbuh di Dalam Kristus
+date: 2026-08-04
+verse: Kolose 2:6-7
+---
+
+# Embun Pagi
+
+## Berakar Sebelum Berbuah
+
+## Ayat
+
+_"Kamu telah menerima Kristus Yesus, Tuhan kita. Karena itu hendaklah hidupmu tetap di dalam Dia. Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia, hendaklah kamu bertambah teguh dalam iman yang telah diajarkan kepadamu, dan hendaklah hatimu melimpah dengan syukur."_  
+**- Kolose 2:6-7**
+
+## Renungan
+
+Pohon yang tinggi tidak berdiri karena batangnya yang besar, tetapi karena akarnya yang kuat. Semakin dalam akar menembus tanah, semakin kokoh pohon itu menghadapi angin dan badai.
+
+Begitu pula kehidupan rohani kita. Tuhan tidak hanya ingin kita bertumbuh secara lahiriah melalui aktivitas pelayanan atau pengetahuan Alkitab. Dia ingin kita berakar di dalam Kristus. Akar yang kuat dibangun melalui doa, Firman Tuhan, penyembahan, dan ketaatan setiap hari.
+
+Ketika akar iman kita kuat, badai kehidupan tidak mudah menggoyahkan kita. Masalah mungkin datang, tetapi pengharapan tetap hidup. Pencobaan mungkin menghampiri, tetapi iman tetap berdiri teguh karena fondasinya adalah Kristus.
+
+Jangan hanya mengejar buah yang terlihat oleh manusia. Bangunlah akar yang hanya dilihat oleh Tuhan. Sebab akar yang sehat pada waktunya akan menghasilkan buah yang memuliakan-Nya.
+
+## Quotes
+
+*"Buah yang bertahan lama selalu lahir dari akar yang tertanam dalam di dalam Kristus."*
+
+---
+
+# Youth Devotion
+
+## Grow Deep Before You Grow Big
+
+## Ayat
+
+_"Hendaklah kamu berakar di dalam Dia dan dibangun di atas Dia."_  
+**- Kolose 2:7**
+
+## Renungan
+
+Di era media sosial, banyak orang ingin terlihat hebat secepat mungkin. Namun Tuhan lebih peduli pada siapa dirimu daripada seberapa terkenal dirimu.
+
+Karakter yang kuat tidak dibangun dalam semalam. Dibutuhkan waktu bersama Tuhan setiap hari. Saat kamu membaca Alkitab, berdoa, dan hidup dalam ketaatan, imanmu sedang bertumbuh, meskipun orang lain mungkin tidak melihatnya.
+
+Jangan terburu-buru mengejar pengakuan. Kejar kedekatan dengan Kristus. Ketika akar rohanimu semakin dalam, Tuhan sendiri yang akan mempercayakan hal-hal yang lebih besar kepadamu pada waktu-Nya.
+
+## Doa
+
+Tuhan Yesus, tolong aku untuk terus bertumbuh di dalam-Mu. Tanamkan Firman-Mu dalam hatiku, kuatkan imanku, dan jadikan hidupku berakar di dalam kasih-Mu agar aku tetap setia sampai akhir. Amin.
+
+## Quotes
+
+*"Strong roots in Christ produce a strong life for Christ."*
+
+---
+
+# Daily Devotion
+
+## Rooted in Christ
+
+## Verse
+
+> **"So then, just as you received Christ Jesus as Lord, continue to live your lives in Him, rooted and built up in Him, strengthened in the faith as you were taught, and overflowing with thankfulness."**  
+> **Colossians 2:6–7 (NIV)**
+
+## Reflection
+
+Healthy trees survive storms because their roots run deep. In the same way, a strong Christian life is built on a deep relationship with Christ rather than outward appearances or religious activity.
+
+Being rooted in Christ means consistently spending time in His presence, studying His Word, obeying His commands, and trusting Him through every season. Spiritual maturity is not measured by how visible we are but by how deeply we are connected to Jesus.
+
+As your roots grow deeper, your faith becomes stronger, your character becomes more Christlike, and gratitude begins to overflow from your heart. A deeply rooted believer can stand firm because Christ is the unshakable foundation.
+
+Today, focus less on being impressive and more on being deeply rooted in Christ. The fruit will come in God's perfect time.
+
+## Prayer
+
+Heavenly Father, thank You for planting my life in Christ. Help me to grow deeper in Your Word, stronger in faith, and richer in gratitude. May my life remain firmly rooted in You and bear fruit that brings glory to Your name. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"A life deeply rooted in Christ will continue to bear fruit in every season."*`
   }
 ];
 
