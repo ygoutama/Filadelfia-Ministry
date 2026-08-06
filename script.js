@@ -7,182 +7,95 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Tinggallah di Dalam Kasih-Ku
-date: 2026-08-05
-verse: Yohanes 15:9
+title: Damai yang Ditinggalkan Kristus
+date: 2026-08-06
+verse: Yohanes 14:27
 ---
 
 # Embun Pagi
 
-## Tetap Tinggal di Dalam Kasih Kristus
+## Damai yang Tidak Dapat Diberikan Dunia
 
 ## Ayat
 
-_"Seperti Bapa telah mengasihi Aku, demikian juga Aku telah mengasihi kamu; tinggallah di dalam kasih-Ku itu."_  
-**- Yohanes 15:9**
+_"Damai sejahtera Kutinggalkan bagimu. Damai sejahtera-Ku Kuberikan kepadamu, dan apa yang Kuberikan tidak seperti yang diberikan oleh dunia kepadamu. Janganlah gelisah dan gentar hatimu."_  
+**- Yohanes 14:27**
 
 ## Renungan
 
-Di tengah dunia yang penuh dengan perubahan, ada satu hal yang tidak pernah berubah: kasih Kristus. Kasih manusia sering bergantung pada keadaan. Ketika dikecewakan, kasih itu dapat memudar. Ketika harapan tidak terpenuhi, kasih itu dapat berubah menjadi kepahitan. Namun kasih Kristus tetap sama, kemarin, hari ini, dan sampai selama-lamanya.
+Dunia menawarkan damai yang bergantung pada keadaan. Selama semuanya berjalan baik, hati terasa tenang. Namun ketika masalah datang, damai itu mudah menghilang.
 
-Yesus tidak hanya mengajak kita untuk mengetahui kasih-Nya, tetapi juga untuk tinggal di dalam kasih itu. Tinggal berarti hidup, berdiam, dan menjadikan kasih Kristus sebagai tempat kita memperoleh kekuatan setiap hari.
+Yesus memberikan damai yang berbeda. Damai-Nya tidak bergantung pada situasi, melainkan pada kehadiran-Nya. Bahkan ketika para murid akan menghadapi penderitaan setelah Yesus naik ke surga, Dia terlebih dahulu memberikan janji tentang damai yang akan menjaga hati mereka.
 
-Ketika kita tinggal di dalam kasih-Nya, hati kita dipenuhi damai, kita lebih mudah mengampuni, lebih sabar menghadapi orang lain, dan lebih kuat menghadapi pencobaan. Kasih Kristus menjadi sumber yang tidak pernah kering bagi jiwa kita.
+Mungkin hari ini Anda sedang menghadapi persoalan yang belum selesai. Ada kekhawatiran tentang keluarga, pekerjaan, kesehatan, atau masa depan. Firman Tuhan mengingatkan bahwa kita tidak perlu membiarkan hati dikuasai ketakutan. Kristus telah memberikan damai yang sanggup menopang kita di tengah badai kehidupan.
 
-Hari ini, jangan biarkan luka, kegagalan, atau kekecewaan menjauhkan Anda dari Tuhan. Datanglah kembali kepada-Nya. Di dalam kasih-Nya selalu ada pemulihan, pengharapan, dan kekuatan yang baru.
+Datanglah kepada Tuhan setiap hari. Curahkan isi hati Anda dalam doa dan biarkan damai-Nya memenuhi pikiran serta hati Anda. Ketika Kristus menjadi pusat hidup kita, damai-Nya akan menjadi kekuatan yang tidak tergoyahkan.
 
 ## Quotes
 
-*"Orang yang tinggal di dalam kasih Kristus akan tetap memiliki damai, bahkan ketika dunia di sekelilingnya berubah."*
+*"Damai Kristus tidak bergantung pada keadaan yang tenang, tetapi pada keyakinan bahwa Tuhan tetap memegang kendali."*
 
 ---
 
 # Youth Devotion
 
-## Stay Close to Jesus
+## Peace That Lasts
 
 ## Ayat
 
-_"...tinggallah di dalam kasih-Ku itu."_  
-**- Yohanes 15:9**
+_"Damai sejahtera-Ku Kuberikan kepadamu... Janganlah gelisah dan gentar hatimu."_  
+**- Yohanes 14:27**
 
 ## Renungan
 
-Banyak hal berusaha menarik perhatianmu setiap hari. Media sosial, hiburan, ambisi, bahkan tekanan dari teman sebaya dapat membuat hubunganmu dengan Tuhan perlahan menjadi renggang.
+Tekanan hidup bisa datang dari mana saja. Tugas sekolah, pekerjaan, hubungan dengan teman, keluarga, atau kekhawatiran tentang masa depan sering membuat hati gelisah.
 
-Yesus mengundangmu untuk tetap tinggal di dalam kasih-Nya. Itu berarti meluangkan waktu bersama-Nya, membaca Firman, berdoa, dan hidup sesuai dengan kehendak-Nya.
+Banyak orang mencari ketenangan melalui hiburan, media sosial, atau kesibukan. Semua itu mungkin memberi rasa nyaman sesaat, tetapi hanya Yesus yang dapat memberikan damai yang bertahan.
 
-Semakin dekat kamu dengan Yesus, semakin kamu memahami siapa dirimu di mata Tuhan. Kamu tidak perlu mencari nilai dirimu dari jumlah pengikut, prestasi, atau pengakuan orang lain. Identitasmu telah aman di dalam kasih Kristus.
+Saat kamu meluangkan waktu untuk berdoa dan menyerahkan setiap kekhawatiran kepada Tuhan, kamu akan menyadari bahwa Dia selalu menyertaimu. Kehadiran-Nya lebih besar daripada setiap masalah yang kamu hadapi.
 
-Jangan hanya mencari berkat dari Tuhan. Carilah Tuhan itu sendiri. Di dalam hadirat-Nya, kamu akan menemukan sukacita, damai, dan arah hidup yang sejati.
+Hari ini, jangan biarkan rasa takut mengendalikan hidupmu. Biarkan damai Kristus memimpin setiap keputusan dan langkahmu.
 
 ## Doa
 
-Tuhan Yesus, terima kasih atas kasih-Mu yang tidak pernah berubah. Tolong aku untuk tetap tinggal di dalam-Mu setiap hari. Bentuklah hatiku agar semakin serupa dengan-Mu dan biarlah hidupku memancarkan kasih-Mu kepada orang lain. Amin.
+Tuhan Yesus, terima kasih atas damai yang Engkau berikan. Saat hatiku gelisah, ingatkanku bahwa Engkau selalu bersamaku. Penuhi hidupku dengan damai-Mu agar aku dapat menjalani hari ini dengan iman dan pengharapan. Amin.
 
 ## Quotes
 
-*"The closer you stay to Jesus, the clearer you discover who you truly are."*
+*"Real peace is found not in a trouble-free life, but in a life that stays close to Jesus."*
 
 ---
 
 # Daily Devotion
 
-## Abide in His Love
+## The Peace Christ Gives
 
 ## Verse
 
-> **"As the Father has loved Me, I have also loved you; abide in My love."**  
-> **John 15:9 (NKJV)**
+> **"Peace I leave with you; My peace I give to you. Not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid."**  
+> **John 14:27 (NKJV)**
 
 ## Reflection
 
-Jesus invites us to do more than simply believe in His love—He calls us to abide in it. To abide means to remain, to dwell, and to make His love the place where our hearts find rest.
+The world defines peace as the absence of conflict, but Jesus offers something far greater. His peace remains even when life is uncertain, painful, or difficult because it is rooted in His unchanging presence rather than our changing circumstances.
 
-The world offers a love that often changes with circumstances, but Christ's love is constant and unfailing. When we remain in His love, we are strengthened to forgive, empowered to obey, and filled with peace that cannot be shaken by life's uncertainties.
+Before His crucifixion, Jesus knew His disciples would face fear and hardship. Yet His final gift to them was not an explanation of every future event—it was His peace. That same peace is available to every believer today.
 
-Today, don't let distractions pull you away from the presence of Christ. Spend time with Him, meditate on His Word, and allow His love to shape your thoughts, your attitudes, and your relationships. A life that abides in His love becomes a life that reflects His love.
+Whatever burden weighs on your heart, bring it to Christ. His presence calms anxious minds, strengthens weary souls, and reminds us that we are never alone. The storms around us may continue, but His peace enables us to stand firm through them.
 
 ## Prayer
 
-Heavenly Father, thank You for Your unchanging love. Help me to abide in You daily, and let Your love overflow from my heart to others. In Jesus' name, Amen.
+Heavenly Father, thank You for the peace that only Jesus can give. When fear and anxiety arise, help me to trust in Your presence and Your promises. Guard my heart and mind with Your perfect peace, and let my life reflect quiet confidence in You. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"To abide in Christ's love is to find rest for your soul in every season."*
+*"The peace of Christ is not the absence of storms, but the assurance that He is with you through every one of them."*
 `;
 
 // ============================================
 // EMBEDDED ARCHIVE DATA
 // ============================================
 const ARCHIVE_DATA = [
-  {
-    date: '2026-07-31',
-    title: 'Mengandalkan Tuhan dalam Segala Hal',
-    verse: 'Amsal 3:5-6',
-    markdown: `---
-title: Mengandalkan Tuhan dalam Segala Hal
-date: 2026-07-31
-verse: Amsal 3:5-6
----
-
-# Embun Pagi
-
-## Percaya Sepenuhnya kepada Tuhan
-
-## Ayat
-
-_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."_  
-**- Amsal 3:5-6**
-
-## Renungan
-
-Manusia cenderung mengandalkan logika, pengalaman, dan kekuatannya sendiri. Tidak salah menggunakan hikmat yang Tuhan berikan, tetapi menjadi masalah ketika kita lebih percaya pada diri sendiri daripada kepada Tuhan.
-
-Amsal mengajarkan bahwa hidup yang diberkati dimulai dari hati yang sepenuhnya percaya kepada Tuhan. Percaya bukan hanya saat semuanya berjalan baik, tetapi juga ketika jawaban belum terlihat dan keadaan tidak sesuai harapan.
-
-Mengakui Tuhan dalam segala laku berarti melibatkan Dia dalam setiap keputusan—baik yang besar maupun yang kecil. Saat kita mencari kehendak-Nya melalui doa dan Firman, Tuhan akan memberikan hikmat serta menuntun langkah kita ke jalan yang benar.
-
-Mungkin hari ini Anda sedang diperhadapkan pada pilihan yang sulit. Jangan terburu-buru mengambil keputusan hanya berdasarkan perasaan atau tekanan keadaan. Datanglah kepada Tuhan terlebih dahulu. Dia melihat apa yang tidak dapat kita lihat dan mengetahui jalan terbaik bagi hidup kita.
-
-## Quotes
-
-*"Iman yang sejati bukan hanya percaya bahwa Tuhan mampu, tetapi juga percaya bahwa jalan-Nya selalu yang terbaik."*
-
----
-
-# Youth Devotion
-
-## Trust God with Your Future
-
-## Ayat
-
-_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."_  
-**- Amsal 3:5**
-
-## Renungan
-
-Masa muda dipenuhi dengan banyak keputusan penting: memilih jurusan, pekerjaan, pasangan hidup, pelayanan, dan impian masa depan. Tidak jarang semua itu membuatmu bingung atau takut mengambil langkah.
-
-Tuhan tidak meminta kamu mengetahui semua jawabannya sekarang. Dia mengundangmu untuk mempercayai-Nya setiap hari. Ketika kamu menempatkan Tuhan sebagai pusat hidupmu, Dia akan menuntun setiap langkahmu sesuai dengan rencana-Nya yang terbaik.
-
-Jangan hanya bertanya, "Apa yang aku inginkan?" Mulailah bertanya, "Tuhan, apa yang Engkau kehendaki?" Di situlah kamu akan menemukan damai dan arah yang benar.
-
-## Doa
-
-Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Berikan hikmat dalam setiap keputusan yang kuambil, dan ajarku untuk selalu mengandalkan-Mu lebih daripada pengertianku sendiri. Amin.
-
-## Quotes
-
-*"The safest place for your future is in the hands of God."*
-
----
-
-# Daily Devotion
-
-## Trust God with All Your Heart
-
-## Verse
-
-> **"Trust in the LORD with all your heart and lean not on your own understanding; in all your ways submit to Him, and He will make your paths straight."**  
-> **Proverbs 3:5–6 (NIV)**
-
-## Reflection
-
-Life presents us with decisions that can feel overwhelming. Our natural tendency is to rely on our own understanding, experiences, or emotions. While wisdom is valuable, it has limits. God's wisdom, however, is perfect and eternal.
-
-Trusting God means surrendering our plans, expectations, and fears into His hands. It means believing that He sees what we cannot see and knows what we cannot know. Even when His direction is different from our own desires, we can be confident that His path is always the best one.
-
-Today, invite God into every decision you make. Seek His guidance through prayer and Scripture, and trust Him to lead you step by step. A surrendered heart will always find security in His faithful guidance.
-
-## Prayer
-
-Heavenly Father, teach me to trust You with all my heart. Help me not to rely on my own understanding but to seek Your wisdom in every decision. Lead my steps, shape my heart, and help me walk faithfully in Your perfect will. In Jesus' name, Amen.
-
-## Inspirational Quote
-
-*"God's direction is always better than our best intentions when we place our complete trust in Him."*`
-  },
   {
     date: '2026-08-01',
     title: 'Menjadi Terang bagi Dunia',
@@ -536,6 +449,95 @@ Heavenly Father, thank You for planting my life in Christ. Help me to grow deepe
 ## Inspirational Quote
 
 *"A life deeply rooted in Christ will continue to bear fruit in every season."*`
+  },
+  {
+    date: '2026-08-05',
+    title: 'Tinggallah di Dalam Kasih-Ku',
+    verse: 'Yohanes 15:9',
+    markdown: `---
+title: Tinggallah di Dalam Kasih-Ku
+date: 2026-08-05
+verse: Yohanes 15:9
+---
+
+# Embun Pagi
+
+## Tetap Tinggal di Dalam Kasih Kristus
+
+## Ayat
+
+_"Seperti Bapa telah mengasihi Aku, demikian juga Aku telah mengasihi kamu; tinggallah di dalam kasih-Ku itu."_  
+**- Yohanes 15:9**
+
+## Renungan
+
+Di tengah dunia yang penuh dengan perubahan, ada satu hal yang tidak pernah berubah: kasih Kristus. Kasih manusia sering bergantung pada keadaan. Ketika dikecewakan, kasih itu dapat memudar. Ketika harapan tidak terpenuhi, kasih itu dapat berubah menjadi kepahitan. Namun kasih Kristus tetap sama, kemarin, hari ini, dan sampai selama-lamanya.
+
+Yesus tidak hanya mengajak kita untuk mengetahui kasih-Nya, tetapi juga untuk tinggal di dalam kasih itu. Tinggal berarti hidup, berdiam, dan menjadikan kasih Kristus sebagai tempat kita memperoleh kekuatan setiap hari.
+
+Ketika kita tinggal di dalam kasih-Nya, hati kita dipenuhi damai, kita lebih mudah mengampuni, lebih sabar menghadapi orang lain, dan lebih kuat menghadapi pencobaan. Kasih Kristus menjadi sumber yang tidak pernah kering bagi jiwa kita.
+
+Hari ini, jangan biarkan luka, kegagalan, atau kekecewaan menjauhkan Anda dari Tuhan. Datanglah kembali kepada-Nya. Di dalam kasih-Nya selalu ada pemulihan, pengharapan, dan kekuatan yang baru.
+
+## Quotes
+
+*"Orang yang tinggal di dalam kasih Kristus akan tetap memiliki damai, bahkan ketika dunia di sekelilingnya berubah."*
+
+---
+
+# Youth Devotion
+
+## Stay Close to Jesus
+
+## Ayat
+
+_"...tinggallah di dalam kasih-Ku itu."_  
+**- Yohanes 15:9**
+
+## Renungan
+
+Banyak hal berusaha menarik perhatianmu setiap hari. Media sosial, hiburan, ambisi, bahkan tekanan dari teman sebaya dapat membuat hubunganmu dengan Tuhan perlahan menjadi renggang.
+
+Yesus mengundangmu untuk tetap tinggal di dalam kasih-Nya. Itu berarti meluangkan waktu bersama-Nya, membaca Firman, berdoa, dan hidup sesuai dengan kehendak-Nya.
+
+Semakin dekat kamu dengan Yesus, semakin kamu memahami siapa dirimu di mata Tuhan. Kamu tidak perlu mencari nilai dirimu dari jumlah pengikut, prestasi, atau pengakuan orang lain. Identitasmu telah aman di dalam kasih Kristus.
+
+Jangan hanya mencari berkat dari Tuhan. Carilah Tuhan itu sendiri. Di dalam hadirat-Nya, kamu akan menemukan sukacita, damai, dan arah hidup yang sejati.
+
+## Doa
+
+Tuhan Yesus, terima kasih atas kasih-Mu yang tidak pernah berubah. Tolong aku untuk tetap tinggal di dalam-Mu setiap hari. Bentuklah hatiku agar semakin serupa dengan-Mu dan biarlah hidupku memancarkan kasih-Mu kepada orang lain. Amin.
+
+## Quotes
+
+*"The closer you stay to Jesus, the clearer you discover who you truly are."*
+
+---
+
+# Daily Devotion
+
+## Abide in His Love
+
+## Verse
+
+> **"As the Father has loved Me, I have also loved you; abide in My love."**  
+> **John 15:9 (NKJV)**
+
+## Reflection
+
+Jesus invites us to do more than simply believe in His love—He calls us to abide in it. To abide means to remain, to dwell, and to make His love the place where our hearts find rest.
+
+The world offers a love that often changes with circumstances, but Christ's love is constant and unfailing. When we remain in His love, we are strengthened to forgive, empowered to obey, and filled with peace that cannot be shaken by life's uncertainties.
+
+Today, don't let distractions pull you away from the presence of Christ. Spend time with Him, meditate on His Word, and allow His love to shape your thoughts, your attitudes, and your relationships. A life that abides in His love becomes a life that reflects His love.
+
+## Prayer
+
+Heavenly Father, thank You for Your unchanging love. Help me to abide in You daily, and let Your love overflow from my heart to others. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"To abide in Christ's love is to find rest for your soul in every season."*`
   }
 ];
 
