@@ -7,89 +7,87 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Damai yang Ditinggalkan Kristus
-date: 2026-08-06
-verse: Yohanes 14:27
+title: Kasih yang Sempurna Melenyapkan Ketakutan
+date: 2026-08-07
+verse: 1 Yohanes 4:18
 ---
 
 # Embun Pagi
 
-## Damai yang Tidak Dapat Diberikan Dunia
+## Ketika Kasih Tuhan Mengusir Rasa Takut
 
 ## Ayat
 
-_"Damai sejahtera Kutinggalkan bagimu. Damai sejahtera-Ku Kuberikan kepadamu, dan apa yang Kuberikan tidak seperti yang diberikan oleh dunia kepadamu. Janganlah gelisah dan gentar hatimu."_  
-**- Yohanes 14:27**
+_"Di dalam kasih tidak ada ketakutan: kasih yang sempurna melenyapkan ketakutan, sebab ketakutan mengandung hukuman dan barangsiapa takut, ia tidak sempurna di dalam kasih."_  
+**- 1 Yohanes 4:18**
 
 ## Renungan
 
-Dunia menawarkan damai yang bergantung pada keadaan. Selama semuanya berjalan baik, hati terasa tenang. Namun ketika masalah datang, damai itu mudah menghilang.
+Rasa takut sering muncul ketika kita merasa kehilangan kendali. Kita khawatir tentang hari esok, kesehatan, pekerjaan, keluarga, atau keputusan yang harus diambil. Semakin kita berusaha mengendalikan semuanya dengan kekuatan sendiri, semakin besar pula kecemasan yang kita rasakan.
 
-Yesus memberikan damai yang berbeda. Damai-Nya tidak bergantung pada situasi, melainkan pada kehadiran-Nya. Bahkan ketika para murid akan menghadapi penderitaan setelah Yesus naik ke surga, Dia terlebih dahulu memberikan janji tentang damai yang akan menjaga hati mereka.
+Firman Tuhan mengingatkan bahwa kasih Allah jauh lebih besar daripada semua ketakutan kita. Dia mengenal kita secara pribadi, memahami setiap pergumulan, dan tidak pernah meninggalkan anak-anak-Nya. Ketika kita berdiam di dalam kasih-Nya, hati kita dipenuhi keyakinan bahwa apa pun yang terjadi, Tuhan tetap menyertai.
 
-Mungkin hari ini Anda sedang menghadapi persoalan yang belum selesai. Ada kekhawatiran tentang keluarga, pekerjaan, kesehatan, atau masa depan. Firman Tuhan mengingatkan bahwa kita tidak perlu membiarkan hati dikuasai ketakutan. Kristus telah memberikan damai yang sanggup menopang kita di tengah badai kehidupan.
+Kasih Tuhan tidak menghapus semua tantangan dalam hidup, tetapi mengubah cara kita menghadapinya. Kita tidak lagi berjalan dengan rasa takut, melainkan dengan iman. Kita percaya bahwa Tuhan yang memegang masa depan kita adalah Tuhan yang sama yang setia memelihara kita hari ini.
 
-Datanglah kepada Tuhan setiap hari. Curahkan isi hati Anda dalam doa dan biarkan damai-Nya memenuhi pikiran serta hati Anda. Ketika Kristus menjadi pusat hidup kita, damai-Nya akan menjadi kekuatan yang tidak tergoyahkan.
+Hari ini, lepaskan setiap ketakutan yang membebani hati Anda. Percayakan semuanya kepada Tuhan. Biarkan kasih-Nya memenuhi hati Anda dengan damai, keberanian, dan pengharapan yang baru.
 
 ## Quotes
 
-*"Damai Kristus tidak bergantung pada keadaan yang tenang, tetapi pada keyakinan bahwa Tuhan tetap memegang kendali."*
+*"Hati yang dipenuhi kasih Kristus tidak lagi diperintah oleh rasa takut, tetapi dipimpin oleh iman."*
 
 ---
 
 # Youth Devotion
 
-## Peace That Lasts
+## God's Love Is Bigger Than Your Fear
 
 ## Ayat
 
-_"Damai sejahtera-Ku Kuberikan kepadamu... Janganlah gelisah dan gentar hatimu."_  
-**- Yohanes 14:27**
+_"Di dalam kasih tidak ada ketakutan..."_  
+**- 1 Yohanes 4:18**
 
 ## Renungan
 
-Tekanan hidup bisa datang dari mana saja. Tugas sekolah, pekerjaan, hubungan dengan teman, keluarga, atau kekhawatiran tentang masa depan sering membuat hati gelisah.
+Sebagai anak muda, wajar jika kamu pernah merasa takut—takut gagal, takut ditolak, takut tidak diterima, atau takut menghadapi masa depan. Namun ingatlah, perasaan takut tidak boleh menjadi penguasa hidupmu.
 
-Banyak orang mencari ketenangan melalui hiburan, media sosial, atau kesibukan. Semua itu mungkin memberi rasa nyaman sesaat, tetapi hanya Yesus yang dapat memberikan damai yang bertahan.
+Tuhan mengenalmu lebih baik daripada siapa pun. Dia tidak melihatmu sebagai orang yang gagal, tetapi sebagai anak yang dikasihi-Nya. Ketika kamu percaya kepada kasih-Nya, keberanian akan mulai menggantikan ketakutanmu.
 
-Saat kamu meluangkan waktu untuk berdoa dan menyerahkan setiap kekhawatiran kepada Tuhan, kamu akan menyadari bahwa Dia selalu menyertaimu. Kehadiran-Nya lebih besar daripada setiap masalah yang kamu hadapi.
-
-Hari ini, jangan biarkan rasa takut mengendalikan hidupmu. Biarkan damai Kristus memimpin setiap keputusan dan langkahmu.
+Jangan biarkan rasa takut menghentikan langkahmu untuk mengikuti panggilan Tuhan. Berdoalah, lakukan bagianmu dengan setia, dan percayalah bahwa Tuhan berjalan bersamamu di setiap langkah.
 
 ## Doa
 
-Tuhan Yesus, terima kasih atas damai yang Engkau berikan. Saat hatiku gelisah, ingatkanku bahwa Engkau selalu bersamaku. Penuhi hidupku dengan damai-Mu agar aku dapat menjalani hari ini dengan iman dan pengharapan. Amin.
+Tuhan Yesus, terima kasih atas kasih-Mu yang sempurna. Saat rasa takut datang, ingatkanku bahwa Engkau selalu bersamaku. Tolong aku untuk hidup dengan iman, keberanian, dan keyakinan kepada-Mu setiap hari. Amin.
 
 ## Quotes
 
-*"Real peace is found not in a trouble-free life, but in a life that stays close to Jesus."*
+*"When you know you are deeply loved by God, fear no longer controls your future."*
 
 ---
 
 # Daily Devotion
 
-## The Peace Christ Gives
+## Perfect Love Drives Out Fear
 
 ## Verse
 
-> **"Peace I leave with you; My peace I give to you. Not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid."**  
-> **John 14:27 (NKJV)**
+> **"There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."**  
+> **1 John 4:18 (NIV)**
 
 ## Reflection
 
-The world defines peace as the absence of conflict, but Jesus offers something far greater. His peace remains even when life is uncertain, painful, or difficult because it is rooted in His unchanging presence rather than our changing circumstances.
+Fear has a way of stealing our peace and limiting our faith. It whispers that we are alone, vulnerable, or not enough. But God's perfect love tells a different story. His love reminds us that we belong to Him, that He is always with us, and that nothing can separate us from His care.
 
-Before His crucifixion, Jesus knew His disciples would face fear and hardship. Yet His final gift to them was not an explanation of every future event—it was His peace. That same peace is available to every believer today.
+The more we understand God's love, the less fear controls our decisions. His love gives us courage to face uncertainty, strength to overcome challenges, and confidence to trust His plan even when we cannot see the outcome.
 
-Whatever burden weighs on your heart, bring it to Christ. His presence calms anxious minds, strengthens weary souls, and reminds us that we are never alone. The storms around us may continue, but His peace enables us to stand firm through them.
+Today, choose to rest in the Father's love. Let His perfect love replace your anxiety with peace, your doubt with faith, and your fear with confidence in His unfailing promises.
 
 ## Prayer
 
-Heavenly Father, thank You for the peace that only Jesus can give. When fear and anxiety arise, help me to trust in Your presence and Your promises. Guard my heart and mind with Your perfect peace, and let my life reflect quiet confidence in You. In Jesus' name, Amen.
+Heavenly Father, thank You for loving me with a perfect and everlasting love. When fear tries to overwhelm me, remind me of Your faithful presence. Fill my heart with Your peace and help me to walk confidently in faith, knowing that Your love will never fail. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"The peace of Christ is not the absence of storms, but the assurance that He is with you through every one of them."*
+*"The deeper you live in God's love, the less room fear has to live in your heart."*
 `;
 
 // ============================================
@@ -538,6 +536,95 @@ Heavenly Father, thank You for Your unchanging love. Help me to abide in You dai
 ## Inspirational Quote
 
 *"To abide in Christ's love is to find rest for your soul in every season."*`
+  },
+{
+    date: '2026-08-06',
+    title: 'Damai yang Ditinggalkan Kristus',
+    verse: 'Yohanes 15:9',
+    markdown: `---
+title: Damai yang Tidak Dapat Diberikan Dunia
+date: 2026-08-06
+verse: Yohanes 14:27
+---
+
+# Embun Pagi
+
+## Damai yang Tidak Dapat Diberikan Dunia
+
+## Ayat
+
+_"Damai sejahtera Kutinggalkan bagimu. Damai sejahtera-Ku Kuberikan kepadamu, dan apa yang Kuberikan tidak seperti yang diberikan oleh dunia kepadamu. Janganlah gelisah dan gentar hatimu."_  
+**- Yohanes 14:27**
+
+## Renungan
+
+Dunia menawarkan damai yang bergantung pada keadaan. Selama semuanya berjalan baik, hati terasa tenang. Namun ketika masalah datang, damai itu mudah menghilang.
+
+Yesus memberikan damai yang berbeda. Damai-Nya tidak bergantung pada situasi, melainkan pada kehadiran-Nya. Bahkan ketika para murid akan menghadapi penderitaan setelah Yesus naik ke surga, Dia terlebih dahulu memberikan janji tentang damai yang akan menjaga hati mereka.
+
+Mungkin hari ini Anda sedang menghadapi persoalan yang belum selesai. Ada kekhawatiran tentang keluarga, pekerjaan, kesehatan, atau masa depan. Firman Tuhan mengingatkan bahwa kita tidak perlu membiarkan hati dikuasai ketakutan. Kristus telah memberikan damai yang sanggup menopang kita di tengah badai kehidupan.
+
+Datanglah kepada Tuhan setiap hari. Curahkan isi hati Anda dalam doa dan biarkan damai-Nya memenuhi pikiran serta hati Anda. Ketika Kristus menjadi pusat hidup kita, damai-Nya akan menjadi kekuatan yang tidak tergoyahkan.
+
+## Quotes
+
+*"Damai Kristus tidak bergantung pada keadaan yang tenang, tetapi pada keyakinan bahwa Tuhan tetap memegang kendali."*
+
+---
+
+# Youth Devotion
+
+## Peace That Lasts
+
+## Ayat
+
+_"Damai sejahtera-Ku Kuberikan kepadamu... Janganlah gelisah dan gentar hatimu."_  
+**- Yohanes 14:27**
+
+## Renungan
+
+Tekanan hidup bisa datang dari mana saja. Tugas sekolah, pekerjaan, hubungan dengan teman, keluarga, atau kekhawatiran tentang masa depan sering membuat hati gelisah.
+
+Banyak orang mencari ketenangan melalui hiburan, media sosial, atau kesibukan. Semua itu mungkin memberi rasa nyaman sesaat, tetapi hanya Yesus yang dapat memberikan damai yang bertahan.
+
+Saat kamu meluangkan waktu untuk berdoa dan menyerahkan setiap kekhawatiran kepada Tuhan, kamu akan menyadari bahwa Dia selalu menyertaimu. Kehadiran-Nya lebih besar daripada setiap masalah yang kamu hadapi.
+
+Hari ini, jangan biarkan rasa takut mengendalikan hidupmu. Biarkan damai Kristus memimpin setiap keputusan dan langkahmu.
+
+## Doa
+
+Tuhan Yesus, terima kasih atas damai yang Engkau berikan. Saat hatiku gelisah, ingatkanku bahwa Engkau selalu bersamaku. Penuhi hidupku dengan damai-Mu agar aku dapat menjalani hari ini dengan iman dan pengharapan. Amin.
+
+## Quotes
+
+*"Real peace is found not in a trouble-free life, but in a life that stays close to Jesus."*
+
+---
+
+# Daily Devotion
+
+## The Peace Christ Gives
+
+## Verse
+
+> **"Peace I leave with you; My peace I give to you. Not as the world gives do I give to you. Let not your heart be troubled, neither let it be afraid."**  
+> **John 14:27 (NKJV)**
+
+## Reflection
+
+The world defines peace as the absence of conflict, but Jesus offers something far greater. His peace remains even when life is uncertain, painful, or difficult because it is rooted in His unchanging presence rather than our changing circumstances.
+
+Before His crucifixion, Jesus knew His disciples would face fear and hardship. Yet His final gift to them was not an explanation of every future event—it was His peace. That same peace is available to every believer today.
+
+Whatever burden weighs on your heart, bring it to Christ. His presence calms anxious minds, strengthens weary souls, and reminds us that we are never alone. The storms around us may continue, but His peace enables us to stand firm through them.
+
+## Prayer
+
+Heavenly Father, thank You for the peace that only Jesus can give. When fear and anxiety arise, help me to trust in Your presence and Your promises. Guard my heart and mind with Your perfect peace, and let my life reflect quiet confidence in You. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"The peace of Christ is not the absence of storms, but the assurance that He is with you through every one of them."*`
   }
 ];
 
