@@ -7,87 +7,89 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Kasih yang Sempurna Melenyapkan Ketakutan
-date: 2026-08-07
-verse: 1 Yohanes 4:18
+title: Kuat dan Teguh dalam Penyertaan Tuhan
+date: 2026-08-08
+verse: Yosua 1:9
 ---
 
 # Embun Pagi
 
-## Ketika Kasih Tuhan Mengusir Rasa Takut
+## Berani Melangkah Bersama Tuhan
 
 ## Ayat
 
-_"Di dalam kasih tidak ada ketakutan: kasih yang sempurna melenyapkan ketakutan, sebab ketakutan mengandung hukuman dan barangsiapa takut, ia tidak sempurna di dalam kasih."_  
-**- 1 Yohanes 4:18**
+_"Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi."_  
+**- Yosua 1:9**
 
 ## Renungan
 
-Rasa takut sering muncul ketika kita merasa kehilangan kendali. Kita khawatir tentang hari esok, kesehatan, pekerjaan, keluarga, atau keputusan yang harus diambil. Semakin kita berusaha mengendalikan semuanya dengan kekuatan sendiri, semakin besar pula kecemasan yang kita rasakan.
+Yosua menerima tugas yang tidak mudah. Ia harus memimpin bangsa Israel memasuki Tanah Perjanjian setelah kepemimpinan Musa berakhir. Tanggung jawab itu pasti terasa berat. Namun Tuhan tidak pertama-tama memberikan strategi perang atau rencana yang rumit. Tuhan memberikan sebuah janji: **"Aku menyertai engkau."**
 
-Firman Tuhan mengingatkan bahwa kasih Allah jauh lebih besar daripada semua ketakutan kita. Dia mengenal kita secara pribadi, memahami setiap pergumulan, dan tidak pernah meninggalkan anak-anak-Nya. Ketika kita berdiam di dalam kasih-Nya, hati kita dipenuhi keyakinan bahwa apa pun yang terjadi, Tuhan tetap menyertai.
+Demikian pula dalam hidup kita. Ada saat-saat ketika kita diperhadapkan pada tanggung jawab yang besar, keputusan yang sulit, atau tantangan yang belum pernah kita hadapi sebelumnya. Secara manusia, kita mungkin merasa tidak siap. Namun Tuhan tidak memilih kita karena kita sudah kuat. Dia menguatkan setiap orang yang Dia panggil.
 
-Kasih Tuhan tidak menghapus semua tantangan dalam hidup, tetapi mengubah cara kita menghadapinya. Kita tidak lagi berjalan dengan rasa takut, melainkan dengan iman. Kita percaya bahwa Tuhan yang memegang masa depan kita adalah Tuhan yang sama yang setia memelihara kita hari ini.
+Keberanian sejati bukanlah tidak memiliki rasa takut, melainkan tetap melangkah karena yakin Tuhan berjalan bersama kita. Ketika Tuhan menyertai, tidak ada tantangan yang terlalu besar dan tidak ada masa depan yang terlalu gelap.
 
-Hari ini, lepaskan setiap ketakutan yang membebani hati Anda. Percayakan semuanya kepada Tuhan. Biarkan kasih-Nya memenuhi hati Anda dengan damai, keberanian, dan pengharapan yang baru.
+Hari ini, jangan biarkan rasa takut menghentikan langkah Anda. Peganglah janji Tuhan. Dia yang menyertai Yosua adalah Tuhan yang sama yang menyertai Anda hari ini.
 
 ## Quotes
 
-*"Hati yang dipenuhi kasih Kristus tidak lagi diperintah oleh rasa takut, tetapi dipimpin oleh iman."*
+*"Keberanian bukan berasal dari kekuatan diri, tetapi dari keyakinan bahwa Tuhan selalu berjalan bersama kita."*
 
 ---
 
 # Youth Devotion
 
-## God's Love Is Bigger Than Your Fear
+## Be Strong and Courageous
 
 ## Ayat
 
-_"Di dalam kasih tidak ada ketakutan..."_  
-**- 1 Yohanes 4:18**
+_"Kuatkan dan teguhkanlah hatimu... sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi."_  
+**- Yosua 1:9**
 
 ## Renungan
 
-Sebagai anak muda, wajar jika kamu pernah merasa takut—takut gagal, takut ditolak, takut tidak diterima, atau takut menghadapi masa depan. Namun ingatlah, perasaan takut tidak boleh menjadi penguasa hidupmu.
+Mungkin hari ini kamu sedang menghadapi sesuatu yang membuatmu takut. Presentasi di depan kelas, ujian, wawancara kerja, pelayanan baru, atau keputusan penting tentang masa depan.
 
-Tuhan mengenalmu lebih baik daripada siapa pun. Dia tidak melihatmu sebagai orang yang gagal, tetapi sebagai anak yang dikasihi-Nya. Ketika kamu percaya kepada kasih-Nya, keberanian akan mulai menggantikan ketakutanmu.
+Tuhan tidak berkata bahwa hidup akan selalu mudah. Tetapi Dia berjanji akan selalu menyertaimu. Saat kamu berjalan bersama Tuhan, kamu tidak pernah menghadapi tantangan sendirian.
 
-Jangan biarkan rasa takut menghentikan langkahmu untuk mengikuti panggilan Tuhan. Berdoalah, lakukan bagianmu dengan setia, dan percayalah bahwa Tuhan berjalan bersamamu di setiap langkah.
+Jangan menunggu sampai merasa percaya diri untuk melangkah. Melangkahlah bersama Tuhan, dan biarkan Dia yang memberikan kekuatan serta keberanian yang kamu perlukan.
 
 ## Doa
 
-Tuhan Yesus, terima kasih atas kasih-Mu yang sempurna. Saat rasa takut datang, ingatkanku bahwa Engkau selalu bersamaku. Tolong aku untuk hidup dengan iman, keberanian, dan keyakinan kepada-Mu setiap hari. Amin.
+Tuhan Yesus, terima kasih karena Engkau selalu menyertaiku. Saat aku merasa takut atau ragu, kuatkan hatiku agar aku tetap percaya dan berani mengikuti kehendak-Mu. Amin.
 
 ## Quotes
 
-*"When you know you are deeply loved by God, fear no longer controls your future."*
+*"Courage begins when you believe God is walking beside you."*
 
 ---
 
 # Daily Devotion
 
-## Perfect Love Drives Out Fear
+## Strong Because God Is With You
 
 ## Verse
 
-> **"There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."**  
-> **1 John 4:18 (NIV)**
+> **"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go."**  
+> **Joshua 1:9 (NIV)**
 
 ## Reflection
 
-Fear has a way of stealing our peace and limiting our faith. It whispers that we are alone, vulnerable, or not enough. But God's perfect love tells a different story. His love reminds us that we belong to Him, that He is always with us, and that nothing can separate us from His care.
+Joshua faced an overwhelming responsibility. He was called to lead God's people after Moses, one of the greatest leaders in history. Yet God's primary encouragement was not a better strategy or greater resources—it was His promise of constant presence.
 
-The more we understand God's love, the less fear controls our decisions. His love gives us courage to face uncertainty, strength to overcome challenges, and confidence to trust His plan even when we cannot see the outcome.
+The same promise is true for us today. We all encounter moments that stretch our faith and challenge our confidence. In those moments, God reminds us that our strength does not come from ourselves but from His unfailing presence.
 
-Today, choose to rest in the Father's love. Let His perfect love replace your anxiety with peace, your doubt with faith, and your fear with confidence in His unfailing promises.
+Courage is not the absence of fear. It is the decision to move forward because God goes before us, walks beside us, and remains faithful through every step.
+
+Whatever challenge lies ahead today, remember that you are not walking alone. The God who called you is the God who stays with you.
 
 ## Prayer
 
-Heavenly Father, thank You for loving me with a perfect and everlasting love. When fear tries to overwhelm me, remind me of Your faithful presence. Fill my heart with Your peace and help me to walk confidently in faith, knowing that Your love will never fail. In Jesus' name, Amen.
+Heavenly Father, thank You for Your constant presence in my life. When I feel weak or uncertain, remind me that You are with me wherever I go. Fill my heart with courage, strengthen my faith, and help me to trust You in every step I take. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"The deeper you live in God's love, the less room fear has to live in your heart."*
+*"God's presence is the greatest source of courage for every challenge we face."*
 `;
 
 // ============================================
@@ -625,7 +627,94 @@ Heavenly Father, thank You for the peace that only Jesus can give. When fear and
 ## Inspirational Quote
 
 *"The peace of Christ is not the absence of storms, but the assurance that He is with you through every one of them."*`
-  }
+  },
+ {
+   date: '2026-08-07',
+    title: 'Kasih yang Sempurna Melenyapkan Ketakutan',
+    verse: '1 Yohanes 4:18',
+    markdown: `---
+title: Kasih yang Sempurna Melenyapkan Ketakutan
+date: 2026-08-07
+verse: 1 Yohanes 4:18
+---
+
+# Embun Pagi
+
+## Ketika Kasih Tuhan Mengusir Rasa Takut
+
+## Ayat
+
+_"Di dalam kasih tidak ada ketakutan: kasih yang sempurna melenyapkan ketakutan, sebab ketakutan mengandung hukuman dan barangsiapa takut, ia tidak sempurna di dalam kasih."_  
+**- 1 Yohanes 4:18**
+
+## Renungan
+
+Rasa takut sering muncul ketika kita merasa kehilangan kendali. Kita khawatir tentang hari esok, kesehatan, pekerjaan, keluarga, atau keputusan yang harus diambil. Semakin kita berusaha mengendalikan semuanya dengan kekuatan sendiri, semakin besar pula kecemasan yang kita rasakan.
+
+Firman Tuhan mengingatkan bahwa kasih Allah jauh lebih besar daripada semua ketakutan kita. Dia mengenal kita secara pribadi, memahami setiap pergumulan, dan tidak pernah meninggalkan anak-anak-Nya. Ketika kita berdiam di dalam kasih-Nya, hati kita dipenuhi keyakinan bahwa apa pun yang terjadi, Tuhan tetap menyertai.
+
+Kasih Tuhan tidak menghapus semua tantangan dalam hidup, tetapi mengubah cara kita menghadapinya. Kita tidak lagi berjalan dengan rasa takut, melainkan dengan iman. Kita percaya bahwa Tuhan yang memegang masa depan kita adalah Tuhan yang sama yang setia memelihara kita hari ini.
+
+Hari ini, lepaskan setiap ketakutan yang membebani hati Anda. Percayakan semuanya kepada Tuhan. Biarkan kasih-Nya memenuhi hati Anda dengan damai, keberanian, dan pengharapan yang baru.
+
+## Quotes
+
+*"Hati yang dipenuhi kasih Kristus tidak lagi diperintah oleh rasa takut, tetapi dipimpin oleh iman."*
+
+---
+
+# Youth Devotion
+
+## God's Love Is Bigger Than Your Fear
+
+## Ayat
+
+_"Di dalam kasih tidak ada ketakutan..."_  
+**- 1 Yohanes 4:18**
+
+## Renungan
+
+Sebagai anak muda, wajar jika kamu pernah merasa takut—takut gagal, takut ditolak, takut tidak diterima, atau takut menghadapi masa depan. Namun ingatlah, perasaan takut tidak boleh menjadi penguasa hidupmu.
+
+Tuhan mengenalmu lebih baik daripada siapa pun. Dia tidak melihatmu sebagai orang yang gagal, tetapi sebagai anak yang dikasihi-Nya. Ketika kamu percaya kepada kasih-Nya, keberanian akan mulai menggantikan ketakutanmu.
+
+Jangan biarkan rasa takut menghentikan langkahmu untuk mengikuti panggilan Tuhan. Berdoalah, lakukan bagianmu dengan setia, dan percayalah bahwa Tuhan berjalan bersamamu di setiap langkah.
+
+## Doa
+
+Tuhan Yesus, terima kasih atas kasih-Mu yang sempurna. Saat rasa takut datang, ingatkanku bahwa Engkau selalu bersamaku. Tolong aku untuk hidup dengan iman, keberanian, dan keyakinan kepada-Mu setiap hari. Amin.
+
+## Quotes
+
+*"When you know you are deeply loved by God, fear no longer controls your future."*
+
+---
+
+# Daily Devotion
+
+## Perfect Love Drives Out Fear
+
+## Verse
+
+> **"There is no fear in love. But perfect love drives out fear, because fear has to do with punishment. The one who fears is not made perfect in love."**  
+> **1 John 4:18 (NIV)**
+
+## Reflection
+
+Fear has a way of stealing our peace and limiting our faith. It whispers that we are alone, vulnerable, or not enough. But God's perfect love tells a different story. His love reminds us that we belong to Him, that He is always with us, and that nothing can separate us from His care.
+
+The more we understand God's love, the less fear controls our decisions. His love gives us courage to face uncertainty, strength to overcome challenges, and confidence to trust His plan even when we cannot see the outcome.
+
+Today, choose to rest in the Father's love. Let His perfect love replace your anxiety with peace, your doubt with faith, and your fear with confidence in His unfailing promises.
+
+## Prayer
+
+Heavenly Father, thank You for loving me with a perfect and everlasting love. When fear tries to overwhelm me, remind me of Your faithful presence. Fill my heart with Your peace and help me to walk confidently in faith, knowing that Your love will never fail. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"The deeper you live in God's love, the less room fear has to live in your heart."*`
+  },
 ];
 
 // ============================================
