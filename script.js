@@ -7,89 +7,95 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Kuat dan Teguh dalam Penyertaan Tuhan
-date: 2026-08-08
-verse: Yosua 1:9
+title: Tuhan Memperbarui Segala Sesuatu
+date: 2026-08-09
+verse: Yesaya 43:19
 ---
 
 # Embun Pagi
 
-## Berani Melangkah Bersama Tuhan
+## Lihatlah, Aku Hendak Membuat Sesuatu yang Baru
 
 ## Ayat
 
-_"Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi."_  
-**- Yosua 1:9**
+_"Lihat, Aku hendak membuat sesuatu yang baru, yang sekarang sudah tumbuh, belumkah kamu mengetahuinya? Ya, Aku hendak membuat jalan di padang gurun dan sungai-sungai di padang belantara."_  
+**- Yesaya 43:19**
 
 ## Renungan
 
-Yosua menerima tugas yang tidak mudah. Ia harus memimpin bangsa Israel memasuki Tanah Perjanjian setelah kepemimpinan Musa berakhir. Tanggung jawab itu pasti terasa berat. Namun Tuhan tidak pertama-tama memberikan strategi perang atau rencana yang rumit. Tuhan memberikan sebuah janji: **"Aku menyertai engkau."**
+Ada masa ketika kita terlalu lama memandang apa yang telah berlalu. Kegagalan, kehilangan, keputusan yang salah, atau kesempatan yang terlewat dapat membuat kita merasa bahwa hidup tidak akan berubah.
 
-Demikian pula dalam hidup kita. Ada saat-saat ketika kita diperhadapkan pada tanggung jawab yang besar, keputusan yang sulit, atau tantangan yang belum pernah kita hadapi sebelumnya. Secara manusia, kita mungkin merasa tidak siap. Namun Tuhan tidak memilih kita karena kita sudah kuat. Dia menguatkan setiap orang yang Dia panggil.
+Namun Tuhan berkata, **"Aku hendak membuat sesuatu yang baru."**
 
-Keberanian sejati bukanlah tidak memiliki rasa takut, melainkan tetap melangkah karena yakin Tuhan berjalan bersama kita. Ketika Tuhan menyertai, tidak ada tantangan yang terlalu besar dan tidak ada masa depan yang terlalu gelap.
+Tuhan tidak terikat oleh masa lalu kita. Kegagalan bukan akhir dari cerita ketika hidup kita berada di tangan-Nya. Bahkan di tempat yang tampaknya tidak memiliki jalan, Tuhan sanggup membuka jalan. Di tempat yang terasa kering, Dia sanggup menghadirkan aliran kehidupan.
 
-Hari ini, jangan biarkan rasa takut menghentikan langkah Anda. Peganglah janji Tuhan. Dia yang menyertai Yosua adalah Tuhan yang sama yang menyertai Anda hari ini.
+Tetapi untuk melihat sesuatu yang baru, kita harus bersedia melepaskan apa yang lama. Jangan terus hidup dalam penyesalan terhadap masa lalu sampai kita gagal melihat pekerjaan Tuhan di hari ini.
+
+Mungkin Anda belum melihat perubahan yang sedang Tuhan kerjakan. Tetaplah percaya. Tuhan sering kali bekerja terlebih dahulu di tempat yang tidak terlihat sebelum hasilnya menjadi nyata.
+
+Hari ini, buka mata iman Anda. Mungkin Tuhan sedang menumbuhkan sesuatu yang baru tepat di depan Anda.
 
 ## Quotes
 
-*"Keberanian bukan berasal dari kekuatan diri, tetapi dari keyakinan bahwa Tuhan selalu berjalan bersama kita."*
+*"Ketika manusia melihat jalan buntu, Tuhan dapat melihat jalan yang belum pernah ada."*
 
 ---
 
 # Youth Devotion
 
-## Be Strong and Courageous
+## God Is Doing Something New
 
 ## Ayat
 
-_"Kuatkan dan teguhkanlah hatimu... sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi."_  
-**- Yosua 1:9**
+_"Lihat, Aku hendak membuat sesuatu yang baru..."_  
+**- Yesaya 43:19**
 
 ## Renungan
 
-Mungkin hari ini kamu sedang menghadapi sesuatu yang membuatmu takut. Presentasi di depan kelas, ujian, wawancara kerja, pelayanan baru, atau keputusan penting tentang masa depan.
+Pernah merasa masa lalu menentukan masa depanmu? Mungkin kamu pernah gagal, salah mengambil keputusan, kehilangan kesempatan, atau merasa tertinggal dari teman-temanmu.
 
-Tuhan tidak berkata bahwa hidup akan selalu mudah. Tetapi Dia berjanji akan selalu menyertaimu. Saat kamu berjalan bersama Tuhan, kamu tidak pernah menghadapi tantangan sendirian.
+Ingat, Tuhan tidak mendefinisikan masa depanmu berdasarkan kegagalan masa lalumu.
 
-Jangan menunggu sampai merasa percaya diri untuk melangkah. Melangkahlah bersama Tuhan, dan biarkan Dia yang memberikan kekuatan serta keberanian yang kamu perlukan.
+Tuhan dapat membuat sesuatu yang baru dari hidupmu. Yang penting bukan seberapa jauh kamu pernah jatuh, tetapi apakah kamu mau kembali berdiri dan berjalan bersama-Nya.
+
+Jangan terus melihat ke belakang sampai kamu tidak menyadari bahwa Tuhan sedang membuka pintu baru di depanmu. Berdoalah, belajar dari masa lalu, tetapi jangan tinggal di sana.
 
 ## Doa
 
-Tuhan Yesus, terima kasih karena Engkau selalu menyertaiku. Saat aku merasa takut atau ragu, kuatkan hatiku agar aku tetap percaya dan berani mengikuti kehendak-Mu. Amin.
+Tuhan Yesus, terima kasih karena Engkau selalu memberikan kesempatan baru. Tolong aku untuk melepaskan masa lalu, belajar dari kesalahanku, dan berani melangkah menuju masa depan yang Engkau siapkan. Amin.
 
 ## Quotes
 
-*"Courage begins when you believe God is walking beside you."*
+*"Your past may be part of your story, but it does not have to define your future."*
 
 ---
 
 # Daily Devotion
 
-## Strong Because God Is With You
+## God Makes a Way
 
 ## Verse
 
-> **"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go."**  
-> **Joshua 1:9 (NIV)**
+> **"See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."**  
+> **Isaiah 43:19 (NIV)**
 
 ## Reflection
 
-Joshua faced an overwhelming responsibility. He was called to lead God's people after Moses, one of the greatest leaders in history. Yet God's primary encouragement was not a better strategy or greater resources—it was His promise of constant presence.
+Sometimes the past becomes so loud that we fail to recognize what God is doing in the present. We remember failures, disappointments, and closed doors, and begin to believe that our best days are behind us.
 
-The same promise is true for us today. We all encounter moments that stretch our faith and challenge our confidence. In those moments, God reminds us that our strength does not come from ourselves but from His unfailing presence.
+But God is not limited by our past. He is the God who creates new beginnings, makes paths through impossible places, and brings life into seasons that seem completely barren.
 
-Courage is not the absence of fear. It is the decision to move forward because God goes before us, walks beside us, and remains faithful through every step.
+Isaiah reminds us to pay attention—to perceive the new thing God is already doing. It may not look dramatic at first. It may begin as a small opportunity, a renewed relationship, a new perspective, or simply a quiet change within our hearts.
 
-Whatever challenge lies ahead today, remember that you are not walking alone. The God who called you is the God who stays with you.
+Don't let yesterday blind you to God's work today. Trust Him with your future and remain open to the new thing He is bringing into your life.
 
 ## Prayer
 
-Heavenly Father, thank You for Your constant presence in my life. When I feel weak or uncertain, remind me that You are with me wherever I go. Fill my heart with courage, strengthen my faith, and help me to trust You in every step I take. In Jesus' name, Amen.
+Heavenly Father, thank You because You are the God of new beginnings. Help me to release the things I cannot change and recognize what You are doing in my life today. Give me faith to follow You into the future, even when I cannot yet see the entire path. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"God's presence is the greatest source of courage for every challenge we face."*
+*"When God begins something new, even the wilderness can become a pathway of hope."*
 `;
 
 // ============================================
@@ -715,6 +721,95 @@ Heavenly Father, thank You for loving me with a perfect and everlasting love. Wh
 
 *"The deeper you live in God's love, the less room fear has to live in your heart."*`
   },
+ {
+   date: '2026-08-08',
+    title: 'Kuat dan Teguh dalam Penyertaan Tuhan',
+    verse: 'Yosua 1:9',
+    markdown: `---
+   title: Kuat dan Teguh dalam Penyertaan Tuhan
+date: 2026-08-08
+verse: Yosua 1:9
+---
+
+# Embun Pagi
+
+## Berani Melangkah Bersama Tuhan
+
+## Ayat
+
+_"Bukankah telah Kuperintahkan kepadamu: kuatkan dan teguhkanlah hatimu? Janganlah kecut dan tawar hati, sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi."_  
+**- Yosua 1:9**
+
+## Renungan
+
+Yosua menerima tugas yang tidak mudah. Ia harus memimpin bangsa Israel memasuki Tanah Perjanjian setelah kepemimpinan Musa berakhir. Tanggung jawab itu pasti terasa berat. Namun Tuhan tidak pertama-tama memberikan strategi perang atau rencana yang rumit. Tuhan memberikan sebuah janji: **"Aku menyertai engkau."**
+
+Demikian pula dalam hidup kita. Ada saat-saat ketika kita diperhadapkan pada tanggung jawab yang besar, keputusan yang sulit, atau tantangan yang belum pernah kita hadapi sebelumnya. Secara manusia, kita mungkin merasa tidak siap. Namun Tuhan tidak memilih kita karena kita sudah kuat. Dia menguatkan setiap orang yang Dia panggil.
+
+Keberanian sejati bukanlah tidak memiliki rasa takut, melainkan tetap melangkah karena yakin Tuhan berjalan bersama kita. Ketika Tuhan menyertai, tidak ada tantangan yang terlalu besar dan tidak ada masa depan yang terlalu gelap.
+
+Hari ini, jangan biarkan rasa takut menghentikan langkah Anda. Peganglah janji Tuhan. Dia yang menyertai Yosua adalah Tuhan yang sama yang menyertai Anda hari ini.
+
+## Quotes
+
+*"Keberanian bukan berasal dari kekuatan diri, tetapi dari keyakinan bahwa Tuhan selalu berjalan bersama kita."*
+
+---
+
+# Youth Devotion
+
+## Be Strong and Courageous
+
+## Ayat
+
+_"Kuatkan dan teguhkanlah hatimu... sebab TUHAN, Allahmu, menyertai engkau ke mana pun engkau pergi."_  
+**- Yosua 1:9**
+
+## Renungan
+
+Mungkin hari ini kamu sedang menghadapi sesuatu yang membuatmu takut. Presentasi di depan kelas, ujian, wawancara kerja, pelayanan baru, atau keputusan penting tentang masa depan.
+
+Tuhan tidak berkata bahwa hidup akan selalu mudah. Tetapi Dia berjanji akan selalu menyertaimu. Saat kamu berjalan bersama Tuhan, kamu tidak pernah menghadapi tantangan sendirian.
+
+Jangan menunggu sampai merasa percaya diri untuk melangkah. Melangkahlah bersama Tuhan, dan biarkan Dia yang memberikan kekuatan serta keberanian yang kamu perlukan.
+
+## Doa
+
+Tuhan Yesus, terima kasih karena Engkau selalu menyertaiku. Saat aku merasa takut atau ragu, kuatkan hatiku agar aku tetap percaya dan berani mengikuti kehendak-Mu. Amin.
+
+## Quotes
+
+*"Courage begins when you believe God is walking beside you."*
+
+---
+
+# Daily Devotion
+
+## Strong Because God Is With You
+
+## Verse
+
+> **"Have I not commanded you? Be strong and courageous. Do not be afraid; do not be discouraged, for the LORD your God will be with you wherever you go."**  
+> **Joshua 1:9 (NIV)**
+
+## Reflection
+
+Joshua faced an overwhelming responsibility. He was called to lead God's people after Moses, one of the greatest leaders in history. Yet God's primary encouragement was not a better strategy or greater resources—it was His promise of constant presence.
+
+The same promise is true for us today. We all encounter moments that stretch our faith and challenge our confidence. In those moments, God reminds us that our strength does not come from ourselves but from His unfailing presence.
+
+Courage is not the absence of fear. It is the decision to move forward because God goes before us, walks beside us, and remains faithful through every step.
+
+Whatever challenge lies ahead today, remember that you are not walking alone. The God who called you is the God who stays with you.
+
+## Prayer
+
+Heavenly Father, thank You for Your constant presence in my life. When I feel weak or uncertain, remind me that You are with me wherever I go. Fill my heart with courage, strengthen my faith, and help me to trust You in every step I take. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"God's presence is the greatest source of courage for every challenge we face."*
+  }
 ];
 
 // ============================================
