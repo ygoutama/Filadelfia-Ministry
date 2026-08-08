@@ -91,7 +91,8 @@ Don't let yesterday blind you to God's work today. Trust Him with your future an
 
 ## Prayer
 
-Heavenly Father, thank You because You are the God of new beginnings. Help me to release the things I cannot change and recognize what You are doing in my life today. Give me faith to follow You into the future, even when I cannot yet see the entire path. In Jesus' name, Amen.
+Heavenly Father, thank You because You are the God of new beginnings. Help me to release the things I cannot change and recognize what You are doing in my life today. Give me faith to follow You into the future,
+even when I cannot yet see the entire path. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
@@ -156,7 +157,9 @@ Jangan pernah berpikir bahwa usiamu terlalu muda untuk dipakai Tuhan. Mulailah m
 
 ## Doa
 
-Tuhan Yesus, jadikan aku terang di mana pun Engkau menempatkanku. Tolong aku agar melalui perkataan, sikap, dan tindakanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
+Tuhan Yesus, jadikan aku terang di mana pun Engkau menempatkanku. Tolong aku agar melalui perkataan, sikap, dan tindakakanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
+
+## Quotesanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
 
 ## Quotes
 
@@ -545,10 +548,10 @@ Heavenly Father, thank You for Your unchanging love. Help me to abide in You dai
 
 *"To abide in Christ's love is to find rest for your soul in every season."*`
   },
-{
+  {
     date: '2026-08-06',
-    title: 'Damai yang Ditinggalkan Kristus',
-    verse: 'Yohanes 15:9',
+    title: 'Damai yang Tidak Dapat Diberikan Dunia',
+    verse: 'Yohanes 14:27',
     markdown: `---
 title: Damai yang Tidak Dapat Diberikan Dunia
 date: 2026-08-06
@@ -634,8 +637,8 @@ Heavenly Father, thank You for the peace that only Jesus can give. When fear and
 
 *"The peace of Christ is not the absence of storms, but the assurance that He is with you through every one of them."*`
   },
- {
-   date: '2026-08-07',
+  {
+    date: '2026-08-07',
     title: 'Kasih yang Sempurna Melenyapkan Ketakutan',
     verse: '1 Yohanes 4:18',
     markdown: `---
@@ -721,12 +724,12 @@ Heavenly Father, thank You for loving me with a perfect and everlasting love. Wh
 
 *"The deeper you live in God's love, the less room fear has to live in your heart."*`
   },
- {
-   date: '2026-08-08',
+  {
+    date: '2026-08-08',
     title: 'Kuat dan Teguh dalam Penyertaan Tuhan',
     verse: 'Yosua 1:9',
     markdown: `---
-   title: Kuat dan Teguh dalam Penyertaan Tuhan
+title: Kuat dan Teguh dalam Penyertaan Tuhan
 date: 2026-08-08
 verse: Yosua 1:9
 ---
@@ -808,7 +811,7 @@ Heavenly Father, thank You for Your constant presence in my life. When I feel we
 
 ## Inspirational Quote
 
-*"God's presence is the greatest source of courage for every challenge we face."*
+*"God's presence is the greatest source of courage for every challenge we face."*`
   }
 ];
 
