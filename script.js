@@ -7,96 +7,97 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Tuhan Memperbarui Segala Sesuatu
-date: 2026-08-09
-verse: Yesaya 43:19
+title: Setia dalam Perkara Kecil
+date: 2026-08-10
+verse: Lukas 16:10
 ---
 
 # Embun Pagi
 
-## Lihatlah, Aku Hendak Membuat Sesuatu yang Baru
+## Kesetiaan yang Dilihat Tuhan
 
 ## Ayat
 
-_"Lihat, Aku hendak membuat sesuatu yang baru, yang sekarang sudah tumbuh, belumkah kamu mengetahuinya? Ya, Aku hendak membuat jalan di padang gurun dan sungai-sungai di padang belantara."_  
-**- Yesaya 43:19**
+_"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa tidak benar dalam perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar."_  
+**- Lukas 16:10**
 
 ## Renungan
 
-Ada masa ketika kita terlalu lama memandang apa yang telah berlalu. Kegagalan, kehilangan, keputusan yang salah, atau kesempatan yang terlewat dapat membuat kita merasa bahwa hidup tidak akan berubah.
+Kita sering menunggu kesempatan besar untuk membuktikan diri. Kita ingin melakukan sesuatu yang luar biasa, mendapatkan posisi yang lebih tinggi, atau memiliki tanggung jawab yang lebih besar. Namun Tuhan sering kali memulai pembentukan karakter kita melalui perkara-perkara yang sederhana.
 
-Namun Tuhan berkata, **"Aku hendak membuat sesuatu yang baru."**
+Cara kita mengerjakan tugas kecil, menepati janji, menggunakan waktu, menjaga perkataan, dan memperlakukan orang lain ketika tidak ada yang melihat—semuanya berbicara tentang karakter kita.
 
-Tuhan tidak terikat oleh masa lalu kita. Kegagalan bukan akhir dari cerita ketika hidup kita berada di tangan-Nya. Bahkan di tempat yang tampaknya tidak memiliki jalan, Tuhan sanggup membuka jalan. Di tempat yang terasa kering, Dia sanggup menghadirkan aliran kehidupan.
+Kesetiaan tidak dibangun ketika kesempatan besar datang. Kesetiaan dibentuk jauh sebelumnya, melalui keputusan-keputusan kecil yang kita ambil setiap hari.
 
-Tetapi untuk melihat sesuatu yang baru, kita harus bersedia melepaskan apa yang lama. Jangan terus hidup dalam penyesalan terhadap masa lalu sampai kita gagal melihat pekerjaan Tuhan di hari ini.
+Jangan meremehkan pekerjaan sederhana yang Tuhan percayakan hari ini. Mungkin manusia tidak melihatnya, tetapi Tuhan melihat hati yang setia. Dan ketika kita terbukti dapat dipercaya dalam perkara kecil, Tuhan dapat mempercayakan perkara yang lebih besar pada waktu-Nya.
 
-Mungkin Anda belum melihat perubahan yang sedang Tuhan kerjakan. Tetaplah percaya. Tuhan sering kali bekerja terlebih dahulu di tempat yang tidak terlihat sebelum hasilnya menjadi nyata.
-
-Hari ini, buka mata iman Anda. Mungkin Tuhan sedang menumbuhkan sesuatu yang baru tepat di depan Anda.
+Hari ini, lakukan apa yang ada di tangan Anda dengan segenap hati. Tidak perlu menunggu sesuatu yang besar untuk menjadi setia. **Kesetiaan hari ini sedang mempersiapkan Anda untuk kepercayaan yang lebih besar esok hari.**
 
 ## Quotes
 
-*"Ketika manusia melihat jalan buntu, Tuhan dapat melihat jalan yang belum pernah ada."*
+*"Tuhan tidak selalu menguji kita melalui perkara besar; sering kali karakter kita terlihat melalui cara kita menangani perkara kecil."*
 
 ---
 
 # Youth Devotion
 
-## God Is Doing Something New
+## Be Faithful Where You Are
 
 ## Ayat
 
-_"Lihat, Aku hendak membuat sesuatu yang baru..."_  
-**- Yesaya 43:19**
+_"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar."_  
+**- Lukas 16:10**
 
 ## Renungan
 
-Pernah merasa masa lalu menentukan masa depanmu? Mungkin kamu pernah gagal, salah mengambil keputusan, kehilangan kesempatan, atau merasa tertinggal dari teman-temanmu.
+Mungkin kamu berpikir hidupmu akan berarti nanti—ketika lulus, mendapat pekerjaan, punya banyak uang, atau mencapai impianmu.
 
-Ingat, Tuhan tidak mendefinisikan masa depanmu berdasarkan kegagalan masa lalumu.
+Tetapi Tuhan tidak menunggu sampai nanti untuk memakai hidupmu. Dia sedang melihat bagaimana kamu menjalani hari ini.
 
-Tuhan dapat membuat sesuatu yang baru dari hidupmu. Yang penting bukan seberapa jauh kamu pernah jatuh, tetapi apakah kamu mau kembali berdiri dan berjalan bersama-Nya.
+Apakah kamu jujur ketika tidak ada yang melihat? Apakah kamu menghormati orang tua? Apakah kamu menyelesaikan tanggung jawabmu dengan baik? Apakah kamu tetap setia kepada Tuhan ketika tidak ada yang memuji?
 
-Jangan terus melihat ke belakang sampai kamu tidak menyadari bahwa Tuhan sedang membuka pintu baru di depanmu. Berdoalah, belajar dari masa lalu, tetapi jangan tinggal di sana.
+Hal-hal kecil itulah yang membentuk karakter besar.
+
+Jangan menunggu kesempatan luar biasa untuk hidup bagi Tuhan. Jadilah setia **di tempatmu berada sekarang**. Tuhan dapat menggunakan kesetiaan kecilmu untuk menghasilkan sesuatu yang jauh lebih besar daripada yang kamu bayangkan.
 
 ## Doa
 
-Tuhan Yesus, terima kasih karena Engkau selalu memberikan kesempatan baru. Tolong aku untuk melepaskan masa lalu, belajar dari kesalahanku, dan berani melangkah menuju masa depan yang Engkau siapkan. Amin.
+Tuhan Yesus, ajarku untuk setia dalam setiap hal yang Engkau percayakan kepadaku. Tolong aku menghargai perkara kecil dan melakukannya dengan hati yang benar, bahkan ketika tidak ada yang melihat. Bentuklah aku menjadi pribadi yang dapat dipercaya oleh-Mu. Amin.
 
 ## Quotes
 
-*"Your past may be part of your story, but it does not have to define your future."*
+*"Don't wait for a big opportunity to become faithful. Be faithful with what God has already placed in your hands."*
 
 ---
 
 # Daily Devotion
 
-## God Makes a Way
+## Faithful in the Little Things
 
 ## Verse
 
-> **"See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."**  
-> **Isaiah 43:19 (NIV)**
+> **"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."**  
+> **Luke 16:10 (NIV)**
 
 ## Reflection
 
-Sometimes the past becomes so loud that we fail to recognize what God is doing in the present. We remember failures, disappointments, and closed doors, and begin to believe that our best days are behind us.
+We often associate significance with big achievements, visible success, and major opportunities. But Jesus teaches us that true character is revealed in the small things.
 
-But God is not limited by our past. He is the God who creates new beginnings, makes paths through impossible places, and brings life into seasons that seem completely barren.
+How we manage our time, keep our promises, speak about others, handle responsibility, and act when no one is watching reveals whether we can be trusted.
 
-Isaiah reminds us to pay attention—to perceive the new thing God is already doing. It may not look dramatic at first. It may begin as a small opportunity, a renewed relationship, a new perspective, or simply a quiet change within our hearts.
+Faithfulness is not something we suddenly develop when a great opportunity arrives. It is built through countless small decisions made with integrity every day.
 
-Don't let yesterday blind you to God's work today. Trust Him with your future and remain open to the new thing He is bringing into your life.
+Perhaps what God has placed in your hands today seems ordinary. Do not underestimate it. Your current responsibility may be the training ground for tomorrow's assignment.
+
+Be faithful where you are. Do your work with excellence. Honor God in the details. What seems small in your eyes may be significant in His hands.
 
 ## Prayer
 
-Heavenly Father, thank You because You are the God of new beginnings. Help me to release the things I cannot change and recognize what You are doing in my life today. Give me faith to follow You into the future,
-even when I cannot yet see the entire path. In Jesus' name, Amen.
+Heavenly Father, teach me to be faithful in the little things. Give me integrity when no one is watching and excellence in everything You entrust to me. Shape my character so that I may become someone You can trust with greater responsibilities. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"When God begins something new, even the wilderness can become a pathway of hope."*
+*"Great faithfulness is built through small acts of obedience repeated every day."*
 `;
 
 // ============================================
@@ -157,9 +158,7 @@ Jangan pernah berpikir bahwa usiamu terlalu muda untuk dipakai Tuhan. Mulailah m
 
 ## Doa
 
-Tuhan Yesus, jadikan aku terang di mana pun Engkau menempatkanku. Tolong aku agar melalui perkataan, sikap, dan tindakakanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
-
-## Quotesanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
+Tuhan Yesus, jadikan aku terang di mana pun Engkau menempatkanku. Tolong aku agar melalui perkataan, sikap, dan tindakanku, orang lain dapat melihat kasih-Mu dan memuliakan nama-Mu. Amin.
 
 ## Quotes
 
@@ -812,6 +811,102 @@ Heavenly Father, thank You for Your constant presence in my life. When I feel we
 ## Inspirational Quote
 
 *"God's presence is the greatest source of courage for every challenge we face."*`
+  },
+ {
+    date: '2026-08-09',
+    title: 'Tuhan Memperbarui Segala Sesuatu',
+    verse: 'Yesaya 43:19',
+    markdown: `---
+title: Tuhan Memperbarui Segala Sesuatu
+date: 2026-08-09
+verse: Yesaya 43:19
+---
+
+# Embun Pagi
+
+## Lihatlah, Aku Hendak Membuat Sesuatu yang Baru
+
+## Ayat
+
+_"Lihat, Aku hendak membuat sesuatu yang baru, yang sekarang sudah tumbuh, belumkah kamu mengetahuinya? Ya, Aku hendak membuat jalan di padang gurun dan sungai-sungai di padang belantara."_  
+**- Yesaya 43:19**
+
+## Renungan
+
+Ada masa ketika kita terlalu lama memandang apa yang telah berlalu. Kegagalan, kehilangan, keputusan yang salah, atau kesempatan yang terlewat dapat membuat kita merasa bahwa hidup tidak akan berubah.
+
+Namun Tuhan berkata, **"Aku hendak membuat sesuatu yang baru."**
+
+Tuhan tidak terikat oleh masa lalu kita. Kegagalan bukan akhir dari cerita ketika hidup kita berada di tangan-Nya. Bahkan di tempat yang tampaknya tidak memiliki jalan, Tuhan sanggup membuka jalan. Di tempat yang terasa kering, Dia sanggup menghadirkan aliran kehidupan.
+
+Tetapi untuk melihat sesuatu yang baru, kita harus bersedia melepaskan apa yang lama. Jangan terus hidup dalam penyesalan terhadap masa lalu sampai kita gagal melihat pekerjaan Tuhan di hari ini.
+
+Mungkin Anda belum melihat perubahan yang sedang Tuhan kerjakan. Tetaplah percaya. Tuhan sering kali bekerja terlebih dahulu di tempat yang tidak terlihat sebelum hasilnya menjadi nyata.
+
+Hari ini, buka mata iman Anda. Mungkin Tuhan sedang menumbuhkan sesuatu yang baru tepat di depan Anda.
+
+## Quotes
+
+*"Ketika manusia melihat jalan buntu, Tuhan dapat melihat jalan yang belum pernah ada."*
+
+---
+
+# Youth Devotion
+
+## God Is Doing Something New
+
+## Ayat
+
+_"Lihat, Aku hendak membuat sesuatu yang baru..."_  
+**- Yesaya 43:19**
+
+## Renungan
+
+Pernah merasa masa lalu menentukan masa depanmu? Mungkin kamu pernah gagal, salah mengambil keputusan, kehilangan kesempatan, atau merasa tertinggal dari teman-temanmu.
+
+Ingat, Tuhan tidak mendefinisikan masa depanmu berdasarkan kegagalan masa lalumu.
+
+Tuhan dapat membuat sesuatu yang baru dari hidupmu. Yang penting bukan seberapa jauh kamu pernah jatuh, tetapi apakah kamu mau kembali berdiri dan berjalan bersama-Nya.
+
+Jangan terus melihat ke belakang sampai kamu tidak menyadari bahwa Tuhan sedang membuka pintu baru di depanmu. Berdoalah, belajar dari masa lalu, tetapi jangan tinggal di sana.
+
+## Doa
+
+Tuhan Yesus, terima kasih karena Engkau selalu memberikan kesempatan baru. Tolong aku untuk melepaskan masa lalu, belajar dari kesalahanku, dan berani melangkah menuju masa depan yang Engkau siapkan. Amin.
+
+## Quotes
+
+*"Your past may be part of your story, but it does not have to define your future."*
+
+---
+
+# Daily Devotion
+
+## God Makes a Way
+
+## Verse
+
+> **"See, I am doing a new thing! Now it springs up; do you not perceive it? I am making a way in the wilderness and streams in the wasteland."**  
+> **Isaiah 43:19 (NIV)**
+
+## Reflection
+
+Sometimes the past becomes so loud that we fail to recognize what God is doing in the present. We remember failures, disappointments, and closed doors, and begin to believe that our best days are behind us.
+
+But God is not limited by our past. He is the God who creates new beginnings, makes paths through impossible places, and brings life into seasons that seem completely barren.
+
+Isaiah reminds us to pay attention—to perceive the new thing God is already doing. It may not look dramatic at first. It may begin as a small opportunity, a renewed relationship, a new perspective, or simply a quiet change within our hearts.
+
+Don't let yesterday blind you to God's work today. Trust Him with your future and remain open to the new thing He is bringing into your life.
+
+## Prayer
+
+Heavenly Father, thank You because You are the God of new beginnings. Help me to release the things I cannot change and recognize what You are doing in my life today. Give me faith to follow You into the future, even when I cannot yet see the entire path. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"When God begins something new, even the wilderness can become a pathway of hope."*
+`
   }
 ];
 
@@ -1124,3 +1219,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
   render(TODAY_MD);
 });
+ 
