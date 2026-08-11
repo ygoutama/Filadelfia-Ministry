@@ -7,112 +7,111 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Ketika Tuhan Menjadi Kekuatanmu
-date: 2026-08-11
-verse: Mazmur 46:2
+title: Tuhan Menuntun Langkahmu
+date: 2026-08-12
+verse: Amsal 16:9
 ---
 
 # Embun Pagi
 
-## Tuhan Adalah Perlindungan Kita
+## Ketika Rencana Kita Bertemu dengan Kehendak Tuhan
 
 ## Ayat
 
-_"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti."_  
-**- Mazmur 46:2**
+_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
+**- Amsal 16:9**
 
 ## Renungan
 
-Ada saat ketika kita merasa harus kuat untuk menghadapi semuanya sendiri. Kita berusaha menyelesaikan masalah, menjaga semuanya tetap terkendali, dan tidak ingin terlihat lemah di hadapan orang lain.
+Kita semua memiliki rencana. Kita merancang masa depan, menetapkan target, membuat keputusan, dan berharap semuanya berjalan sesuai dengan apa yang sudah kita pikirkan.
 
-Namun Tuhan tidak pernah meminta kita menjalani hidup dengan kekuatan sendiri.
+Namun hidup tidak selalu mengikuti rencana kita.
 
-Mazmur 46 mengingatkan bahwa **Allah adalah tempat perlindungan dan kekuatan kita**. Ini bukan sekadar kalimat penghiburan. Ini adalah sebuah realitas yang dapat kita pegang ketika keadaan mulai terasa berat.
+Ada pintu yang kita harapkan terbuka tetapi justru tertutup. Ada jalan yang kita kira terbaik ternyata membawa kita ke arah yang berbeda. Ada hal yang kita perjuangkan begitu lama tetapi Tuhan justru meminta kita melepaskannya.
 
-Perhatikan kata **"sangat terbukti."** Tuhan bukan hanya penolong ketika semuanya baik-baik saja. Dia terbukti menjadi penolong justru ketika kita berada dalam kesesakan.
+Pada saat seperti itu, kita sering bertanya, **"Mengapa Tuhan tidak mengikuti rencanaku?"**
 
-Mungkin hari ini ada sesuatu yang sedang Anda perjuangkan sendirian. Beban yang tidak Anda ceritakan kepada siapa pun. Keputusan yang membuat Anda bingung. Masa depan yang belum jelas.
+Mungkin pertanyaannya perlu dibalik: **"Tuhan, ke mana Engkau sedang menuntunku?"**
 
-Bawalah semuanya kepada Tuhan.
+Amsal 16:9 mengingatkan bahwa kita boleh membuat rencana, tetapi Tuhanlah yang menentukan langkah. Ini bukan berarti kita tidak perlu merencanakan masa depan. Justru kita harus merencanakan dengan sungguh-sungguh, bekerja dengan tekun, dan mengambil keputusan dengan bijaksana. Namun pada akhirnya, kita menyerahkan hasil dan arah perjalanan kepada Tuhan.
 
-Tidak semua masalah langsung akan hilang ketika kita berdoa. Tetapi ketika kita datang kepada-Nya, kita tidak lagi menghadapi masalah itu sendirian.
+Karena kita hanya melihat apa yang ada di depan mata, sementara Tuhan melihat seluruh perjalanan.
 
-**Kekuatan kita mungkin terbatas, tetapi Tuhan tidak pernah kehabisan kekuatan.**
+Hari ini, jika ada rencana yang tidak berjalan seperti yang Anda harapkan, jangan langsung menganggapnya sebagai kegagalan. Bisa jadi Tuhan sedang mengarahkan Anda kepada sesuatu yang belum mampu Anda lihat.
+
+**Percayalah kepada tangan yang menuntun, bahkan ketika jalan di depan belum jelas.**
 
 ## Quotes
 
-*"Saat kekuatan kita berhenti, di situlah kita belajar bahwa kekuatan Tuhan tidak pernah berakhir."*
+*"Kita boleh merancang jalan, tetapi Tuhan melihat tujuan yang belum mampu kita lihat."*
 
 ---
 
 # Youth Devotion
 
-## You Don't Have to Be Strong Alone
+## Let God Lead Your Plans
 
 ## Ayat
 
-_"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti."_  
-**- Mazmur 46:2**
+_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
+**- Amsal 16:9**
 
 ## Renungan
 
-Kadang kamu merasa harus terlihat kuat di depan semua orang.
+Kamu mungkin sudah punya banyak rencana untuk masa depan. Mau kuliah di mana, bekerja di mana, ingin menjadi apa, bahkan mungkin sudah punya target hidup beberapa tahun ke depan.
 
-Kamu tersenyum meskipun sedang lelah. Kamu mengatakan "aku baik-baik saja" meskipun sebenarnya sedang banyak pikiran. Kamu mencoba menyelesaikan semuanya sendiri karena tidak ingin dianggap lemah.
+Itu bagus.
 
-Tetapi Tuhan tidak meminta kamu berpura-pura kuat.
+Tetapi jangan sampai rencana membuatmu lupa bahwa Tuhan juga punya kehendak.
 
-Kamu boleh datang kepada-Nya dengan hati yang lelah. Kamu boleh membawa ketakutanmu. Kamu boleh mengakui bahwa kamu tidak tahu harus berbuat apa.
+Kadang sesuatu yang kamu inginkan tidak terjadi. Kamu gagal masuk tempat yang kamu inginkan, kehilangan kesempatan, atau harus mengubah rencana yang sudah kamu susun lama.
 
-Tuhan bukan hanya melihat kelemahanmu. **Dia adalah kekuatanmu di tengah kelemahan itu.**
+Jangan langsung berpikir bahwa Tuhan sedang menghukummu.
 
-Jadi ketika hidup terasa berat, jangan menjauh dari Tuhan. Justru datanglah lebih dekat.
+Bisa jadi Tuhan sedang **mengalihkan langkahmu.**
+
+Kamu tidak harus memahami seluruh rencana Tuhan hari ini. Yang perlu kamu lakukan adalah tetap berjalan bersama-Nya, melakukan yang terbaik, dan bersedia mengikuti ketika Dia mengubah arah.
 
 ## Doa
 
-Tuhan Yesus, ketika aku merasa lemah dan tidak tahu harus berbuat apa, ingatkan aku bahwa aku tidak sendirian. Jadilah tempat perlindungan dan kekuatanku. Ajarku untuk percaya kepada-Mu dalam setiap keadaan. Amin.
+Tuhan Yesus, aku menyerahkan semua rencana dan masa depanku ke dalam tangan-Mu. Berikan aku hikmat untuk merencanakan, kerendahan hati untuk menerima perubahan, dan iman untuk mengikuti arah yang Engkau tentukan. Amin.
 
 ## Quotes
 
-*"You don't have to have everything figured out when you know Who holds your future."*
+*"Sometimes God's redirection is not rejection; it is protection and preparation."*
 
 ---
 
 # Daily Devotion
 
-## God Is Our Strength
+## Let God Direct Your Steps
 
 ## Verse
 
-> **"God is our refuge and strength, A very present help in trouble."**  
-> **Psalm 46:1 (NKJV)**
+> **"A man's heart plans his way, But the LORD directs his steps."**  
+> **Proverbs 16:9 (NKJV)**
 
 ## Reflection
 
-There are moments when life feels too heavy to carry. We may have responsibilities we cannot escape, problems we cannot immediately solve, and questions we cannot yet answer.
+Planning is part of responsible living. We should dream, prepare, set goals, and work diligently toward them. But there is a difference between making plans and demanding that God follow them.
 
-In those moments, Psalm 46 gives us a powerful reminder: **God is our refuge and strength.**
+Sometimes God changes our direction.
 
-A refuge is a place where we can run when danger comes. Strength is what enables us to continue when our own strength is no longer enough.
+A door closes. An opportunity disappears. A plan fails. A relationship ends. A path we thought was right suddenly becomes impossible.
 
-God offers both.
+It can be painful because we see only the immediate disappointment. God, however, sees the entire road.
 
-He does not promise that we will never face trouble. Instead, He promises His presence in the middle of it. We may not always understand what He is doing, but we can always trust who He is.
+Trusting God does not mean abandoning our plans. It means holding them with open hands. We plan faithfully, but we remain willing to follow wherever God leads.
 
-So today, stop trying to carry everything alone. Bring your burdens to God. Rest in His presence. Ask Him for wisdom, strength, and peace.
-
-You may feel weak, but you are not without help.
-
-**The God who stands with you is greater than the trouble standing before you.**
+Perhaps the unexpected turn you are facing today is not the end of your journey. It may be God's way of placing your feet on a better path.
 
 ## Prayer
 
-Heavenly Father, thank You for being my refuge and strength. When I feel overwhelmed, remind me that I do not have to face everything alone. Give me wisdom for every decision, strength for every challenge, and peace for every uncertainty. Help me to trust Your presence even when I cannot see the way forward. In Jesus' name, Amen.
+Heavenly Father, I surrender my plans, dreams, and expectations to You. Give me wisdom to make good decisions and humility to accept Your direction when my plans change. Help me trust that Your ways are higher than mine and that You are always leading me toward Your purpose. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"You may not be strong enough for everything you face, but God is."*
-`;
+*"A changed plan is not always a failed plan; sometimes it is God's way of leading you to a better destination."*`;
 
 // ============================================
 // EMBEDDED ARCHIVE DATA
@@ -920,6 +919,215 @@ Heavenly Father, thank You because You are the God of new beginnings. Help me to
 ## Inspirational Quote
 
 *"When God begins something new, even the wilderness can become a pathway of hope."*
+`
+  },
+     {
+    date: '2026-08-10',
+    title: 'Setia dalam Perkara Kecil',
+    verse: 'Lukas 16:10',
+    markdown: `---
+title: Setia dalam Perkara Kecil
+date: 2026-08-10
+verse: Lukas 16:10
+---
+
+# Embun Pagi
+
+## Kesetiaan yang Dilihat Tuhan
+
+## Ayat
+
+_"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa tidak benar dalam perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar."_  
+**- Lukas 16:10**
+
+## Renungan
+
+Kita sering menunggu kesempatan besar untuk membuktikan diri. Kita ingin melakukan sesuatu yang luar biasa, mendapatkan posisi yang lebih tinggi, atau memiliki tanggung jawab yang lebih besar. Namun Tuhan sering kali memulai pembentukan karakter kita melalui perkara-perkara yang sederhana.
+
+Cara kita mengerjakan tugas kecil, menepati janji, menggunakan waktu, menjaga perkataan, dan memperlakukan orang lain ketika tidak ada yang melihat—semuanya berbicara tentang karakter kita.
+
+Kesetiaan tidak dibangun ketika kesempatan besar datang. Kesetiaan dibentuk jauh sebelumnya, melalui keputusan-keputusan kecil yang kita ambil setiap hari.
+
+Jangan meremehkan pekerjaan sederhana yang Tuhan percayakan hari ini. Mungkin manusia tidak melihatnya, tetapi Tuhan melihat hati yang setia. Dan ketika kita terbukti dapat dipercaya dalam perkara kecil, Tuhan dapat mempercayakan perkara yang lebih besar pada waktu-Nya.
+
+Hari ini, lakukan apa yang ada di tangan Anda dengan segenap hati. Tidak perlu menunggu sesuatu yang besar untuk menjadi setia. **Kesetiaan hari ini sedang mempersiapkan Anda untuk kepercayaan yang lebih besar esok hari.**
+
+## Quotes
+
+*"Tuhan tidak selalu menguji kita melalui perkara besar; sering kali karakter kita terlihat melalui cara kita menangani perkara kecil."*
+
+---
+
+# Youth Devotion
+
+## Be Faithful Where You Are
+
+## Ayat
+
+_"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar."_  
+**- Lukas 16:10**
+
+## Renungan
+
+Mungkin kamu berpikir hidupmu akan berarti nanti—ketika lulus, mendapat pekerjaan, punya banyak uang, atau mencapai impianmu.
+
+Tetapi Tuhan tidak menunggu sampai nanti untuk memakai hidupmu. Dia sedang melihat bagaimana kamu menjalani hari ini.
+
+Apakah kamu jujur ketika tidak ada yang melihat? Apakah kamu menghormati orang tua? Apakah kamu menyelesaikan tanggung jawabmu dengan baik? Apakah kamu tetap setia kepada Tuhan ketika tidak ada yang memuji?
+
+Hal-hal kecil itulah yang membentuk karakter besar.
+
+Jangan menunggu kesempatan luar biasa untuk hidup bagi Tuhan. Jadilah setia **di tempatmu berada sekarang**. Tuhan dapat menggunakan kesetiaan kecilmu untuk menghasilkan sesuatu yang jauh lebih besar daripada yang kamu bayangkan.
+
+## Doa
+
+Tuhan Yesus, ajarku untuk setia dalam setiap hal yang Engkau percayakan kepadaku. Tolong aku menghargai perkara kecil dan melakukannya dengan hati yang benar, bahkan ketika tidak ada yang melihat. Bentuklah aku menjadi pribadi yang dapat dipercaya oleh-Mu. Amin.
+
+## Quotes
+
+*"Don't wait for a big opportunity to become faithful. Be faithful with what God has already placed in your hands."*
+
+---
+
+# Daily Devotion
+
+## Faithful in the Little Things
+
+## Verse
+
+> **"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."**  
+> **Luke 16:10 (NIV)**
+
+## Reflection
+
+We often associate significance with big achievements, visible success, and major opportunities. But Jesus teaches us that true character is revealed in the small things.
+
+How we manage our time, keep our promises, speak about others, handle responsibility, and act when no one is watching reveals whether we can be trusted.
+
+Faithfulness is not something we suddenly develop when a great opportunity arrives. It is built through countless small decisions made with integrity every day.
+
+Perhaps what God has placed in your hands today seems ordinary. Do not underestimate it. Your current responsibility may be the training ground for tomorrow's assignment.
+
+Be faithful where you are. Do your work with excellence. Honor God in the details. What seems small in your eyes may be significant in His hands.
+
+## Prayer
+
+Heavenly Father, teach me to be faithful in the little things. Give me integrity when no one is watching and excellence in everything You entrust to me. Shape my character so that I may become someone You can trust with greater responsibilities. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"Great faithfulness is built through small acts of obedience repeated every day."*`
+     },
+     {
+    date: '2026-08-11',
+    title: 'Ketika Tuhan Menjadi Kekuatanmu',
+    verse: 'Mazmur 46:2',
+    markdown: `---
+title: Ketika Tuhan Menjadi Kekuatanmu
+date: 2026-08-11
+verse: Mazmur 46:2
+---
+
+# Embun Pagi
+
+## Tuhan Adalah Perlindungan Kita
+
+## Ayat
+
+_"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti."_  
+**- Mazmur 46:2**
+
+## Renungan
+
+Ada saat ketika kita merasa harus kuat untuk menghadapi semuanya sendiri. Kita berusaha menyelesaikan masalah, menjaga semuanya tetap terkendali, dan tidak ingin terlihat lemah di hadapan orang lain.
+
+Namun Tuhan tidak pernah meminta kita menjalani hidup dengan kekuatan sendiri.
+
+Mazmur 46 mengingatkan bahwa **Allah adalah tempat perlindungan dan kekuatan kita**. Ini bukan sekadar kalimat penghiburan. Ini adalah sebuah realitas yang dapat kita pegang ketika keadaan mulai terasa berat.
+
+Perhatikan kata **"sangat terbukti."** Tuhan bukan hanya penolong ketika semuanya baik-baik saja. Dia terbukti menjadi penolong justru ketika kita berada dalam kesesakan.
+
+Mungkin hari ini ada sesuatu yang sedang Anda perjuangkan sendirian. Beban yang tidak Anda ceritakan kepada siapa pun. Keputusan yang membuat Anda bingung. Masa depan yang belum jelas.
+
+Bawalah semuanya kepada Tuhan.
+
+Tidak semua masalah langsung akan hilang ketika kita berdoa. Tetapi ketika kita datang kepada-Nya, kita tidak lagi menghadapi masalah itu sendirian.
+
+**Kekuatan kita mungkin terbatas, tetapi Tuhan tidak pernah kehabisan kekuatan.**
+
+## Quotes
+
+*"Saat kekuatan kita berhenti, di situlah kita belajar bahwa kekuatan Tuhan tidak pernah berakhir."*
+
+---
+
+# Youth Devotion
+
+## You Don't Have to Be Strong Alone
+
+## Ayat
+
+_"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti."_  
+**- Mazmur 46:2**
+
+## Renungan
+
+Kadang kamu merasa harus terlihat kuat di depan semua orang.
+
+Kamu tersenyum meskipun sedang lelah. Kamu mengatakan "aku baik-baik saja" meskipun sebenarnya sedang banyak pikiran. Kamu mencoba menyelesaikan semuanya sendiri karena tidak ingin dianggap lemah.
+
+Tetapi Tuhan tidak meminta kamu berpura-pura kuat.
+
+Kamu boleh datang kepada-Nya dengan hati yang lelah. Kamu boleh membawa ketakutanmu. Kamu boleh mengakui bahwa kamu tidak tahu harus berbuat apa.
+
+Tuhan bukan hanya melihat kelemahanmu. **Dia adalah kekuatanmu di tengah kelemahan itu.**
+
+Jadi ketika hidup terasa berat, jangan menjauh dari Tuhan. Justru datanglah lebih dekat.
+
+## Doa
+
+Tuhan Yesus, ketika aku merasa lemah dan tidak tahu harus berbuat apa, ingatkan aku bahwa aku tidak sendirian. Jadilah tempat perlindungan dan kekuatanku. Ajarku untuk percaya kepada-Mu dalam setiap keadaan. Amin.
+
+## Quotes
+
+*"You don't have to have everything figured out when you know Who holds your future."*
+
+---
+
+# Daily Devotion
+
+## God Is Our Strength
+
+## Verse
+
+> **"God is our refuge and strength, A very present help in trouble."**  
+> **Psalm 46:1 (NKJV)**
+
+## Reflection
+
+There are moments when life feels too heavy to carry. We may have responsibilities we cannot escape, problems we cannot immediately solve, and questions we cannot yet answer.
+
+In those moments, Psalm 46 gives us a powerful reminder: **God is our refuge and strength.**
+
+A refuge is a place where we can run when danger comes. Strength is what enables us to continue when our own strength is no longer enough.
+
+God offers both.
+
+He does not promise that we will never face trouble. Instead, He promises His presence in the middle of it. We may not always understand what He is doing, but we can always trust who He is.
+
+So today, stop trying to carry everything alone. Bring your burdens to God. Rest in His presence. Ask Him for wisdom, strength, and peace.
+
+You may feel weak, but you are not without help.
+
+**The God who stands with you is greater than the trouble standing before you.**
+
+## Prayer
+
+Heavenly Father, thank You for being my refuge and strength. When I feel overwhelmed, remind me that I do not have to face everything alone. Give me wisdom for every decision, strength for every challenge, and peace for every uncertainty. Help me to trust Your presence even when I cannot see the way forward. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"You may not be strong enough for everything you face, but God is."*
 `
   }
 ];
