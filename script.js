@@ -7,111 +7,106 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Tuhan Menuntun Langkahmu
-date: 2026-08-12
-verse: Amsal 16:9
----
+title: Tuhan yang Memegang Masa Depan
+date: 2026-08-13
+verse: Yeremia 29:11
 
 # Embun Pagi
 
-## Ketika Rencana Kita Bertemu dengan Kehendak Tuhan
+Ada Harapan di Tangan Tuhan
 
 ## Ayat
 
-_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
-**- Amsal 16:9**
+«"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan."
+- Yeremia 29:11»
 
 ## Renungan
 
-Kita semua memiliki rencana. Kita merancang masa depan, menetapkan target, membuat keputusan, dan berharap semuanya berjalan sesuai dengan apa yang sudah kita pikirkan.
+Ada masa ketika masa depan terasa begitu tidak pasti. Kita sudah berusaha merencanakan semuanya, tetapi keadaan justru berubah di luar kendali.
 
-Namun hidup tidak selalu mengikuti rencana kita.
+Israel mengalami hal yang serupa. Mereka berada dalam pembuangan dan mungkin bertanya-tanya apakah masa depan mereka masih memiliki harapan. Namun melalui Nabi Yeremia, Tuhan mengingatkan bahwa keadaan mereka bukan akhir dari cerita.
 
-Ada pintu yang kita harapkan terbuka tetapi justru tertutup. Ada jalan yang kita kira terbaik ternyata membawa kita ke arah yang berbeda. Ada hal yang kita perjuangkan begitu lama tetapi Tuhan justru meminta kita melepaskannya.
+Tuhan tetap memiliki rancangan.
 
-Pada saat seperti itu, kita sering bertanya, **"Mengapa Tuhan tidak mengikuti rencanaku?"**
+Begitu pula dengan hidup kita. Ada musim ketika kita tidak mengerti mengapa Tuhan mengizinkan sesuatu terjadi. Ada pintu yang tertutup, rencana yang gagal, atau perjalanan yang harus berubah arah. Namun keterbatasan penglihatan kita tidak membatasi pekerjaan Tuhan.
 
-Mungkin pertanyaannya perlu dibalik: **"Tuhan, ke mana Engkau sedang menuntunku?"**
+Kita hanya melihat hari ini. Tuhan melihat seluruh perjalanan.
 
-Amsal 16:9 mengingatkan bahwa kita boleh membuat rencana, tetapi Tuhanlah yang menentukan langkah. Ini bukan berarti kita tidak perlu merencanakan masa depan. Justru kita harus merencanakan dengan sungguh-sungguh, bekerja dengan tekun, dan mengambil keputusan dengan bijaksana. Namun pada akhirnya, kita menyerahkan hasil dan arah perjalanan kepada Tuhan.
+Karena itu, jangan menilai masa depan berdasarkan keadaan hari ini. Jika Tuhan masih memegang hidup kita, masih ada harapan.
 
-Karena kita hanya melihat apa yang ada di depan mata, sementara Tuhan melihat seluruh perjalanan.
-
-Hari ini, jika ada rencana yang tidak berjalan seperti yang Anda harapkan, jangan langsung menganggapnya sebagai kegagalan. Bisa jadi Tuhan sedang mengarahkan Anda kepada sesuatu yang belum mampu Anda lihat.
-
-**Percayalah kepada tangan yang menuntun, bahkan ketika jalan di depan belum jelas.**
+Percayakan masa depan kepada-Nya. Tetaplah setia dalam apa yang Tuhan percayakan hari ini, sebab Dia sedang bekerja bahkan ketika kita belum mampu melihat hasilnya.
 
 ## Quotes
 
-*"Kita boleh merancang jalan, tetapi Tuhan melihat tujuan yang belum mampu kita lihat."*
+«"Masa depan mungkin belum terlihat oleh mata kita, tetapi sudah berada di tangan Tuhan." »
 
 ---
 
 # Youth Devotion
 
-## Let God Lead Your Plans
+Your Future Is in God's Hands
 
 ## Ayat
 
-_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
-**- Amsal 16:9**
+«"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu..."
+- Yeremia 29:11»
 
 ## Renungan
 
-Kamu mungkin sudah punya banyak rencana untuk masa depan. Mau kuliah di mana, bekerja di mana, ingin menjadi apa, bahkan mungkin sudah punya target hidup beberapa tahun ke depan.
+Masa depan kadang terasa menakutkan.
 
-Itu bagus.
+Kamu mungkin bertanya: "Aku akan jadi apa?" "Apakah aku akan berhasil?" "Bagaimana kalau aku gagal?" "Apakah hidupku akan sesuai dengan impianku?"
 
-Tetapi jangan sampai rencana membuatmu lupa bahwa Tuhan juga punya kehendak.
+Tidak semua jawabannya harus kamu ketahui sekarang.
 
-Kadang sesuatu yang kamu inginkan tidak terjadi. Kamu gagal masuk tempat yang kamu inginkan, kehilangan kesempatan, atau harus mengubah rencana yang sudah kamu susun lama.
+Tuhan sudah melihat perjalanan yang belum kamu jalani. Dia tahu kesempatan yang akan datang, tantangan yang akan kamu hadapi, dan proses yang akan membentukmu menjadi pribadi yang Dia kehendaki.
 
-Jangan langsung berpikir bahwa Tuhan sedang menghukummu.
+Jangan biarkan ketakutan terhadap masa depan mencuri sukacita hari ini.
 
-Bisa jadi Tuhan sedang **mengalihkan langkahmu.**
+Belajarlah. Berusahalah. Berdoalah. Persiapkan dirimu sebaik mungkin. Tetapi setelah melakukan bagianmu, percayakan hasilnya kepada Tuhan.
 
-Kamu tidak harus memahami seluruh rencana Tuhan hari ini. Yang perlu kamu lakukan adalah tetap berjalan bersama-Nya, melakukan yang terbaik, dan bersedia mengikuti ketika Dia mengubah arah.
+Kamu tidak harus mengetahui seluruh masa depan untuk bisa melangkah dengan iman hari ini.
 
 ## Doa
 
-Tuhan Yesus, aku menyerahkan semua rencana dan masa depanku ke dalam tangan-Mu. Berikan aku hikmat untuk merencanakan, kerendahan hati untuk menerima perubahan, dan iman untuk mengikuti arah yang Engkau tentukan. Amin.
+Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Saat aku takut dan tidak tahu apa yang akan terjadi, ingatkan aku bahwa Engkau sudah mengetahui jalanku. Berikan aku iman untuk menjalani hari ini dengan setia dan percaya kepada rencana-Mu. Amin.
 
 ## Quotes
 
-*"Sometimes God's redirection is not rejection; it is protection and preparation."*
+«"You don't need to know your whole future when you know the One who holds it."»
 
 ---
 
 # Daily Devotion
 
-## Let God Direct Your Steps
+A Future Filled With Hope
 
 ## Verse
 
-> **"A man's heart plans his way, But the LORD directs his steps."**  
-> **Proverbs 16:9 (NKJV)**
+«"For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future."
+Jeremiah 29:11 (NIV)»
 
 ## Reflection
 
-Planning is part of responsible living. We should dream, prepare, set goals, and work diligently toward them. But there is a difference between making plans and demanding that God follow them.
+Uncertainty about the future can easily become a source of fear. We want to know what will happen, where every decision will lead, and whether everything will eventually work out.
 
-Sometimes God changes our direction.
+But Jeremiah 29:11 reminds us that God's perspective is greater than ours.
 
-A door closes. An opportunity disappears. A plan fails. A relationship ends. A path we thought was right suddenly becomes impossible.
+This promise was given to people who were living through a difficult season. Their circumstances did not look hopeful, yet God was still working according to His purpose.
 
-It can be painful because we see only the immediate disappointment. God, however, sees the entire road.
+The same truth encourages us today. A difficult season does not mean God has abandoned His plan. A closed door does not mean there is no future. Sometimes we simply cannot see what God is preparing beyond what we currently understand.
 
-Trusting God does not mean abandoning our plans. It means holding them with open hands. We plan faithfully, but we remain willing to follow wherever God leads.
+Do your part faithfully today. Make wise decisions. Keep growing. Keep praying. Then place tomorrow in God's hands.
 
-Perhaps the unexpected turn you are facing today is not the end of your journey. It may be God's way of placing your feet on a better path.
+You may not know what tomorrow holds, but you can trust the God who already holds tomorrow.
 
 ## Prayer
 
-Heavenly Father, I surrender my plans, dreams, and expectations to You. Give me wisdom to make good decisions and humility to accept Your direction when my plans change. Help me trust that Your ways are higher than mine and that You are always leading me toward Your purpose. In Jesus' name, Amen.
+Heavenly Father, thank You because my future is secure in Your hands. When uncertainty makes me afraid, remind me that Your plans are greater than my understanding. Help me to remain faithful today and trust You with everything that lies ahead. Fill my heart with hope and confidence in Your promises. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"A changed plan is not always a failed plan; sometimes it is God's way of leading you to a better destination."*`;
+«"You may not see the road ahead, but God already knows every step you will take."»`;
 
 // ============================================
 // EMBEDDED ARCHIVE DATA
@@ -1128,6 +1123,118 @@ Heavenly Father, thank You for being my refuge and strength. When I feel overwhe
 ## Inspirational Quote
 
 *"You may not be strong enough for everything you face, but God is."*
+`
+  },
+{
+    date: '2026-08-12',
+    title: ' Tuhan Menuntun Langkahmu',
+    verse: 'Amsal 16:9',
+    markdown: `---
+title: Tuhan Menuntun Langkahmu
+date: 2026-08-12
+verse: Amsal 16:9
+---
+
+# Embun Pagi
+
+## Ketika Rencana Kita Bertemu dengan Kehendak Tuhan
+
+## Ayat
+
+_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
+**- Amsal 16:9**
+
+## Renungan
+
+Kita semua memiliki rencana. Kita merancang masa depan, menetapkan target, membuat keputusan, dan berharap semuanya berjalan sesuai dengan apa yang sudah kita pikirkan.
+
+Namun hidup tidak selalu mengikuti rencana kita.
+
+Ada pintu yang kita harapkan terbuka tetapi justru tertutup. Ada jalan yang kita kira terbaik ternyata membawa kita ke arah yang berbeda. Ada hal yang kita perjuangkan begitu lama tetapi Tuhan justru meminta kita melepaskannya.
+
+Pada saat seperti itu, kita sering bertanya, **"Mengapa Tuhan tidak mengikuti rencanaku?"**
+
+Mungkin pertanyaannya perlu dibalik: **"Tuhan, ke mana Engkau sedang menuntunku?"**
+
+Amsal 16:9 mengingatkan bahwa kita boleh membuat rencana, tetapi Tuhanlah yang menentukan langkah. Ini bukan berarti kita tidak perlu merencanakan masa depan. Justru kita harus merencanakan dengan sungguh-sungguh, bekerja dengan tekun, dan mengambil keputusan dengan bijaksana. Namun pada akhirnya, kita menyerahkan hasil dan arah perjalanan kepada Tuhan.
+
+Karena kita hanya melihat apa yang ada di depan mata, sementara Tuhan melihat seluruh perjalanan.
+
+Hari ini, jika ada rencana yang tidak berjalan seperti yang Anda harapkan, jangan langsung menganggapnya sebagai kegagalan. Bisa jadi Tuhan sedang mengarahkan Anda kepada sesuatu yang belum mampu Anda lihat.
+
+**Percayalah kepada tangan yang menuntun, bahkan ketika jalan di depan belum jelas.**
+
+## Quotes
+
+*"Kita boleh merancang jalan, tetapi Tuhan melihat tujuan yang belum mampu kita lihat."*
+
+---
+
+# Youth Devotion
+
+## Let God Lead Your Plans
+
+## Ayat
+
+_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
+**- Amsal 16:9**
+
+## Renungan
+
+Kamu mungkin sudah punya banyak rencana untuk masa depan. Mau kuliah di mana, bekerja di mana, ingin menjadi apa, bahkan mungkin sudah punya target hidup beberapa tahun ke depan.
+
+Itu bagus.
+
+Tetapi jangan sampai rencana membuatmu lupa bahwa Tuhan juga punya kehendak.
+
+Kadang sesuatu yang kamu inginkan tidak terjadi. Kamu gagal masuk tempat yang kamu inginkan, kehilangan kesempatan, atau harus mengubah rencana yang sudah kamu susun lama.
+
+Jangan langsung berpikir bahwa Tuhan sedang menghukummu.
+
+Bisa jadi Tuhan sedang **mengalihkan langkahmu.**
+
+Kamu tidak harus memahami seluruh rencana Tuhan hari ini. Yang perlu kamu lakukan adalah tetap berjalan bersama-Nya, melakukan yang terbaik, dan bersedia mengikuti ketika Dia mengubah arah.
+
+## Doa
+
+Tuhan Yesus, aku menyerahkan semua rencana dan masa depanku ke dalam tangan-Mu. Berikan aku hikmat untuk merencanakan, kerendahan hati untuk menerima perubahan, dan iman untuk mengikuti arah yang Engkau tentukan. Amin.
+
+## Quotes
+
+*"Sometimes God's redirection is not rejection; it is protection and preparation."*
+
+---
+
+# Daily Devotion
+
+## Let God Direct Your Steps
+
+## Verse
+
+> **"A man's heart plans his way, But the LORD directs his steps."**  
+> **Proverbs 16:9 (NKJV)**
+
+## Reflection
+
+Planning is part of responsible living. We should dream, prepare, set goals, and work diligently toward them. But there is a difference between making plans and demanding that God follow them.
+
+Sometimes God changes our direction.
+
+A door closes. An opportunity disappears. A plan fails. A relationship ends. A path we thought was right suddenly becomes impossible.
+
+It can be painful because we see only the immediate disappointment. God, however, sees the entire road.
+
+Trusting God does not mean abandoning our plans. It means holding them with open hands. We plan faithfully, but we remain willing to follow wherever God leads.
+
+Perhaps the unexpected turn you are facing today is not the end of your journey. It may be God's way of placing your feet on a better path.
+
+## Prayer
+
+Heavenly Father, I surrender my plans, dreams, and expectations to You. Give me wisdom to make good decisions and humility to accept Your direction when my plans change. Help me trust that Your ways are higher than mine and that You are always leading me toward Your purpose. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"A changed plan is not always a failed plan; sometimes it is God's way of leading you to a better destination."*
 `
   }
 ];
