@@ -7,106 +7,112 @@
 // EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
 // ============================================
 const TODAY_MD = `---
-title: Tuhan yang Memegang Masa Depan
-date: 2026-08-13
-verse: Yeremia 29:11
+title: Jangan Takut, Tuhan Menyertai 
+date: 2026-08-14 
+verse: Yesaya 41:10
 
 # Embun Pagi
 
-Ada Harapan di Tangan Tuhan
+## Ketika Tuhan Menjadi Pegangan
 
 ## Ayat
 
-«"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan."
-- Yeremia 29:11»
+"Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan."
+- Yesaya 41:10
 
 ## Renungan
 
-Ada masa ketika masa depan terasa begitu tidak pasti. Kita sudah berusaha merencanakan semuanya, tetapi keadaan justru berubah di luar kendali.
+Ada hari ketika kita merasa kuat. Tetapi ada juga hari ketika sekadar menjalani hari saja terasa berat.
+Kita mungkin tidak selalu tahu apa yang akan terjadi. Ada keputusan yang harus dibuat, tanggung jawab yang harus diselesaikan, dan keadaan yang berada di luar kendali kita.
 
-Israel mengalami hal yang serupa. Mereka berada dalam pembuangan dan mungkin bertanya-tanya apakah masa depan mereka masih memiliki harapan. Namun melalui Nabi Yeremia, Tuhan mengingatkan bahwa keadaan mereka bukan akhir dari cerita.
+Di tengah semuanya itu, Tuhan memberikan sebuah janji yang sederhana tetapi sangat kuat: "Aku menyertai engkau."
+Perhatikan bahwa Tuhan tidak berkata bahwa kita tidak akan menghadapi masalah. Dia juga tidak menjanjikan bahwa setiap jalan akan mudah. Tetapi Dia berjanji bahwa kita tidak akan menghadapinya sendirian.
 
-Tuhan tetap memiliki rancangan.
+Tuhan berkata, "Aku akan meneguhkan. Aku akan menolong. Aku akan memegang."
 
-Begitu pula dengan hidup kita. Ada musim ketika kita tidak mengerti mengapa Tuhan mengizinkan sesuatu terjadi. Ada pintu yang tertutup, rencana yang gagal, atau perjalanan yang harus berubah arah. Namun keterbatasan penglihatan kita tidak membatasi pekerjaan Tuhan.
+Ketika kaki kita mulai kehilangan kekuatan, tangan Tuhan tetap kuat. Ketika pikiran kita dipenuhi kekhawatiran, penyertaan-Nya tetap nyata. Ketika kita tidak tahu harus melangkah ke mana, Dia tetap mengetahui jalan yang harus kita tempuh.
 
-Kita hanya melihat hari ini. Tuhan melihat seluruh perjalanan.
+Karena itu, jangan biarkan ketakutan menentukan langkahmu hari ini.
+Pegang janji Tuhan. Lakukan bagianmu dengan setia. Sisanya, percayakan kepada Dia.
 
-Karena itu, jangan menilai masa depan berdasarkan keadaan hari ini. Jika Tuhan masih memegang hidup kita, masih ada harapan.
-
-Percayakan masa depan kepada-Nya. Tetaplah setia dalam apa yang Tuhan percayakan hari ini, sebab Dia sedang bekerja bahkan ketika kita belum mampu melihat hasilnya.
+Kita mungkin tidak selalu kuat menghadapi keadaan, tetapi kita selalu memiliki Tuhan yang cukup kuat untuk menopang kita.
 
 ## Quotes
 
-«"Masa depan mungkin belum terlihat oleh mata kita, tetapi sudah berada di tangan Tuhan." »
+"Kita tidak membutuhkan kekuatan untuk mengetahui seluruh masa depan; kita hanya membutuhkan iman untuk berjalan bersama Tuhan hari ini."
 
 ---
 
 # Youth Devotion
 
-Your Future Is in God's Hands
+## You Are Not Alone
 
 ## Ayat
 
-«"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu..."
-- Yeremia 29:11»
+"Janganlah takut, sebab Aku menyertai engkau... Aku akan menolong engkau."
+- Yesaya 41:10
 
 ## Renungan
 
-Masa depan kadang terasa menakutkan.
+Ada kalanya kamu merasa harus menghadapi semuanya sendiri.
+Tekanan sekolah, pekerjaan, keluarga, pertemanan, atau masa depan mungkin membuatmu merasa kewalahan. Kadang kamu bahkan tidak tahu harus bercerita kepada siapa.
 
-Kamu mungkin bertanya: "Aku akan jadi apa?" "Apakah aku akan berhasil?" "Bagaimana kalau aku gagal?" "Apakah hidupku akan sesuai dengan impianku?"
+Tetapi ada satu hal yang harus selalu kamu ingat: kamu tidak pernah benar-benar sendirian.
+Tuhan melihat apa yang tidak dilihat orang lain. Dia mengetahui pergumulan yang tidak mampu kamu ungkapkan. Dan Dia berkata, "Jangan takut, Aku menyertai engkau."
 
-Tidak semua jawabannya harus kamu ketahui sekarang.
+Jadi jangan menyerah hanya karena keadaan sedang sulit.
 
-Tuhan sudah melihat perjalanan yang belum kamu jalani. Dia tahu kesempatan yang akan datang, tantangan yang akan kamu hadapi, dan proses yang akan membentukmu menjadi pribadi yang Dia kehendaki.
+Kamu boleh merasa lemah. Kamu boleh tidak memiliki semua jawaban. Tetapi tetaplah berjalan bersama Tuhan.
 
-Jangan biarkan ketakutan terhadap masa depan mencuri sukacita hari ini.
-
-Belajarlah. Berusahalah. Berdoalah. Persiapkan dirimu sebaik mungkin. Tetapi setelah melakukan bagianmu, percayakan hasilnya kepada Tuhan.
-
-Kamu tidak harus mengetahui seluruh masa depan untuk bisa melangkah dengan iman hari ini.
+Kekuatanmu bukan terletak pada kemampuanmu mengendalikan semuanya, tetapi pada keyakinan bahwa Tuhan memegang hidupmu.
 
 ## Doa
 
-Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Saat aku takut dan tidak tahu apa yang akan terjadi, ingatkan aku bahwa Engkau sudah mengetahui jalanku. Berikan aku iman untuk menjalani hari ini dengan setia dan percaya kepada rencana-Mu. Amin.
+Tuhan Yesus, ketika aku takut dan merasa sendirian, ingatkan aku bahwa Engkau selalu bersamaku. Kuatkan hatiku, berikan keberanian, dan tolong aku untuk percaya bahwa tangan-Mu selalu memegang hidupku. Amin.
 
 ## Quotes
 
-«"You don't need to know your whole future when you know the One who holds it."»
+"You are never alone when the God who holds the universe is holding your hand."
 
 ---
 
 # Daily Devotion
 
-A Future Filled With Hope
+## Do Not Fear, I Am With You
 
 ## Verse
 
-«"For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future."
-Jeremiah 29:11 (NIV)»
+"So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
+Isaiah 41:10 (NIV)
 
 ## Reflection
 
-Uncertainty about the future can easily become a source of fear. We want to know what will happen, where every decision will lead, and whether everything will eventually work out.
+Fear often grows when we focus on what we cannot control. We imagine every possible problem, worry about tomorrow, and try to prepare ourselves for situations that may never happen.
 
-But Jeremiah 29:11 reminds us that God's perspective is greater than ours.
+But God gives us a different foundation: His presence.
 
-This promise was given to people who were living through a difficult season. Their circumstances did not look hopeful, yet God was still working according to His purpose.
+Notice what He promises. He will strengthen us. He will help us. He will uphold us.
 
-The same truth encourages us today. A difficult season does not mean God has abandoned His plan. A closed door does not mean there is no future. Sometimes we simply cannot see what God is preparing beyond what we currently understand.
+God does not tell us to be fearless because life will always be easy. He tells us not to fear because He is with us.
 
-Do your part faithfully today. Make wise decisions. Keep growing. Keep praying. Then place tomorrow in God's hands.
+There may be challenges ahead that you cannot handle with your own strength. That is precisely why God's strength matters.
 
-You may not know what tomorrow holds, but you can trust the God who already holds tomorrow.
+Today, release the need to control everything. Do what you can with faithfulness and wisdom, then trust God with what remains beyond your control.
+
+His hand is stronger than your circumstances.
+
+His presence is greater than your fears.
+
+And His faithfulness is greater than your uncertainty.
 
 ## Prayer
 
-Heavenly Father, thank You because my future is secure in Your hands. When uncertainty makes me afraid, remind me that Your plans are greater than my understanding. Help me to remain faithful today and trust You with everything that lies ahead. Fill my heart with hope and confidence in Your promises. In Jesus' name, Amen.
+Heavenly Father, thank You for reminding me that I never walk alone. When fear and uncertainty arise, strengthen my heart and help me trust Your presence. Hold me firmly when I feel weak, guide me when I feel lost, and give me courage to face today with faith. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-«"You may not see the road ahead, but God already knows every step you will take."»`;
+"Fear loses its power when you remember whose hand is holding you."
+`;
 
 // ============================================
 // EMBEDDED ARCHIVE DATA
@@ -1235,6 +1241,113 @@ Heavenly Father, I surrender my plans, dreams, and expectations to You. Give me 
 ## Inspirational Quote
 
 *"A changed plan is not always a failed plan; sometimes it is God's way of leading you to a better destination."*
+`
+  },
+{
+    date: '2026-08-13',
+    title: 'Tuhan yang Memegang Masa Depan',
+    verse: 'Yeremia 29:11',
+    markdown: `---
+title: Tuhan yang Memegang Masa Depan
+date: 2026-08-13
+verse: Yeremia 29:11
+
+# Embun Pagi
+
+Ada Harapan di Tangan Tuhan
+
+## Ayat
+
+"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan."
+- Yeremia 29:11
+
+## Renungan
+
+Ada masa ketika masa depan terasa begitu tidak pasti. Kita sudah berusaha merencanakan semuanya, tetapi keadaan justru berubah di luar kendali.
+
+Israel mengalami hal yang serupa. Mereka berada dalam pembuangan dan mungkin bertanya-tanya apakah masa depan mereka masih memiliki harapan. Namun melalui Nabi Yeremia, Tuhan mengingatkan bahwa keadaan mereka bukan akhir dari cerita.
+
+Tuhan tetap memiliki rancangan.
+
+Begitu pula dengan hidup kita. Ada musim ketika kita tidak mengerti mengapa Tuhan mengizinkan sesuatu terjadi. Ada pintu yang tertutup, rencana yang gagal, atau perjalanan yang harus berubah arah. Namun keterbatasan penglihatan kita tidak membatasi pekerjaan Tuhan.
+
+Kita hanya melihat hari ini. Tuhan melihat seluruh perjalanan.
+
+Karena itu, jangan menilai masa depan berdasarkan keadaan hari ini. Jika Tuhan masih memegang hidup kita, masih ada harapan.
+
+Percayakan masa depan kepada-Nya. Tetaplah setia dalam apa yang Tuhan percayakan hari ini, sebab Dia sedang bekerja bahkan ketika kita belum mampu melihat hasilnya.
+
+## Quotes
+
+«"Masa depan mungkin belum terlihat oleh mata kita, tetapi sudah berada di tangan Tuhan." »
+
+---
+
+# Youth Devotion
+
+Your Future Is in God's Hands
+
+## Ayat
+
+«"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu..."
+- Yeremia 29:11»
+
+## Renungan
+
+Masa depan kadang terasa menakutkan.
+
+Kamu mungkin bertanya: "Aku akan jadi apa?" "Apakah aku akan berhasil?" "Bagaimana kalau aku gagal?" "Apakah hidupku akan sesuai dengan impianku?"
+
+Tidak semua jawabannya harus kamu ketahui sekarang.
+
+Tuhan sudah melihat perjalanan yang belum kamu jalani. Dia tahu kesempatan yang akan datang, tantangan yang akan kamu hadapi, dan proses yang akan membentukmu menjadi pribadi yang Dia kehendaki.
+
+Jangan biarkan ketakutan terhadap masa depan mencuri sukacita hari ini.
+
+Belajarlah. Berusahalah. Berdoalah. Persiapkan dirimu sebaik mungkin. Tetapi setelah melakukan bagianmu, percayakan hasilnya kepada Tuhan.
+
+Kamu tidak harus mengetahui seluruh masa depan untuk bisa melangkah dengan iman hari ini.
+
+## Doa
+
+Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Saat aku takut dan tidak tahu apa yang akan terjadi, ingatkan aku bahwa Engkau sudah mengetahui jalanku. Berikan aku iman untuk menjalani hari ini dengan setia dan percaya kepada rencana-Mu. Amin.
+
+## Quotes
+
+«"You don't need to know your whole future when you know the One who holds it."»
+
+---
+
+# Daily Devotion
+
+A Future Filled With Hope
+
+## Verse
+
+«"For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future."
+Jeremiah 29:11 (NIV)»
+
+## Reflection
+
+Uncertainty about the future can easily become a source of fear. We want to know what will happen, where every decision will lead, and whether everything will eventually work out.
+
+But Jeremiah 29:11 reminds us that God's perspective is greater than ours.
+
+This promise was given to people who were living through a difficult season. Their circumstances did not look hopeful, yet God was still working according to His purpose.
+
+The same truth encourages us today. A difficult season does not mean God has abandoned His plan. A closed door does not mean there is no future. Sometimes we simply cannot see what God is preparing beyond what we currently understand.
+
+Do your part faithfully today. Make wise decisions. Keep growing. Keep praying. Then place tomorrow in God's hands.
+
+You may not know what tomorrow holds, but you can trust the God who already holds tomorrow.
+
+## Prayer
+
+Heavenly Father, thank You because my future is secure in Your hands. When uncertainty makes me afraid, remind me that Your plans are greater than my understanding. Help me to remain faithful today and trust You with everything that lies ahead. Fill my heart with hope and confidence in Your promises. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+«"You may not see the road ahead, but God already knows every step you will take."»
 `
   }
 ];
