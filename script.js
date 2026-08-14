@@ -37,6 +37,11 @@ Pegang janji Tuhan. Lakukan bagianmu dengan setia. Sisanya, percayakan kepada Di
 
 Kita mungkin tidak selalu kuat menghadapi keadaan, tetapi kita selalu memiliki Tuhan yang cukup kuat untuk menopang kita.
 
+## Doa
+
+Tuhan Yesus, ketika kekhawatiran dan ketakutan menghampiri hati kami, ingatkan kami bahwa Engkau selalu menyertai kami. Kuatkan iman kami, tolong kami untuk percaya sepenuhnya bahwa tangan-Mu yang berkuasa selalu menopang hidup kami. Amin.
+
+
 ## Quotes
 
 "Kita tidak membutuhkan kekuatan untuk mengetahui seluruh masa depan; kita hanya membutuhkan iman untuk berjalan bersama Tuhan hari ini."
@@ -1133,7 +1138,7 @@ Heavenly Father, thank You for being my refuge and strength. When I feel overwhe
   },
 {
     date: '2026-08-12',
-    title: ' Tuhan Menuntun Langkahmu',
+    title: 'Tuhan Menuntun Langkahmu',
     verse: 'Amsal 16:9',
     markdown: `---
 title: Tuhan Menuntun Langkahmu
@@ -1251,6 +1256,7 @@ Heavenly Father, I surrender my plans, dreams, and expectations to You. Give me 
 title: Tuhan yang Memegang Masa Depan
 date: 2026-08-13
 verse: Yeremia 29:11
+---
 
 # Embun Pagi
 
