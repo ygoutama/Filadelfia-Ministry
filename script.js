@@ -4,12 +4,13 @@
    ============================================ */
 
 // ============================================
-// EMBEDDED TODAY DATA  (5 AGUSTUS 2026)
+// EMBEDDED TODAY DATA
 // ============================================
 const TODAY_MD = `---
-title: Jangan Takut, Tuhan Menyertai 
-date: 2026-08-14 
+title: Jangan Takut, Tuhan Menyertai
+date: 2026-08-14
 verse: Yesaya 41:10
+---
 
 # Embun Pagi
 
@@ -17,18 +18,18 @@ verse: Yesaya 41:10
 
 ## Ayat
 
-"Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan."
-- Yesaya 41:10
+_"Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan."_  
+**- Yesaya 41:10**
 
 ## Renungan
 
 Ada hari ketika kita merasa kuat. Tetapi ada juga hari ketika sekadar menjalani hari saja terasa berat.
 Kita mungkin tidak selalu tahu apa yang akan terjadi. Ada keputusan yang harus dibuat, tanggung jawab yang harus diselesaikan, dan keadaan yang berada di luar kendali kita.
 
-Di tengah semuanya itu, Tuhan memberikan sebuah janji yang sederhana tetapi sangat kuat: "Aku menyertai engkau."
+Di tengah semuanya itu, Tuhan memberikan sebuah janji yang sederhana tetapi sangat kuat: **"Aku menyertai engkau."**
 Perhatikan bahwa Tuhan tidak berkata bahwa kita tidak akan menghadapi masalah. Dia juga tidak menjanjikan bahwa setiap jalan akan mudah. Tetapi Dia berjanji bahwa kita tidak akan menghadapinya sendirian.
 
-Tuhan berkata, "Aku akan meneguhkan. Aku akan menolong. Aku akan memegang."
+Tuhan berkata, **"Aku akan meneguhkan. Aku akan menolong. Aku akan memegang."**
 
 Ketika kaki kita mulai kehilangan kekuatan, tangan Tuhan tetap kuat. Ketika pikiran kita dipenuhi kekhawatiran, penyertaan-Nya tetap nyata. Ketika kita tidak tahu harus melangkah ke mana, Dia tetap mengetahui jalan yang harus kita tempuh.
 
@@ -41,10 +42,9 @@ Kita mungkin tidak selalu kuat menghadapi keadaan, tetapi kita selalu memiliki T
 
 Tuhan Yesus, ketika kekhawatiran dan ketakutan menghampiri hati kami, ingatkan kami bahwa Engkau selalu menyertai kami. Kuatkan iman kami, tolong kami untuk percaya sepenuhnya bahwa tangan-Mu yang berkuasa selalu menopang hidup kami. Amin.
 
-
 ## Quotes
 
-"Kita tidak membutuhkan kekuatan untuk mengetahui seluruh masa depan; kita hanya membutuhkan iman untuk berjalan bersama Tuhan hari ini."
+*"Kita tidak membutuhkan kekuatan untuk mengetahui seluruh masa depan; kita hanya membutuhkan iman untuk berjalan bersama Tuhan hari ini."*
 
 ---
 
@@ -54,8 +54,8 @@ Tuhan Yesus, ketika kekhawatiran dan ketakutan menghampiri hati kami, ingatkan k
 
 ## Ayat
 
-"Janganlah takut, sebab Aku menyertai engkau... Aku akan menolong engkau."
-- Yesaya 41:10
+_"Janganlah takut, sebab Aku menyertai engkau... Aku akan menolong engkau."_  
+**- Yesaya 41:10**
 
 ## Renungan
 
@@ -63,7 +63,7 @@ Ada kalanya kamu merasa harus menghadapi semuanya sendiri.
 Tekanan sekolah, pekerjaan, keluarga, pertemanan, atau masa depan mungkin membuatmu merasa kewalahan. Kadang kamu bahkan tidak tahu harus bercerita kepada siapa.
 
 Tetapi ada satu hal yang harus selalu kamu ingat: kamu tidak pernah benar-benar sendirian.
-Tuhan melihat apa yang tidak dilihat orang lain. Dia mengetahui pergumulan yang tidak mampu kamu ungkapkan. Dan Dia berkata, "Jangan takut, Aku menyertai engkau."
+Tuhan melihat apa yang tidak dilihat orang lain. Dia mengetahui pergumulan yang tidak mampu kamu ungkapkan. Dan Dia berkata, **"Jangan takut, Aku menyertai engkau."**
 
 Jadi jangan menyerah hanya karena keadaan sedang sulit.
 
@@ -77,7 +77,7 @@ Tuhan Yesus, ketika aku takut dan merasa sendirian, ingatkan aku bahwa Engkau se
 
 ## Quotes
 
-"You are never alone when the God who holds the universe is holding your hand."
+*"You are never alone when the God who holds the universe is holding your hand."*
 
 ---
 
@@ -87,8 +87,8 @@ Tuhan Yesus, ketika aku takut dan merasa sendirian, ingatkan aku bahwa Engkau se
 
 ## Verse
 
-"So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."
-Isaiah 41:10 (NIV)
+> **"So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."**  
+> **Isaiah 41:10 (NIV)**
 
 ## Reflection
 
@@ -116,7 +116,7 @@ Heavenly Father, thank You for reminding me that I never walk alone. When fear a
 
 ## Inspirational Quote
 
-"Fear loses its power when you remember whose hand is holding you."
+*"Fear loses its power when you remember whose hand is holding you."*
 `;
 
 // ============================================
@@ -924,437 +924,7 @@ Heavenly Father, thank You because You are the God of new beginnings. Help me to
 
 ## Inspirational Quote
 
-*"When God begins something new, even the wilderness can become a pathway of hope."*
-`
-  },
-     {
-    date: '2026-08-10',
-    title: 'Setia dalam Perkara Kecil',
-    verse: 'Lukas 16:10',
-    markdown: `---
-title: Setia dalam Perkara Kecil
-date: 2026-08-10
-verse: Lukas 16:10
----
-
-# Embun Pagi
-
-## Kesetiaan yang Dilihat Tuhan
-
-## Ayat
-
-_"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar. Dan barangsiapa tidak benar dalam perkara-perkara kecil, ia tidak benar juga dalam perkara-perkara besar."_  
-**- Lukas 16:10**
-
-## Renungan
-
-Kita sering menunggu kesempatan besar untuk membuktikan diri. Kita ingin melakukan sesuatu yang luar biasa, mendapatkan posisi yang lebih tinggi, atau memiliki tanggung jawab yang lebih besar. Namun Tuhan sering kali memulai pembentukan karakter kita melalui perkara-perkara yang sederhana.
-
-Cara kita mengerjakan tugas kecil, menepati janji, menggunakan waktu, menjaga perkataan, dan memperlakukan orang lain ketika tidak ada yang melihat—semuanya berbicara tentang karakter kita.
-
-Kesetiaan tidak dibangun ketika kesempatan besar datang. Kesetiaan dibentuk jauh sebelumnya, melalui keputusan-keputusan kecil yang kita ambil setiap hari.
-
-Jangan meremehkan pekerjaan sederhana yang Tuhan percayakan hari ini. Mungkin manusia tidak melihatnya, tetapi Tuhan melihat hati yang setia. Dan ketika kita terbukti dapat dipercaya dalam perkara kecil, Tuhan dapat mempercayakan perkara yang lebih besar pada waktu-Nya.
-
-Hari ini, lakukan apa yang ada di tangan Anda dengan segenap hati. Tidak perlu menunggu sesuatu yang besar untuk menjadi setia. **Kesetiaan hari ini sedang mempersiapkan Anda untuk kepercayaan yang lebih besar esok hari.**
-
-## Quotes
-
-*"Tuhan tidak selalu menguji kita melalui perkara besar; sering kali karakter kita terlihat melalui cara kita menangani perkara kecil."*
-
----
-
-# Youth Devotion
-
-## Be Faithful Where You Are
-
-## Ayat
-
-_"Barangsiapa setia dalam perkara-perkara kecil, ia setia juga dalam perkara-perkara besar."_  
-**- Lukas 16:10**
-
-## Renungan
-
-Mungkin kamu berpikir hidupmu akan berarti nanti—ketika lulus, mendapat pekerjaan, punya banyak uang, atau mencapai impianmu.
-
-Tetapi Tuhan tidak menunggu sampai nanti untuk memakai hidupmu. Dia sedang melihat bagaimana kamu menjalani hari ini.
-
-Apakah kamu jujur ketika tidak ada yang melihat? Apakah kamu menghormati orang tua? Apakah kamu menyelesaikan tanggung jawabmu dengan baik? Apakah kamu tetap setia kepada Tuhan ketika tidak ada yang memuji?
-
-Hal-hal kecil itulah yang membentuk karakter besar.
-
-Jangan menunggu kesempatan luar biasa untuk hidup bagi Tuhan. Jadilah setia **di tempatmu berada sekarang**. Tuhan dapat menggunakan kesetiaan kecilmu untuk menghasilkan sesuatu yang jauh lebih besar daripada yang kamu bayangkan.
-
-## Doa
-
-Tuhan Yesus, ajarku untuk setia dalam setiap hal yang Engkau percayakan kepadaku. Tolong aku menghargai perkara kecil dan melakukannya dengan hati yang benar, bahkan ketika tidak ada yang melihat. Bentuklah aku menjadi pribadi yang dapat dipercaya oleh-Mu. Amin.
-
-## Quotes
-
-*"Don't wait for a big opportunity to become faithful. Be faithful with what God has already placed in your hands."*
-
----
-
-# Daily Devotion
-
-## Faithful in the Little Things
-
-## Verse
-
-> **"Whoever can be trusted with very little can also be trusted with much, and whoever is dishonest with very little will also be dishonest with much."**  
-> **Luke 16:10 (NIV)**
-
-## Reflection
-
-We often associate significance with big achievements, visible success, and major opportunities. But Jesus teaches us that true character is revealed in the small things.
-
-How we manage our time, keep our promises, speak about others, handle responsibility, and act when no one is watching reveals whether we can be trusted.
-
-Faithfulness is not something we suddenly develop when a great opportunity arrives. It is built through countless small decisions made with integrity every day.
-
-Perhaps what God has placed in your hands today seems ordinary. Do not underestimate it. Your current responsibility may be the training ground for tomorrow's assignment.
-
-Be faithful where you are. Do your work with excellence. Honor God in the details. What seems small in your eyes may be significant in His hands.
-
-## Prayer
-
-Heavenly Father, teach me to be faithful in the little things. Give me integrity when no one is watching and excellence in everything You entrust to me. Shape my character so that I may become someone You can trust with greater responsibilities. In Jesus' name, Amen.
-
-## Inspirational Quote
-
-*"Great faithfulness is built through small acts of obedience repeated every day."*`
-     },
-     {
-    date: '2026-08-11',
-    title: 'Ketika Tuhan Menjadi Kekuatanmu',
-    verse: 'Mazmur 46:2',
-    markdown: `---
-title: Ketika Tuhan Menjadi Kekuatanmu
-date: 2026-08-11
-verse: Mazmur 46:2
----
-
-# Embun Pagi
-
-## Tuhan Adalah Perlindungan Kita
-
-## Ayat
-
-_"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti."_  
-**- Mazmur 46:2**
-
-## Renungan
-
-Ada saat ketika kita merasa harus kuat untuk menghadapi semuanya sendiri. Kita berusaha menyelesaikan masalah, menjaga semuanya tetap terkendali, dan tidak ingin terlihat lemah di hadapan orang lain.
-
-Namun Tuhan tidak pernah meminta kita menjalani hidup dengan kekuatan sendiri.
-
-Mazmur 46 mengingatkan bahwa **Allah adalah tempat perlindungan dan kekuatan kita**. Ini bukan sekadar kalimat penghiburan. Ini adalah sebuah realitas yang dapat kita pegang ketika keadaan mulai terasa berat.
-
-Perhatikan kata **"sangat terbukti."** Tuhan bukan hanya penolong ketika semuanya baik-baik saja. Dia terbukti menjadi penolong justru ketika kita berada dalam kesesakan.
-
-Mungkin hari ini ada sesuatu yang sedang Anda perjuangkan sendirian. Beban yang tidak Anda ceritakan kepada siapa pun. Keputusan yang membuat Anda bingung. Masa depan yang belum jelas.
-
-Bawalah semuanya kepada Tuhan.
-
-Tidak semua masalah langsung akan hilang ketika kita berdoa. Tetapi ketika kita datang kepada-Nya, kita tidak lagi menghadapi masalah itu sendirian.
-
-**Kekuatan kita mungkin terbatas, tetapi Tuhan tidak pernah kehabisan kekuatan.**
-
-## Quotes
-
-*"Saat kekuatan kita berhenti, di situlah kita belajar bahwa kekuatan Tuhan tidak pernah berakhir."*
-
----
-
-# Youth Devotion
-
-## You Don't Have to Be Strong Alone
-
-## Ayat
-
-_"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti."_  
-**- Mazmur 46:2**
-
-## Renungan
-
-Kadang kamu merasa harus terlihat kuat di depan semua orang.
-
-Kamu tersenyum meskipun sedang lelah. Kamu mengatakan "aku baik-baik saja" meskipun sebenarnya sedang banyak pikiran. Kamu mencoba menyelesaikan semuanya sendiri karena tidak ingin dianggap lemah.
-
-Tetapi Tuhan tidak meminta kamu berpura-pura kuat.
-
-Kamu boleh datang kepada-Nya dengan hati yang lelah. Kamu boleh membawa ketakutanmu. Kamu boleh mengakui bahwa kamu tidak tahu harus berbuat apa.
-
-Tuhan bukan hanya melihat kelemahanmu. **Dia adalah kekuatanmu di tengah kelemahan itu.**
-
-Jadi ketika hidup terasa berat, jangan menjauh dari Tuhan. Justru datanglah lebih dekat.
-
-## Doa
-
-Tuhan Yesus, ketika aku merasa lemah dan tidak tahu harus berbuat apa, ingatkan aku bahwa aku tidak sendirian. Jadilah tempat perlindungan dan kekuatanku. Ajarku untuk percaya kepada-Mu dalam setiap keadaan. Amin.
-
-## Quotes
-
-*"You don't have to have everything figured out when you know Who holds your future."*
-
----
-
-# Daily Devotion
-
-## God Is Our Strength
-
-## Verse
-
-> **"God is our refuge and strength, A very present help in trouble."**  
-> **Psalm 46:1 (NKJV)**
-
-## Reflection
-
-There are moments when life feels too heavy to carry. We may have responsibilities we cannot escape, problems we cannot immediately solve, and questions we cannot yet answer.
-
-In those moments, Psalm 46 gives us a powerful reminder: **God is our refuge and strength.**
-
-A refuge is a place where we can run when danger comes. Strength is what enables us to continue when our own strength is no longer enough.
-
-God offers both.
-
-He does not promise that we will never face trouble. Instead, He promises His presence in the middle of it. We may not always understand what He is doing, but we can always trust who He is.
-
-So today, stop trying to carry everything alone. Bring your burdens to God. Rest in His presence. Ask Him for wisdom, strength, and peace.
-
-You may feel weak, but you are not without help.
-
-**The God who stands with you is greater than the trouble standing before you.**
-
-## Prayer
-
-Heavenly Father, thank You for being my refuge and strength. When I feel overwhelmed, remind me that I do not have to face everything alone. Give me wisdom for every decision, strength for every challenge, and peace for every uncertainty. Help me to trust Your presence even when I cannot see the way forward. In Jesus' name, Amen.
-
-## Inspirational Quote
-
-*"You may not be strong enough for everything you face, but God is."*
-`
-  },
-{
-    date: '2026-08-12',
-    title: 'Tuhan Menuntun Langkahmu',
-    verse: 'Amsal 16:9',
-    markdown: `---
-title: Tuhan Menuntun Langkahmu
-date: 2026-08-12
-verse: Amsal 16:9
----
-
-# Embun Pagi
-
-## Ketika Rencana Kita Bertemu dengan Kehendak Tuhan
-
-## Ayat
-
-_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
-**- Amsal 16:9**
-
-## Renungan
-
-Kita semua memiliki rencana. Kita merancang masa depan, menetapkan target, membuat keputusan, dan berharap semuanya berjalan sesuai dengan apa yang sudah kita pikirkan.
-
-Namun hidup tidak selalu mengikuti rencana kita.
-
-Ada pintu yang kita harapkan terbuka tetapi justru tertutup. Ada jalan yang kita kira terbaik ternyata membawa kita ke arah yang berbeda. Ada hal yang kita perjuangkan begitu lama tetapi Tuhan justru meminta kita melepaskannya.
-
-Pada saat seperti itu, kita sering bertanya, **"Mengapa Tuhan tidak mengikuti rencanaku?"**
-
-Mungkin pertanyaannya perlu dibalik: **"Tuhan, ke mana Engkau sedang menuntunku?"**
-
-Amsal 16:9 mengingatkan bahwa kita boleh membuat rencana, tetapi Tuhanlah yang menentukan langkah. Ini bukan berarti kita tidak perlu merencanakan masa depan. Justru kita harus merencanakan dengan sungguh-sungguh, bekerja dengan tekun, dan mengambil keputusan dengan bijaksana. Namun pada akhirnya, kita menyerahkan hasil dan arah perjalanan kepada Tuhan.
-
-Karena kita hanya melihat apa yang ada di depan mata, sementara Tuhan melihat seluruh perjalanan.
-
-Hari ini, jika ada rencana yang tidak berjalan seperti yang Anda harapkan, jangan langsung menganggapnya sebagai kegagalan. Bisa jadi Tuhan sedang mengarahkan Anda kepada sesuatu yang belum mampu Anda lihat.
-
-**Percayalah kepada tangan yang menuntun, bahkan ketika jalan di depan belum jelas.**
-
-## Quotes
-
-*"Kita boleh merancang jalan, tetapi Tuhan melihat tujuan yang belum mampu kita lihat."*
-
----
-
-# Youth Devotion
-
-## Let God Lead Your Plans
-
-## Ayat
-
-_"Hati manusia memikir-mikirkan jalannya, tetapi Tuhanlah yang menentukan arah langkahnya."_  
-**- Amsal 16:9**
-
-## Renungan
-
-Kamu mungkin sudah punya banyak rencana untuk masa depan. Mau kuliah di mana, bekerja di mana, ingin menjadi apa, bahkan mungkin sudah punya target hidup beberapa tahun ke depan.
-
-Itu bagus.
-
-Tetapi jangan sampai rencana membuatmu lupa bahwa Tuhan juga punya kehendak.
-
-Kadang sesuatu yang kamu inginkan tidak terjadi. Kamu gagal masuk tempat yang kamu inginkan, kehilangan kesempatan, atau harus mengubah rencana yang sudah kamu susun lama.
-
-Jangan langsung berpikir bahwa Tuhan sedang menghukummu.
-
-Bisa jadi Tuhan sedang **mengalihkan langkahmu.**
-
-Kamu tidak harus memahami seluruh rencana Tuhan hari ini. Yang perlu kamu lakukan adalah tetap berjalan bersama-Nya, melakukan yang terbaik, dan bersedia mengikuti ketika Dia mengubah arah.
-
-## Doa
-
-Tuhan Yesus, aku menyerahkan semua rencana dan masa depanku ke dalam tangan-Mu. Berikan aku hikmat untuk merencanakan, kerendahan hati untuk menerima perubahan, dan iman untuk mengikuti arah yang Engkau tentukan. Amin.
-
-## Quotes
-
-*"Sometimes God's redirection is not rejection; it is protection and preparation."*
-
----
-
-# Daily Devotion
-
-## Let God Direct Your Steps
-
-## Verse
-
-> **"A man's heart plans his way, But the LORD directs his steps."**  
-> **Proverbs 16:9 (NKJV)**
-
-## Reflection
-
-Planning is part of responsible living. We should dream, prepare, set goals, and work diligently toward them. But there is a difference between making plans and demanding that God follow them.
-
-Sometimes God changes our direction.
-
-A door closes. An opportunity disappears. A plan fails. A relationship ends. A path we thought was right suddenly becomes impossible.
-
-It can be painful because we see only the immediate disappointment. God, however, sees the entire road.
-
-Trusting God does not mean abandoning our plans. It means holding them with open hands. We plan faithfully, but we remain willing to follow wherever God leads.
-
-Perhaps the unexpected turn you are facing today is not the end of your journey. It may be God's way of placing your feet on a better path.
-
-## Prayer
-
-Heavenly Father, I surrender my plans, dreams, and expectations to You. Give me wisdom to make good decisions and humility to accept Your direction when my plans change. Help me trust that Your ways are higher than mine and that You are always leading me toward Your purpose. In Jesus' name, Amen.
-
-## Inspirational Quote
-
-*"A changed plan is not always a failed plan; sometimes it is God's way of leading you to a better destination."*
-`
-  },
-{
-    date: '2026-08-13',
-    title: 'Tuhan yang Memegang Masa Depan',
-    verse: 'Yeremia 29:11',
-    markdown: `---
-title: Tuhan yang Memegang Masa Depan
-date: 2026-08-13
-verse: Yeremia 29:11
----
-
-# Embun Pagi
-
-Ada Harapan di Tangan Tuhan
-
-## Ayat
-
-"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu, demikianlah firman TUHAN, yaitu rancangan damai sejahtera dan bukan rancangan kecelakaan, untuk memberikan kepadamu hari depan yang penuh harapan."
-- Yeremia 29:11
-
-## Renungan
-
-Ada masa ketika masa depan terasa begitu tidak pasti. Kita sudah berusaha merencanakan semuanya, tetapi keadaan justru berubah di luar kendali.
-
-Israel mengalami hal yang serupa. Mereka berada dalam pembuangan dan mungkin bertanya-tanya apakah masa depan mereka masih memiliki harapan. Namun melalui Nabi Yeremia, Tuhan mengingatkan bahwa keadaan mereka bukan akhir dari cerita.
-
-Tuhan tetap memiliki rancangan.
-
-Begitu pula dengan hidup kita. Ada musim ketika kita tidak mengerti mengapa Tuhan mengizinkan sesuatu terjadi. Ada pintu yang tertutup, rencana yang gagal, atau perjalanan yang harus berubah arah. Namun keterbatasan penglihatan kita tidak membatasi pekerjaan Tuhan.
-
-Kita hanya melihat hari ini. Tuhan melihat seluruh perjalanan.
-
-Karena itu, jangan menilai masa depan berdasarkan keadaan hari ini. Jika Tuhan masih memegang hidup kita, masih ada harapan.
-
-Percayakan masa depan kepada-Nya. Tetaplah setia dalam apa yang Tuhan percayakan hari ini, sebab Dia sedang bekerja bahkan ketika kita belum mampu melihat hasilnya.
-
-## Quotes
-
-«"Masa depan mungkin belum terlihat oleh mata kita, tetapi sudah berada di tangan Tuhan." »
-
----
-
-# Youth Devotion
-
-Your Future Is in God's Hands
-
-## Ayat
-
-«"Sebab Aku ini mengetahui rancangan-rancangan apa yang ada pada-Ku mengenai kamu..."
-- Yeremia 29:11»
-
-## Renungan
-
-Masa depan kadang terasa menakutkan.
-
-Kamu mungkin bertanya: "Aku akan jadi apa?" "Apakah aku akan berhasil?" "Bagaimana kalau aku gagal?" "Apakah hidupku akan sesuai dengan impianku?"
-
-Tidak semua jawabannya harus kamu ketahui sekarang.
-
-Tuhan sudah melihat perjalanan yang belum kamu jalani. Dia tahu kesempatan yang akan datang, tantangan yang akan kamu hadapi, dan proses yang akan membentukmu menjadi pribadi yang Dia kehendaki.
-
-Jangan biarkan ketakutan terhadap masa depan mencuri sukacita hari ini.
-
-Belajarlah. Berusahalah. Berdoalah. Persiapkan dirimu sebaik mungkin. Tetapi setelah melakukan bagianmu, percayakan hasilnya kepada Tuhan.
-
-Kamu tidak harus mengetahui seluruh masa depan untuk bisa melangkah dengan iman hari ini.
-
-## Doa
-
-Tuhan Yesus, aku menyerahkan masa depanku ke dalam tangan-Mu. Saat aku takut dan tidak tahu apa yang akan terjadi, ingatkan aku bahwa Engkau sudah mengetahui jalanku. Berikan aku iman untuk menjalani hari ini dengan setia dan percaya kepada rencana-Mu. Amin.
-
-## Quotes
-
-«"You don't need to know your whole future when you know the One who holds it."»
-
----
-
-# Daily Devotion
-
-A Future Filled With Hope
-
-## Verse
-
-«"For I know the plans I have for you," declares the LORD, "plans to prosper you and not to harm you, plans to give you hope and a future."
-Jeremiah 29:11 (NIV)»
-
-## Reflection
-
-Uncertainty about the future can easily become a source of fear. We want to know what will happen, where every decision will lead, and whether everything will eventually work out.
-
-But Jeremiah 29:11 reminds us that God's perspective is greater than ours.
-
-This promise was given to people who were living through a difficult season. Their circumstances did not look hopeful, yet God was still working according to His purpose.
-
-The same truth encourages us today. A difficult season does not mean God has abandoned His plan. A closed door does not mean there is no future. Sometimes we simply cannot see what God is preparing beyond what we currently understand.
-
-Do your part faithfully today. Make wise decisions. Keep growing. Keep praying. Then place tomorrow in God's hands.
-
-You may not know what tomorrow holds, but you can trust the God who already holds tomorrow.
-
-## Prayer
-
-Heavenly Father, thank You because my future is secure in Your hands. When uncertainty makes me afraid, remind me that Your plans are greater than my understanding. Help me to remain faithful today and trust You with everything that lies ahead. Fill my heart with hope and confidence in Your promises. In Jesus' name, Amen.
-
-## Inspirational Quote
-
-«"You may not see the road ahead, but God already knows every step you will take."»
-`
+*"When God begins something new, even the wilderness can become a pathway of hope."*`
   }
 ];
 
@@ -1378,7 +948,6 @@ const mdParser = {
       .replace(/^## (.*$)/gim, '<h2>$1</h2>')
       .replace(/^# (.*$)/gim, '<h1>$1</h1>')
       .replace(/^> (.*$)/gim, '<blockquote>$1</blockquote>')
-      // FIX: non-greedy supaya tidak melahap teks di antara dua bold/italic
       .replace(/\*\*(.*?)\*\*/gim, '<b>$1</b>')
       .replace(/\*(.*?)\*/gim, '<i>$1</i>')
       .replace(/_(.*?)_/gim, '<i>$1</i>')
@@ -1392,8 +961,6 @@ const mdParser = {
 // ============================================
 // UTILITY
 // ============================================
-
-// FIX: helper agar tanggal mengikuti timezone lokal (bukan UTC)
 function toLocalISODateString(date) {
   const d = new Date(date);
   d.setMinutes(d.getMinutes() - d.getTimezoneOffset());
@@ -1414,19 +981,16 @@ function formatShortDate(dateStr) {
   } catch (e) { return dateStr; }
 }
 
-// FIX: pakai toLocalISODateString agar sesuai timezone lokal
 function getTodayDateString() {
   return toLocalISODateString(new Date());
 }
 
-// FIX: pakai toLocalISODateString agar tidak salah tanggal
 function getYesterdayDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() - 1);
   return toLocalISODateString(date);
 }
 
-// FIX: pakai toLocalISODateString agar tidak salah tanggal
 function getTomorrowDateString(dateStr) {
   const date = new Date(dateStr + 'T00:00:00');
   date.setDate(date.getDate() + 1);
@@ -1461,7 +1025,6 @@ function parseFrontMatter(md) {
   return { frontMatter: fm, content: match[2] };
 }
 
-// FIX: tambahkan capturing group ( ) pada regex split supaya header tidak hilang
 function splitSections(content) {
   const sections = { embunPagi: '', youth: '', daily: '' };
   const parts = content.split(/(^#{1}\s+.+$)/m);
@@ -1476,7 +1039,6 @@ function splitSections(content) {
   return sections;
 }
 
-// FIX: wrapper aman untuk marked.parse — paksa sync & fallback ke mdParser kalau tetap Promise
 function safeParseMarkdown(text) {
   if (typeof marked !== 'undefined' && typeof marked.parse === 'function') {
     try {
