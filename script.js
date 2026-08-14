@@ -7,117 +7,109 @@
 // EMBEDDED TODAY DATA
 // ============================================
 const TODAY_MD = `---
-title: Jangan Takut, Tuhan Menyertai
-date: 2026-08-14
-verse: Yesaya 41:10
+title: Percaya Ketika Jalan Belum Terlihat 
+date: 2026-08-15 
+verse: Amsal 3:5-6
 ---
 
 # Embun Pagi
 
-## Ketika Tuhan Menjadi Pegangan
+## Percayakan Jalanmu kepada Tuhan
 
 ## Ayat
 
-_"Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan."_  
-**- Yesaya 41:10**
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."_
+**- Amsal 3:5-6**
 
 ## Renungan
 
-Ada hari ketika kita merasa kuat. Tetapi ada juga hari ketika sekadar menjalani hari saja terasa berat.
-Kita mungkin tidak selalu tahu apa yang akan terjadi. Ada keputusan yang harus dibuat, tanggung jawab yang harus diselesaikan, dan keadaan yang berada di luar kendali kita.
+Kita sering ingin memahami semuanya sebelum berani melangkah. Kita ingin tahu bagaimana akhirnya, memastikan semuanya aman, lalu baru percaya kepada Tuhan.
 
-Di tengah semuanya itu, Tuhan memberikan sebuah janji yang sederhana tetapi sangat kuat: **"Aku menyertai engkau."**
-Perhatikan bahwa Tuhan tidak berkata bahwa kita tidak akan menghadapi masalah. Dia juga tidak menjanjikan bahwa setiap jalan akan mudah. Tetapi Dia berjanji bahwa kita tidak akan menghadapinya sendirian.
+Namun iman justru mengajarkan kita untuk percaya bahkan ketika kita belum memahami seluruh jalan.
+Tuhan tidak meminta kita berhenti berpikir atau membuat perencanaan. Kita tetap perlu menggunakan hikmat, mempertimbangkan pilihan, dan melakukan yang terbaik. Tetapi kita tidak boleh menjadikan pemahaman kita sendiri sebagai satu-satunya dasar untuk menentukan arah hidup.
+Ada hal-hal yang baru kita mengerti setelah kita melewatinya.
 
-Tuhan berkata, **"Aku akan meneguhkan. Aku akan menolong. Aku akan memegang."**
+Pintu yang tertutup mungkin ternyata sedang melindungi kita. Keterlambatan mungkin sedang mempersiapkan kita. Perubahan arah mungkin sedang membawa kita kepada tujuan yang lebih baik.
+Karena itu, jangan terlalu sibuk memikirkan bagaimana Tuhan akan menyelesaikan semuanya. Fokuslah pada satu hal: *tetap berjalan bersama-Nya.*
 
-Ketika kaki kita mulai kehilangan kekuatan, tangan Tuhan tetap kuat. Ketika pikiran kita dipenuhi kekhawatiran, penyertaan-Nya tetap nyata. Ketika kita tidak tahu harus melangkah ke mana, Dia tetap mengetahui jalan yang harus kita tempuh.
+Akui Tuhan dalam setiap keputusan, sekecil apa pun. Ketika Dia menjadi pusat perjalanan, kita tidak perlu takut meskipun jalan di depan belum sepenuhnya terlihat.
 
-Karena itu, jangan biarkan ketakutan menentukan langkahmu hari ini.
-Pegang janji Tuhan. Lakukan bagianmu dengan setia. Sisanya, percayakan kepada Dia.
-
-Kita mungkin tidak selalu kuat menghadapi keadaan, tetapi kita selalu memiliki Tuhan yang cukup kuat untuk menopang kita.
-
-## Doa
-
-Tuhan Yesus, ketika kekhawatiran dan ketakutan menghampiri hati kami, ingatkan kami bahwa Engkau selalu menyertai kami. Kuatkan iman kami, tolong kami untuk percaya sepenuhnya bahwa tangan-Mu yang berkuasa selalu menopang hidup kami. Amin.
-
+*Percayalah kepada Tuhan lebih dalam daripada kamu mempercayai kemampuanmu sendiri untuk memahami hidup.*
 
 ## Quotes
 
-*"Kita tidak membutuhkan kekuatan untuk mengetahui seluruh masa depan; kita hanya membutuhkan iman untuk berjalan bersama Tuhan hari ini."*
+"Iman bukan tentang melihat seluruh jalan, tetapi percaya kepada Dia yang mengetahui ke mana jalan itu menuju."
 
 ---
 
 # Youth Devotion
 
-## You Are Not Alone
+## Trust God Even When You Don't Understand
 
 ## Ayat
 
-_"Janganlah takut, sebab Aku menyertai engkau... Aku akan menolong engkau."_  
-**- Yesaya 41:10**
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."_
+**- Amsal 3:5**
 
 ## Renungan
 
-Ada kalanya kamu merasa harus menghadapi semuanya sendiri.
-Tekanan sekolah, pekerjaan, keluarga, pertemanan, atau masa depan mungkin membuatmu merasa kewalahan. Kadang kamu bahkan tidak tahu harus bercerita kepada siapa.
+Pernahkah kamu bertanya, *"Kenapa Tuhan mengizinkan ini terjadi?"*
+Kadang sesuatu tidak berjalan seperti yang kita harapkan. Kita gagal, rencana berubah, seseorang meninggalkan kita, atau kesempatan yang kita inginkan justru hilang.
 
-Tetapi ada satu hal yang harus selalu kamu ingat: kamu tidak pernah benar-benar sendirian.
-Tuhan melihat apa yang tidak dilihat orang lain. Dia mengetahui pergumulan yang tidak mampu kamu ungkapkan. Dan Dia berkata, **"Jangan takut, Aku menyertai engkau."**
+Saat itu, mudah untuk berpikir bahwa Tuhan tidak bekerja.
+Tetapi kita hanya melihat satu bagian dari cerita. Tuhan melihat seluruhnya.
 
-Jadi jangan menyerah hanya karena keadaan sedang sulit.
+Kamu tidak harus memahami semua yang Tuhan lakukan untuk tetap mempercayai-Nya. Seperti seorang anak yang memegang tangan ayahnya ketika berjalan di tempat yang tidak dikenalnya, kamu hanya perlu percaya bahwa tangan yang memimpinmu tahu jalan yang benar.
 
-Kamu boleh merasa lemah. Kamu boleh tidak memiliki semua jawaban. Tetapi tetaplah berjalan bersama Tuhan.
+Terus belajar. Terus berdoa. Terus berusaha. Dan ketika Tuhan mengubah arahmu, jangan buru-buru melawan.
 
-Kekuatanmu bukan terletak pada kemampuanmu mengendalikan semuanya, tetapi pada keyakinan bahwa Tuhan memegang hidupmu.
+*Mungkin jalan yang tidak kamu pilih justru merupakan jalan yang Tuhan gunakan untuk membawamu kepada tujuan-Nya.*
 
 ## Doa
 
-Tuhan Yesus, ketika aku takut dan merasa sendirian, ingatkan aku bahwa Engkau selalu bersamaku. Kuatkan hatiku, berikan keberanian, dan tolong aku untuk percaya bahwa tangan-Mu selalu memegang hidupku. Amin.
+Tuhan Yesus, ajarku untuk percaya kepada-Mu ketika aku tidak memahami jalan yang sedang kulalui. Berikan aku hikmat dalam mengambil keputusan dan hati yang rela mengikuti kehendak-Mu. Amin.
 
 ## Quotes
 
-*"You are never alone when the God who holds the universe is holding your hand."*
+"You don't need to understand God's direction to trust God's heart."
 
 ---
 
 # Daily Devotion
 
-## Do Not Fear, I Am With You
+## Trust the One Who Knows the Way
 
 ## Verse
 
-> **"So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."**  
-> **Isaiah 41:10 (NIV)**
+_"Trust in the LORD with all your heart, And lean not on your own understanding; In all your ways acknowledge Him, And He shall direct your paths."_
+**Proverbs 3:5–6 (NKJV)**
 
 ## Reflection
 
-Fear often grows when we focus on what we cannot control. We imagine every possible problem, worry about tomorrow, and try to prepare ourselves for situations that may never happen.
+We naturally want certainty. We want to know where a decision will lead before we make it. We want to understand why something happens before we accept it.
 
-But God gives us a different foundation: His presence.
+But faith asks us to trust God beyond what we can understand.
+This does not mean abandoning wisdom or responsibility. It means recognizing that our understanding is limited while God's perspective is complete.
 
-Notice what He promises. He will strengthen us. He will help us. He will uphold us.
+There may be situations today that make no sense to you—a closed door, an unexpected change, a delayed answer, or a path you never planned to take.
 
-God does not tell us to be fearless because life will always be easy. He tells us not to fear because He is with us.
+Don't assume that uncertainty means God is absent.
 
-There may be challenges ahead that you cannot handle with your own strength. That is precisely why God's strength matters.
+Sometimes God is directing your path precisely through circumstances you do not yet understand.
 
-Today, release the need to control everything. Do what you can with faithfulness and wisdom, then trust God with what remains beyond your control.
+Your responsibility is to trust Him, seek His wisdom, and remain faithful with the step He has placed before you.
 
-His hand is stronger than your circumstances.
+You don't need to see the entire road.
 
-His presence is greater than your fears.
-
-And His faithfulness is greater than your uncertainty.
+*You only need to trust the One who already knows where it leads.*
 
 ## Prayer
 
-Heavenly Father, thank You for reminding me that I never walk alone. When fear and uncertainty arise, strengthen my heart and help me trust Your presence. Hold me firmly when I feel weak, guide me when I feel lost, and give me courage to face today with faith. In Jesus' name, Amen.
+Heavenly Father, help me trust You with all my heart. When I cannot understand what is happening, keep me from relying only on my own perspective. Give me wisdom to make good decisions and humility to follow Your direction. Lead my steps according to Your will and help me remain faithful on the journey. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-*"Fear loses its power when you remember whose hand is holding you."*
+"Faith begins where our understanding ends, because God's wisdom never ends."
 `;
 
 // ============================================
@@ -1348,6 +1340,123 @@ Heavenly Father, thank You because my future is secure in Your hands. When uncer
 ## Inspirational Quote
 
 "You may not see the road ahead, but God already knows every step you will take."`
+  },
+  {
+    date: '2026-08-14',
+    title: 'Jangan Takut, Tuhan Menyertai',
+    verse: 'Yesaya 41:10',
+    markdown: `---
+title: Jangan Takut, Tuhan Menyertai
+date: 2026-08-14
+verse: Yesaya 41:10
+---
+
+# Embun Pagi
+
+## Ketika Tuhan Menjadi Pegangan
+
+## Ayat
+
+_"Janganlah takut, sebab Aku menyertai engkau, janganlah bimbang, sebab Aku ini Allahmu; Aku akan meneguhkan, bahkan akan menolong engkau; Aku akan memegang engkau dengan tangan kanan-Ku yang membawa kemenangan."_  
+**- Yesaya 41:10**
+
+## Renungan
+
+Ada hari ketika kita merasa kuat. Tetapi ada juga hari ketika sekadar menjalani hari saja terasa berat.
+Kita mungkin tidak selalu tahu apa yang akan terjadi. Ada keputusan yang harus dibuat, tanggung jawab yang harus diselesaikan, dan keadaan yang berada di luar kendali kita.
+
+Di tengah semuanya itu, Tuhan memberikan sebuah janji yang sederhana tetapi sangat kuat: **"Aku menyertai engkau."**
+Perhatikan bahwa Tuhan tidak berkata bahwa kita tidak akan menghadapi masalah. Dia juga tidak menjanjikan bahwa setiap jalan akan mudah. Tetapi Dia berjanji bahwa kita tidak akan menghadapinya sendirian.
+
+Tuhan berkata, **"Aku akan meneguhkan. Aku akan menolong. Aku akan memegang."**
+
+Ketika kaki kita mulai kehilangan kekuatan, tangan Tuhan tetap kuat. Ketika pikiran kita dipenuhi kekhawatiran, penyertaan-Nya tetap nyata. Ketika kita tidak tahu harus melangkah ke mana, Dia tetap mengetahui jalan yang harus kita tempuh.
+
+Karena itu, jangan biarkan ketakutan menentukan langkahmu hari ini.
+Pegang janji Tuhan. Lakukan bagianmu dengan setia. Sisanya, percayakan kepada Dia.
+
+Kita mungkin tidak selalu kuat menghadapi keadaan, tetapi kita selalu memiliki Tuhan yang cukup kuat untuk menopang kita.
+
+## Doa
+
+Tuhan Yesus, ketika kekhawatiran dan ketakutan menghampiri hati kami, ingatkan kami bahwa Engkau selalu menyertai kami. Kuatkan iman kami, tolong kami untuk percaya sepenuhnya bahwa tangan-Mu yang berkuasa selalu menopang hidup kami. Amin.
+
+
+## Quotes
+
+*"Kita tidak membutuhkan kekuatan untuk mengetahui seluruh masa depan; kita hanya membutuhkan iman untuk berjalan bersama Tuhan hari ini."*
+
+---
+
+# Youth Devotion
+
+## You Are Not Alone
+
+## Ayat
+
+_"Janganlah takut, sebab Aku menyertai engkau... Aku akan menolong engkau."_  
+**- Yesaya 41:10**
+
+## Renungan
+
+Ada kalanya kamu merasa harus menghadapi semuanya sendiri.
+Tekanan sekolah, pekerjaan, keluarga, pertemanan, atau masa depan mungkin membuatmu merasa kewalahan. Kadang kamu bahkan tidak tahu harus bercerita kepada siapa.
+
+Tetapi ada satu hal yang harus selalu kamu ingat: kamu tidak pernah benar-benar sendirian.
+Tuhan melihat apa yang tidak dilihat orang lain. Dia mengetahui pergumulan yang tidak mampu kamu ungkapkan. Dan Dia berkata, **"Jangan takut, Aku menyertai engkau."**
+
+Jadi jangan menyerah hanya karena keadaan sedang sulit.
+
+Kamu boleh merasa lemah. Kamu boleh tidak memiliki semua jawaban. Tetapi tetaplah berjalan bersama Tuhan.
+
+Kekuatanmu bukan terletak pada kemampuanmu mengendalikan semuanya, tetapi pada keyakinan bahwa Tuhan memegang hidupmu.
+
+## Doa
+
+Tuhan Yesus, ketika aku takut dan merasa sendirian, ingatkan aku bahwa Engkau selalu bersamaku. Kuatkan hatiku, berikan keberanian, dan tolong aku untuk percaya bahwa tangan-Mu selalu memegang hidupku. Amin.
+
+## Quotes
+
+*"You are never alone when the God who holds the universe is holding your hand."*
+
+---
+
+# Daily Devotion
+
+## Do Not Fear, I Am With You
+
+## Verse
+
+> **"So do not fear, for I am with you; do not be dismayed, for I am your God. I will strengthen you and help you; I will uphold you with my righteous right hand."**  
+> **Isaiah 41:10 (NIV)**
+
+## Reflection
+
+Fear often grows when we focus on what we cannot control. We imagine every possible problem, worry about tomorrow, and try to prepare ourselves for situations that may never happen.
+
+But God gives us a different foundation: His presence.
+
+Notice what He promises. He will strengthen us. He will help us. He will uphold us.
+
+God does not tell us to be fearless because life will always be easy. He tells us not to fear because He is with us.
+
+There may be challenges ahead that you cannot handle with your own strength. That is precisely why God's strength matters.
+
+Today, release the need to control everything. Do what you can with faithfulness and wisdom, then trust God with what remains beyond your control.
+
+His hand is stronger than your circumstances.
+
+His presence is greater than your fears.
+
+And His faithfulness is greater than your uncertainty.
+
+## Prayer
+
+Heavenly Father, thank You for reminding me that I never walk alone. When fear and uncertainty arise, strengthen my heart and help me trust Your presence. Hold me firmly when I feel weak, guide me when I feel lost, and give me courage to face today with faith. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+*"Fear loses its power when you remember whose hand is holding you."*`
   }
 ];
 
@@ -1652,3 +1761,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
   render(TODAY_MD);
 });
+ 
