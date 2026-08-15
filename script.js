@@ -7,109 +7,113 @@
 // EMBEDDED TODAY DATA
 // ============================================
 const TODAY_MD = `---
-title: Percaya Ketika Jalan Belum Terlihat 
-date: 2026-08-15 
-verse: Amsal 3:5-6
+title: Ketika Tuhan Menjadi Tempat Perlindungan 
+date: 2026-08-16 
+verse: Mazmur 46:2
 ---
 
 # Embun Pagi
 
-## Percayakan Jalanmu kepada Tuhan
+## Tetap Tenang di Tengah Badai
 
 ## Ayat
 
-_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."_
-**- Amsal 3:5-6**
+**"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti." - Mazmur 46:2**
 
 ## Renungan
 
-Kita sering ingin memahami semuanya sebelum berani melangkah. Kita ingin tahu bagaimana akhirnya, memastikan semuanya aman, lalu baru percaya kepada Tuhan.
+Ada masa ketika hidup terasa begitu penuh. Masalah datang bersamaan, pikiran sulit tenang, dan kita mulai bertanya apakah kita masih sanggup menghadapi semuanya.
 
-Namun iman justru mengajarkan kita untuk percaya bahkan ketika kita belum memahami seluruh jalan.
-Tuhan tidak meminta kita berhenti berpikir atau membuat perencanaan. Kita tetap perlu menggunakan hikmat, mempertimbangkan pilihan, dan melakukan yang terbaik. Tetapi kita tidak boleh menjadikan pemahaman kita sendiri sebagai satu-satunya dasar untuk menentukan arah hidup.
-Ada hal-hal yang baru kita mengerti setelah kita melewatinya.
+Dalam keadaan seperti itu, kita sering mencari tempat untuk bersandar. Kita berharap ada seseorang yang dapat memberikan jawaban, keadaan segera berubah, atau masalah selesai dengan sendirinya.
 
-Pintu yang tertutup mungkin ternyata sedang melindungi kita. Keterlambatan mungkin sedang mempersiapkan kita. Perubahan arah mungkin sedang membawa kita kepada tujuan yang lebih baik.
-Karena itu, jangan terlalu sibuk memikirkan bagaimana Tuhan akan menyelesaikan semuanya. Fokuslah pada satu hal: *tetap berjalan bersama-Nya.*
+Namun Firman Tuhan mengarahkan kita kepada sumber yang lebih kuat: Allah sendiri.
 
-Akui Tuhan dalam setiap keputusan, sekecil apa pun. Ketika Dia menjadi pusat perjalanan, kita tidak perlu takut meskipun jalan di depan belum sepenuhnya terlihat.
+Tuhan adalah tempat perlindungan. Artinya, ketika hidup terasa tidak aman, kita dapat datang kepada-Nya. Tuhan adalah kekuatan. Artinya, ketika kemampuan kita mulai habis, kita tidak harus mengandalkan kekuatan sendiri.
 
-*Percayalah kepada Tuhan lebih dalam daripada kamu mempercayai kemampuanmu sendiri untuk memahami hidup.*
+Perhatikan bahwa Mazmur tidak mengatakan bahwa orang percaya tidak akan mengalami kesesakan. Justru dikatakan bahwa Tuhan adalah **penolong dalam kesesakan.**
+Badai mungkin tetap ada. Tetapi kita tidak menghadapinya sendirian.
+Hari ini, jika ada sesuatu yang sedang membuat hati Anda gelisah, berhentilah sejenak. Tarik napas. Berdoalah. Serahkan apa yang tidak mampu Anda kendalikan kepada Tuhan.
+
+Tidak semua masalah harus Anda selesaikan hari ini.
+
+Ada hal-hal yang cukup Anda percayakan kepada Dia.
+
+**Ketika Tuhan menjadi tempat perlindungan, kita dapat tetap berdiri bahkan ketika keadaan di sekitar kita sedang berguncang.**
 
 ## Quotes
 
-"Iman bukan tentang melihat seluruh jalan, tetapi percaya kepada Dia yang mengetahui ke mana jalan itu menuju."
+"Ketenangan bukan berarti tidak ada badai, tetapi mengetahui kepada siapa kita berlindung ketika badai datang."
 
 ---
 
 # Youth Devotion
 
-## Trust God Even When You Don't Understand
+## You Don't Have to Face It Alone
 
 ## Ayat
 
-_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."_
-**- Amsal 3:5**
+**"Allah itu bagi kita tempat perlindungan dan kekuatan..." - Mazmur 46:2**
 
 ## Renungan
 
-Pernahkah kamu bertanya, *"Kenapa Tuhan mengizinkan ini terjadi?"*
-Kadang sesuatu tidak berjalan seperti yang kita harapkan. Kita gagal, rencana berubah, seseorang meninggalkan kita, atau kesempatan yang kita inginkan justru hilang.
+Ada hari ketika semuanya terasa terlalu berat.
 
-Saat itu, mudah untuk berpikir bahwa Tuhan tidak bekerja.
-Tetapi kita hanya melihat satu bagian dari cerita. Tuhan melihat seluruhnya.
+Tugas menumpuk, hubungan dengan orang lain bermasalah, masa depan terasa tidak jelas, atau mungkin ada sesuatu yang sedang kamu simpan sendiri di dalam hati.
 
-Kamu tidak harus memahami semua yang Tuhan lakukan untuk tetap mempercayai-Nya. Seperti seorang anak yang memegang tangan ayahnya ketika berjalan di tempat yang tidak dikenalnya, kamu hanya perlu percaya bahwa tangan yang memimpinmu tahu jalan yang benar.
+Kamu mungkin merasa harus kuat dan menyelesaikan semuanya sendiri.
 
-Terus belajar. Terus berdoa. Terus berusaha. Dan ketika Tuhan mengubah arahmu, jangan buru-buru melawan.
+Tetapi Tuhan tidak pernah meminta kamu melakukan itu.
 
-*Mungkin jalan yang tidak kamu pilih justru merupakan jalan yang Tuhan gunakan untuk membawamu kepada tujuan-Nya.*
+Dia berkata bahwa Dia adalah **tempat perlindungan dan kekuatanmu.** Kamu boleh datang kepada-Nya ketika lelah. Kamu boleh menangis di hadapan-Nya. Kamu boleh mengakui bahwa kamu tidak tahu harus berbuat apa.
+
+Tuhan tidak selalu langsung mengubah keadaan, tetapi Dia dapat mengubah kekuatanmu untuk menghadapi keadaan tersebut.
+Jangan menjauh dari Tuhan ketika hidup terasa berat. Justru datanglah lebih dekat.
+
+**Kamu mungkin tidak mampu mengendalikan badai, tetapi kamu bisa memilih kepada siapa kamu berlindung.**
 
 ## Doa
 
-Tuhan Yesus, ajarku untuk percaya kepada-Mu ketika aku tidak memahami jalan yang sedang kulalui. Berikan aku hikmat dalam mengambil keputusan dan hati yang rela mengikuti kehendak-Mu. Amin.
+Tuhan Yesus, ketika hidup terasa berat, ingatkan aku bahwa aku tidak sendirian. Jadilah tempat perlindungan dan kekuatanku. Tolong aku untuk menyerahkan kekhawatiranku kepada-Mu dan tetap percaya meskipun keadaan belum berubah. Amin.
 
 ## Quotes
 
-"You don't need to understand God's direction to trust God's heart."
+**"You don't have to be strong enough for everything when God is strong enough for you."**
 
 ---
 
 # Daily Devotion
 
-## Trust the One Who Knows the Way
+## Safe in His Presence
 
 ## Verse
 
-_"Trust in the LORD with all your heart, And lean not on your own understanding; In all your ways acknowledge Him, And He shall direct your paths."_
-**Proverbs 3:5–6 (NKJV)**
+**"God is our refuge and strength, A very present help in trouble." - Psalm 46:1 (NKJV)**
 
 ## Reflection
 
-We naturally want certainty. We want to know where a decision will lead before we make it. We want to understand why something happens before we accept it.
+Life can become overwhelming when several challenges arrive at the same time. We may feel pressured to fix everything, understand everything, and remain strong for everyone around us.
 
-But faith asks us to trust God beyond what we can understand.
-This does not mean abandoning wisdom or responsibility. It means recognizing that our understanding is limited while God's perspective is complete.
+But Scripture reminds us that we were never meant to carry life entirely on our own.
 
-There may be situations today that make no sense to you—a closed door, an unexpected change, a delayed answer, or a path you never planned to take.
+God is our refuge. He is the place where we can find safety when circumstances feel uncertain.
 
-Don't assume that uncertainty means God is absent.
+God is our strength. When our own strength runs out, His does not.
 
-Sometimes God is directing your path precisely through circumstances you do not yet understand.
+And He is a very present help in trouble. He is not distant from our struggles. His presence is available precisely when we need Him most.
 
-Your responsibility is to trust Him, seek His wisdom, and remain faithful with the step He has placed before you.
+You may not be able to control what happens around you today. You may not have answers to every question. But you can choose where you place your trust.
 
-You don't need to see the entire road.
+Bring your burdens to God. Rest in His presence. Do what you can faithfully, and leave what you cannot control in His hands.
 
-*You only need to trust the One who already knows where it leads.*
+**The storm may be beyond your control, but it is never beyond God's presence.**
 
 ## Prayer
 
-Heavenly Father, help me trust You with all my heart. When I cannot understand what is happening, keep me from relying only on my own perspective. Give me wisdom to make good decisions and humility to follow Your direction. Lead my steps according to Your will and help me remain faithful on the journey. In Jesus' name, Amen.
+Heavenly Father, thank You for being my refuge and strength. When I feel overwhelmed, remind me that I do not have to carry everything alone. Help me trust Your presence, surrender what I cannot control, and find courage to face each challenge with faith. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-"Faith begins where our understanding ends, because God's wisdom never ends."
+**"When life becomes overwhelming, remember that God's presence is greater than the pressure around you."**
 `;
 
 // ============================================
@@ -1457,6 +1461,115 @@ Heavenly Father, thank You for reminding me that I never walk alone. When fear a
 ## Inspirational Quote
 
 *"Fear loses its power when you remember whose hand is holding you."*`
+  },
+  {
+    date: '2026-08-15',
+    title: 'PercayaKetikaJalanBelumTerlihat',
+    verse: 'Amsal 3:5-6',
+    markdown: `---
+title: Percaya Ketika Jalan Belum Terlihat 
+date: 2026-08-15 
+verse: Amsal 3:5-6
+---
+
+# Embun Pagi
+
+## Percayakan Jalanmu kepada Tuhan
+
+## Ayat
+
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri. Akuilah Dia dalam segala lakumu, maka Ia akan meluruskan jalanmu."_
+**- Amsal 3:5-6**
+
+## Renungan
+
+Kita sering ingin memahami semuanya sebelum berani melangkah. Kita ingin tahu bagaimana akhirnya, memastikan semuanya aman, lalu baru percaya kepada Tuhan.
+
+Namun iman justru mengajarkan kita untuk percaya bahkan ketika kita belum memahami seluruh jalan.
+Tuhan tidak meminta kita berhenti berpikir atau membuat perencanaan. Kita tetap perlu menggunakan hikmat, mempertimbangkan pilihan, dan melakukan yang terbaik. Tetapi kita tidak boleh menjadikan pemahaman kita sendiri sebagai satu-satunya dasar untuk menentukan arah hidup.
+Ada hal-hal yang baru kita mengerti setelah kita melewatinya.
+
+Pintu yang tertutup mungkin ternyata sedang melindungi kita. Keterlambatan mungkin sedang mempersiapkan kita. Perubahan arah mungkin sedang membawa kita kepada tujuan yang lebih baik.
+Karena itu, jangan terlalu sibuk memikirkan bagaimana Tuhan akan menyelesaikan semuanya. Fokuslah pada satu hal: *tetap berjalan bersama-Nya.*
+
+Akui Tuhan dalam setiap keputusan, sekecil apa pun. Ketika Dia menjadi pusat perjalanan, kita tidak perlu takut meskipun jalan di depan belum sepenuhnya terlihat.
+
+*Percayalah kepada Tuhan lebih dalam daripada kamu mempercayai kemampuanmu sendiri untuk memahami hidup.*
+
+## Quotes
+
+"Iman bukan tentang melihat seluruh jalan, tetapi percaya kepada Dia yang mengetahui ke mana jalan itu menuju."
+
+---
+
+# Youth Devotion
+
+## Trust God Even When You Don't Understand
+
+## Ayat
+
+_"Percayalah kepada TUHAN dengan segenap hatimu, dan janganlah bersandar kepada pengertianmu sendiri."_
+**- Amsal 3:5**
+
+## Renungan
+
+Pernahkah kamu bertanya, *"Kenapa Tuhan mengizinkan ini terjadi?"*
+Kadang sesuatu tidak berjalan seperti yang kita harapkan. Kita gagal, rencana berubah, seseorang meninggalkan kita, atau kesempatan yang kita inginkan justru hilang.
+
+Saat itu, mudah untuk berpikir bahwa Tuhan tidak bekerja.
+Tetapi kita hanya melihat satu bagian dari cerita. Tuhan melihat seluruhnya.
+
+Kamu tidak harus memahami semua yang Tuhan lakukan untuk tetap mempercayai-Nya. Seperti seorang anak yang memegang tangan ayahnya ketika berjalan di tempat yang tidak dikenalnya, kamu hanya perlu percaya bahwa tangan yang memimpinmu tahu jalan yang benar.
+
+Terus belajar. Terus berdoa. Terus berusaha. Dan ketika Tuhan mengubah arahmu, jangan buru-buru melawan.
+
+*Mungkin jalan yang tidak kamu pilih justru merupakan jalan yang Tuhan gunakan untuk membawamu kepada tujuan-Nya.*
+
+## Doa
+
+Tuhan Yesus, ajarku untuk percaya kepada-Mu ketika aku tidak memahami jalan yang sedang kulalui. Berikan aku hikmat dalam mengambil keputusan dan hati yang rela mengikuti kehendak-Mu. Amin.
+
+## Quotes
+
+"You don't need to understand God's direction to trust God's heart."
+
+---
+
+# Daily Devotion
+
+## Trust the One Who Knows the Way
+
+## Verse
+
+_"Trust in the LORD with all your heart, And lean not on your own understanding; In all your ways acknowledge Him, And He shall direct your paths."_
+**Proverbs 3:5–6 (NKJV)**
+
+## Reflection
+
+We naturally want certainty. We want to know where a decision will lead before we make it. We want to understand why something happens before we accept it.
+
+But faith asks us to trust God beyond what we can understand.
+This does not mean abandoning wisdom or responsibility. It means recognizing that our understanding is limited while God's perspective is complete.
+
+There may be situations today that make no sense to you—a closed door, an unexpected change, a delayed answer, or a path you never planned to take.
+
+Don't assume that uncertainty means God is absent.
+
+Sometimes God is directing your path precisely through circumstances you do not yet understand.
+
+Your responsibility is to trust Him, seek His wisdom, and remain faithful with the step He has placed before you.
+
+You don't need to see the entire road.
+
+*You only need to trust the One who already knows where it leads.*
+
+## Prayer
+
+Heavenly Father, help me trust You with all my heart. When I cannot understand what is happening, keep me from relying only on my own perspective. Give me wisdom to make good decisions and humility to follow Your direction. Lead my steps according to Your will and help me remain faithful on the journey. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+"Faith begins where our understanding ends, because God's wisdom never ends."`
   }
 ];
 
@@ -1761,4 +1874,3 @@ document.addEventListener('DOMContentLoaded', function() {
 
   render(TODAY_MD);
 });
- 
