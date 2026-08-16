@@ -7,113 +7,122 @@
 // EMBEDDED TODAY DATA
 // ============================================
 const TODAY_MD = `---
-title: Ketika Tuhan Menjadi Tempat Perlindungan 
-date: 2026-08-16 
-verse: Mazmur 46:2
+title: Merdeka untuk Hidup dalam Kebenaran 
+date: 2026-08-17 
+verse: Yohanes 8:36
 ---
 
 # Embun Pagi
 
-## Tetap Tenang di Tengah Badai
+## Kemerdekaan yang Sejati
 
 ## Ayat
 
-**"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti." - Mazmur 46:2**
+**"Jadi apabila Anak itu memerdekakan kamu, kamupun benar-benar merdeka." - Yohanes 8:36**
 
 ## Renungan
 
-Ada masa ketika hidup terasa begitu penuh. Masalah datang bersamaan, pikiran sulit tenang, dan kita mulai bertanya apakah kita masih sanggup menghadapi semuanya.
+Hari ini bangsa Indonesia memperingati kemerdekaan. Kita bersyukur untuk kebebasan yang telah diperjuangkan dan untuk kesempatan menjalani hidup sebagai bangsa yang merdeka.
 
-Dalam keadaan seperti itu, kita sering mencari tempat untuk bersandar. Kita berharap ada seseorang yang dapat memberikan jawaban, keadaan segera berubah, atau masalah selesai dengan sendirinya.
+Namun Firman Tuhan mengingatkan bahwa ada kemerdekaan yang jauh lebih dalam daripada kebebasan secara lahiriah.
+Seseorang dapat hidup bebas secara fisik tetapi masih diperbudak oleh ketakutan, kepahitan, dosa, kesombongan, kecanduan, atau kebutuhan akan pengakuan manusia.
 
-Namun Firman Tuhan mengarahkan kita kepada sumber yang lebih kuat: Allah sendiri.
+Yesus berkata bahwa **Anak memerdekakan kita, dan kemerdekaan itu benar-benar nyata.**
 
-Tuhan adalah tempat perlindungan. Artinya, ketika hidup terasa tidak aman, kita dapat datang kepada-Nya. Tuhan adalah kekuatan. Artinya, ketika kemampuan kita mulai habis, kita tidak harus mengandalkan kekuatan sendiri.
+Kemerdekaan di dalam Kristus bukan berarti kita bebas melakukan apa saja yang kita inginkan. Justru kita dibebaskan dari perbudakan dosa supaya kita dapat hidup dalam kebenaran dan melakukan kehendak Tuhan.
 
-Perhatikan bahwa Mazmur tidak mengatakan bahwa orang percaya tidak akan mengalami kesesakan. Justru dikatakan bahwa Tuhan adalah **penolong dalam kesesakan.**
-Badai mungkin tetap ada. Tetapi kita tidak menghadapinya sendirian.
-Hari ini, jika ada sesuatu yang sedang membuat hati Anda gelisah, berhentilah sejenak. Tarik napas. Berdoalah. Serahkan apa yang tidak mampu Anda kendalikan kepada Tuhan.
+Karena itu, kemerdekaan sejati bukan sekadar memiliki kebebasan untuk memilih, tetapi memiliki kebebasan untuk memilih **yang benar.**
 
-Tidak semua masalah harus Anda selesaikan hari ini.
+Hari ini, mari kita bersyukur untuk kemerdekaan bangsa kita. Namun lebih dari itu, mari kita memeriksa hati: apakah masih ada sesuatu yang mengikat kita?
 
-Ada hal-hal yang cukup Anda percayakan kepada Dia.
+Bawalah semuanya kepada Kristus.
 
-**Ketika Tuhan menjadi tempat perlindungan, kita dapat tetap berdiri bahkan ketika keadaan di sekitar kita sedang berguncang.**
+**Bangsa yang merdeka membutuhkan manusia yang bertanggung jawab. Dan manusia yang benar-benar merdeka membutuhkan hati yang tunduk kepada Kristus.**
 
 ## Quotes
 
-"Ketenangan bukan berarti tidak ada badai, tetapi mengetahui kepada siapa kita berlindung ketika badai datang."
+**"Kemerdekaan sejati bukan ketika kita bebas melakukan apa saja, tetapi ketika kita bebas memilih apa yang benar."**
 
 ---
 
 # Youth Devotion
 
-## You Don't Have to Face It Alone
+## Free to Live for Christ
 
 ## Ayat
 
-**"Allah itu bagi kita tempat perlindungan dan kekuatan..." - Mazmur 46:2**
+*"Jadi apabila Anak itu memerdekakan kamu, kamupun benar-benar merdeka." - Yohanes 8:36*
 
 ## Renungan
 
-Ada hari ketika semuanya terasa terlalu berat.
+Hari ini Indonesia merayakan kemerdekaan. Merah putih berkibar, lagu kebangsaan dinyanyikan, dan kita mengingat perjuangan para pahlawan.
 
-Tugas menumpuk, hubungan dengan orang lain bermasalah, masa depan terasa tidak jelas, atau mungkin ada sesuatu yang sedang kamu simpan sendiri di dalam hati.
+Tetapi pernahkah kamu bertanya: **"Untuk apa aku menggunakan kemerdekaan yang Tuhan dan bangsa ini berikan?"**
 
-Kamu mungkin merasa harus kuat dan menyelesaikan semuanya sendiri.
+Kemerdekaan bukan alasan untuk hidup tanpa arah.
 
-Tetapi Tuhan tidak pernah meminta kamu melakukan itu.
+Sebagai anak muda, kamu memiliki kebebasan untuk memilih jalan hidupmu. Tetapi setiap pilihan memiliki konsekuensi.
 
-Dia berkata bahwa Dia adalah **tempat perlindungan dan kekuatanmu.** Kamu boleh datang kepada-Nya ketika lelah. Kamu boleh menangis di hadapan-Nya. Kamu boleh mengakui bahwa kamu tidak tahu harus berbuat apa.
+Kristus memerdekakanmu bukan supaya kamu hidup sesukamu, tetapi supaya kamu tidak lagi diperbudak oleh dosa dan tekanan dunia.
 
-Tuhan tidak selalu langsung mengubah keadaan, tetapi Dia dapat mengubah kekuatanmu untuk menghadapi keadaan tersebut.
-Jangan menjauh dari Tuhan ketika hidup terasa berat. Justru datanglah lebih dekat.
+Kamu bebas mengatakan tidak kepada hal yang menghancurkan hidupmu.
 
-**Kamu mungkin tidak mampu mengendalikan badai, tetapi kamu bisa memilih kepada siapa kamu berlindung.**
+Kamu bebas memilih kejujuran ketika orang lain memilih jalan pintas.
+
+Kamu bebas mengampuni ketika orang lain memilih membalas.
+
+Kamu bebas berdiri dalam kebenaran ketika orang lain memilih mengikuti arus.
+
+**Gunakan kemerdekaanmu untuk menjadi pribadi yang membawa terang, bukan sekadar mengikuti kebebasan yang ditawarkan dunia.**
 
 ## Doa
 
-Tuhan Yesus, ketika hidup terasa berat, ingatkan aku bahwa aku tidak sendirian. Jadilah tempat perlindungan dan kekuatanku. Tolong aku untuk menyerahkan kekhawatiranku kepada-Mu dan tetap percaya meskipun keadaan belum berubah. Amin.
+Tuhan Yesus, terima kasih karena Engkau telah memberikan kemerdekaan yang sejati. Tolong aku menggunakan kebebasanku untuk memilih kebenaran, menjaga hidupku, dan menjadi berkat bagi orang lain. Jadikan aku generasi yang hidup dengan iman, karakter, dan tanggung jawab. Amin.
 
 ## Quotes
 
-**"You don't have to be strong enough for everything when God is strong enough for you."**
+"True freedom is not freedom from responsibility; it is freedom to become who God created you to be."
 
 ---
 
 # Daily Devotion
 
-## Safe in His Presence
+## Truly Free in Christ
 
 ## Verse
 
-**"God is our refuge and strength, A very present help in trouble." - Psalm 46:1 (NKJV)**
+**"Therefore if the Son makes you free, you shall be free indeed." - John 8:36 (NKJV)**
 
 ## Reflection
 
-Life can become overwhelming when several challenges arrive at the same time. We may feel pressured to fix everything, understand everything, and remain strong for everyone around us.
+Freedom is something we deeply value. We celebrate the freedom of nations, communities, and individuals. Yet Jesus points us toward a deeper freedom—the freedom of the soul.
 
-But Scripture reminds us that we were never meant to carry life entirely on our own.
+A person can be physically free and still be controlled by fear, bitterness, addiction, pride, guilt, or the desire for human approval.
 
-God is our refuge. He is the place where we can find safety when circumstances feel uncertain.
+Christ offers something greater.
+When the Son sets us free, we are no longer defined by our past, controlled by our failures, or enslaved to the patterns that once ruled our lives.
 
-God is our strength. When our own strength runs out, His does not.
+But Christian freedom is not simply the freedom to do whatever we want. It is the freedom to choose what is right, to live according to God's truth, and to become the person God created us to be.
 
-And He is a very present help in trouble. He is not distant from our struggles. His presence is available precisely when we need Him most.
+Today, as we celebrate Indonesia's independence, let us also examine our own hearts.
 
-You may not be able to control what happens around you today. You may not have answers to every question. But you can choose where you place your trust.
+What still controls you?
 
-Bring your burdens to God. Rest in His presence. Do what you can faithfully, and leave what you cannot control in His hands.
+What fear still limits you?
 
-**The storm may be beyond your control, but it is never beyond God's presence.**
+What habit still holds you back?
+
+Bring it to Christ.
+
+**True freedom begins when Christ becomes greater than everything that once controlled us.**
 
 ## Prayer
 
-Heavenly Father, thank You for being my refuge and strength. When I feel overwhelmed, remind me that I do not have to carry everything alone. Help me trust Your presence, surrender what I cannot control, and find courage to face each challenge with faith. In Jesus' name, Amen.
+Heavenly Father, thank You for the freedom You have given through Jesus Christ. Help me recognize anything that still controls my heart and give me the courage to surrender it to You. Teach me to use my freedom responsibly, to walk in truth, and to live as a faithful representative of Christ wherever You place me. In Jesus' name, Amen.
 
 ## Inspirational Quote
 
-**"When life becomes overwhelming, remember that God's presence is greater than the pressure around you."**
+**"The greatest freedom is not the freedom to live without limits, but the freedom to live under God's truth without chains."**
 `;
 
 // ============================================
@@ -1570,6 +1579,119 @@ Heavenly Father, help me trust You with all my heart. When I cannot understand w
 ## Inspirational Quote
 
 "Faith begins where our understanding ends, because God's wisdom never ends."`
+  },
+  {
+    date: '2026-08-16',
+    title: 'Ketika Tuhan Menjadi Tempat Perlindungan',
+    verse: 'Mazmur 46:2',
+    markdown: `---
+title: Ketika Tuhan Menjadi Tempat Perlindungan 
+date: 2026-08-16 
+verse: Mazmur 46:2
+---
+
+# Embun Pagi
+
+## Tetap Tenang di Tengah Badai
+
+## Ayat
+
+**"Allah itu bagi kita tempat perlindungan dan kekuatan, sebagai penolong dalam kesesakan sangat terbukti." - Mazmur 46:2**
+
+## Renungan
+
+Ada masa ketika hidup terasa begitu penuh. Masalah datang bersamaan, pikiran sulit tenang, dan kita mulai bertanya apakah kita masih sanggup menghadapi semuanya.
+
+Dalam keadaan seperti itu, kita sering mencari tempat untuk bersandar. Kita berharap ada seseorang yang dapat memberikan jawaban, keadaan segera berubah, atau masalah selesai dengan sendirinya.
+
+Namun Firman Tuhan mengarahkan kita kepada sumber yang lebih kuat: Allah sendiri.
+
+Tuhan adalah tempat perlindungan. Artinya, ketika hidup terasa tidak aman, kita dapat datang kepada-Nya. Tuhan adalah kekuatan. Artinya, ketika kemampuan kita mulai habis, kita tidak harus mengandalkan kekuatan sendiri.
+
+Perhatikan bahwa Mazmur tidak mengatakan bahwa orang percaya tidak akan mengalami kesesakan. Justru dikatakan bahwa Tuhan adalah **penolong dalam kesesakan.**
+Badai mungkin tetap ada. Tetapi kita tidak menghadapinya sendirian.
+Hari ini, jika ada sesuatu yang sedang membuat hati Anda gelisah, berhentilah sejenak. Tarik napas. Berdoalah. Serahkan apa yang tidak mampu Anda kendalikan kepada Tuhan.
+
+Tidak semua masalah harus Anda selesaikan hari ini.
+
+Ada hal-hal yang cukup Anda percayakan kepada Dia.
+
+**Ketika Tuhan menjadi tempat perlindungan, kita dapat tetap berdiri bahkan ketika keadaan di sekitar kita sedang berguncang.**
+
+## Quotes
+
+"Ketenangan bukan berarti tidak ada badai, tetapi mengetahui kepada siapa kita berlindung ketika badai datang."
+
+---
+
+# Youth Devotion
+
+## You Don't Have to Face It Alone
+
+## Ayat
+
+**"Allah itu bagi kita tempat perlindungan dan kekuatan..." - Mazmur 46:2**
+
+## Renungan
+
+Ada hari ketika semuanya terasa terlalu berat.
+
+Tugas menumpuk, hubungan dengan orang lain bermasalah, masa depan terasa tidak jelas, atau mungkin ada sesuatu yang sedang kamu simpan sendiri di dalam hati.
+
+Kamu mungkin merasa harus kuat dan menyelesaikan semuanya sendiri.
+
+Tetapi Tuhan tidak pernah meminta kamu melakukan itu.
+
+Dia berkata bahwa Dia adalah **tempat perlindungan dan kekuatanmu.** Kamu boleh datang kepada-Nya ketika lelah. Kamu boleh menangis di hadapan-Nya. Kamu boleh mengakui bahwa kamu tidak tahu harus berbuat apa.
+
+Tuhan tidak selalu langsung mengubah keadaan, tetapi Dia dapat mengubah kekuatanmu untuk menghadapi keadaan tersebut.
+Jangan menjauh dari Tuhan ketika hidup terasa berat. Justru datanglah lebih dekat.
+
+**Kamu mungkin tidak mampu mengendalikan badai, tetapi kamu bisa memilih kepada siapa kamu berlindung.**
+
+## Doa
+
+Tuhan Yesus, ketika hidup terasa berat, ingatkan aku bahwa aku tidak sendirian. Jadilah tempat perlindungan dan kekuatanku. Tolong aku untuk menyerahkan kekhawatiranku kepada-Mu dan tetap percaya meskipun keadaan belum berubah. Amin.
+
+## Quotes
+
+**"You don't have to be strong enough for everything when God is strong enough for you."**
+
+---
+
+# Daily Devotion
+
+## Safe in His Presence
+
+## Verse
+
+**"God is our refuge and strength, A very present help in trouble." - Psalm 46:1 (NKJV)**
+
+## Reflection
+
+Life can become overwhelming when several challenges arrive at the same time. We may feel pressured to fix everything, understand everything, and remain strong for everyone around us.
+
+But Scripture reminds us that we were never meant to carry life entirely on our own.
+
+God is our refuge. He is the place where we can find safety when circumstances feel uncertain.
+
+God is our strength. When our own strength runs out, His does not.
+
+And He is a very present help in trouble. He is not distant from our struggles. His presence is available precisely when we need Him most.
+
+You may not be able to control what happens around you today. You may not have answers to every question. But you can choose where you place your trust.
+
+Bring your burdens to God. Rest in His presence. Do what you can faithfully, and leave what you cannot control in His hands.
+
+**The storm may be beyond your control, but it is never beyond God's presence.**
+
+## Prayer
+
+Heavenly Father, thank You for being my refuge and strength. When I feel overwhelmed, remind me that I do not have to carry everything alone. Help me trust Your presence, surrender what I cannot control, and find courage to face each challenge with faith. In Jesus' name, Amen.
+
+## Inspirational Quote
+
+**"When life becomes overwhelming, remember that God's presence is greater than the pressure around you."**
   }
 ];
 
@@ -1759,118 +1881,3 @@ function loadByDate(dateStr) {
   if (dateStr === getTodayDateString()) {
     render(TODAY_MD);
     return;
-  }
-  const heroTitle = document.getElementById('hero-title');
-  const heroDate = document.getElementById('hero-date');
-  const embun = document.getElementById('embun-pagi-content');
-  const youth = document.getElementById('youth-content');
-  const daily = document.getElementById('daily-content');
-
-  if (heroTitle) heroTitle.textContent = 'Renungan Tidak Ditemukan';
-  if (heroDate) heroDate.textContent = formatDate(dateStr);
-  if (embun) embun.innerHTML = '<p>Renungan untuk tanggal ini belum tersedia.</p>';
-  if (youth) youth.innerHTML = '';
-  if (daily) daily.innerHTML = '';
-
-  state.currentDate = dateStr;
-  updateNav();
-}
-
-// ============================================
-// ARCHIVE PAGE
-// ============================================
-function loadArchive() {
-  const grid = document.getElementById('archive-grid');
-  const stats = document.getElementById('archive-stats');
-  if (!grid || !stats) return;
-
-  const all = [...ARCHIVE_DATA];
-  const todayStr = getTodayDateString();
-  if (!all.find(a => a.date === todayStr)) {
-    const { frontMatter } = parseFrontMatter(TODAY_MD);
-    all.push({ date: todayStr, title: frontMatter.title, verse: frontMatter.verse, markdown: TODAY_MD });
-  }
-
-  all.sort((a, b) => new Date(b.date + 'T00:00:00') - new Date(a.date + 'T00:00:00'));
-
-  if (all.length === 0) {
-    grid.innerHTML = '<p>Belum ada archive.</p>';
-    stats.textContent = '';
-    return;
-  }
-
-  grid.innerHTML = all.map(item =>
-    '<a href="#" class="archive-card" onclick="loadByDate(\'' + item.date + '\'); showPage(\'today\'); return false;">' +
-      '<div class="archive-card-date">' + formatShortDate(item.date) + '</div>' +
-      '<div class="archive-card-title">' + escapeHtml(item.title) + '</div>' +
-      (item.verse ? '<div class="archive-card-verse">' + escapeHtml(item.verse) + '</div>' : '') +
-      '<div class="archive-card-read">Read More →</div>' +
-    '</a>'
-  ).join('');
-
-  stats.textContent = all.length + ' devotion' + (all.length !== 1 ? 's' : '');
-}
-
-// ============================================
-// PAGE NAV
-// ============================================
-function showPage(name) {
-  state.currentPage = name;
-  document.querySelectorAll('.page').forEach(p => p.classList.remove('active'));
-  const page = document.getElementById('page-' + name);
-  if (page) page.classList.add('active');
-  document.querySelectorAll('.nav-link').forEach(l => l.classList.toggle('active', l.dataset.page === name));
-  const mobileMenu = document.getElementById('mobile-menu');
-  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-  if (mobileMenu) mobileMenu.classList.remove('active');
-  if (mobileMenuBtn) mobileMenuBtn.classList.remove('active');
-  window.scrollTo({ top: 0, behavior: 'smooth' });
-  if (name === 'archive') loadArchive();
-}
-
-// ============================================
-// THEME
-// ============================================
-function initTheme() {
-  const saved = localStorage.getItem('theme');
-  const dark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-  if (saved === 'dark' || (!saved && dark)) {
-    document.documentElement.setAttribute('data-theme', 'dark');
-    state.isDark = true;
-  }
-}
-
-function toggleTheme() {
-  state.isDark = !state.isDark;
-  document.documentElement.setAttribute('data-theme', state.isDark ? 'dark' : 'light');
-  localStorage.setItem('theme', state.isDark ? 'dark' : 'light');
-}
-
-// ============================================
-// INIT
-// ============================================
-document.addEventListener('DOMContentLoaded', function() {
-  const footerYear = document.getElementById('footer-year');
-  if (footerYear) footerYear.textContent = new Date().getFullYear();
-
-  initTheme();
-
-  const themeToggle = document.getElementById('theme-toggle');
-  if (themeToggle) themeToggle.addEventListener('click', toggleTheme);
-
-  const mobileMenuBtn = document.getElementById('mobile-menu-btn');
-  if (mobileMenuBtn) {
-    mobileMenuBtn.addEventListener('click', () => {
-      const mobileMenu = document.getElementById('mobile-menu');
-      if (mobileMenu) mobileMenu.classList.toggle('active');
-      mobileMenuBtn.classList.toggle('active');
-    });
-  }
-
-  const backToTop = document.getElementById('back-to-top');
-  if (backToTop) {
-    backToTop.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
-  }
-
-  render(TODAY_MD);
-});
