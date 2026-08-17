@@ -936,7 +936,8 @@ Heavenly Father, thank You because You are the God of new beginnings. Help me to
     date: '2026-08-10',
     title: 'Setia dalam Perkara Kecil',
     verse: 'Lukas 16:10',
-    markdown: `title: Setia dalam Perkara Kecil
+    markdown: `---
+title: Setia dalam Perkara Kecil
 date: 2026-08-10
 verse: Lukas 16:10
 ---
@@ -1032,7 +1033,8 @@ Heavenly Father, teach me to be faithful in the little things. Give me integrity
     date: '2026-08-11',
     title: 'Ketika Tuhan Menjadi Kekuatanmu',
     verse: 'Mazmur 46:2',
-    markdown: `title: Ketika Tuhan Menjadi Kekuatanmu
+    markdown: `---
+title: Ketika Tuhan Menjadi Kekuatanmu
 date: 2026-08-11
 verse: Mazmur 46:2
 ---
@@ -1142,7 +1144,8 @@ Heavenly Father, thank You for being my refuge and strength. When I feel overwhe
     date: '2026-08-12',
     title: 'Tuhan Menuntun Langkahmu',
     verse: 'Amsal 16:9',
-    markdown: `title: Tuhan Menuntun Langkahmu
+    markdown: `---
+title: Tuhan Menuntun Langkahmu
 date: 2026-08-12
 verse: Amsal 16:9
 ---
@@ -1473,7 +1476,7 @@ Heavenly Father, thank You for reminding me that I never walk alone. When fear a
   },
   {
     date: '2026-08-15',
-    title: 'PercayaKetikaJalanBelumTerlihat',
+    title: 'Percaya Ketika Jalan Belum Terlihat',
     verse: 'Amsal 3:5-6',
     markdown: `---
 title: Percaya Ketika Jalan Belum Terlihat 
@@ -1881,3 +1884,75 @@ function loadByDate(dateStr) {
   if (dateStr === getTodayDateString()) {
     render(TODAY_MD);
     return;
+  }
+  // Fallback jika tanggal tidak ditemukan
+  console.warn('Renungan untuk tanggal ' + dateStr + ' tidak tersedia.');
+}
+
+// ============================================
+// DARK MODE
+// ============================================
+function toggleDarkMode() {
+  state.isDark = !state.isDark;
+  document.body.classList.toggle('dark-mode', state.isDark);
+  const btn = document.getElementById('theme-toggle');
+  if (btn) btn.textContent = state.isDark ? '☀️' : '🌙';
+  localStorage.setItem('filadelfia-dark', state.isDark ? '1' : '0');
+}
+
+function initDarkMode() {
+  const saved = localStorage.getItem('filadelfia-dark');
+  if (saved === '1') {
+    state.isDark = true;
+    document.body.classList.add('dark-mode');
+    const btn = document.getElementById('theme-toggle');
+    if (btn) btn.textContent = '☀️';
+  }
+  const btn = document.getElementById('theme-toggle');
+  if (btn) btn.addEventListener('click', toggleDarkMode);
+}
+
+// ============================================
+// ARCHIVE LIST
+// ============================================
+function showArchive() {
+  state.currentPage = 'archive';
+  const container = document.getElementById('archive-list');
+  const todayView = document.getElementById('today-view');
+  const archiveView = document.getElementById('archive-view');
+
+  if (todayView) todayView.style.display = 'none';
+  if (archiveView) archiveView.style.display = 'block';
+
+  if (!container) return;
+
+  container.innerHTML = ARCHIVE_DATA.slice().reverse().map(item => `
+    <div class="archive-item" onclick="loadByDate('${item.date}'); showToday();">
+      <div class="archive-date">${formatShortDate(item.date)}</div>
+      <div class="archive-title">${escapeHtml(item.title)}</div>
+      <div class="archive-verse">${escapeHtml(item.verse)}</div>
+    </div>
+  `).join('');
+}
+
+function showToday() {
+  state.currentPage = 'today';
+  const todayView = document.getElementById('today-view');
+  const archiveView = document.getElementById('archive-view');
+  if (todayView) todayView.style.display = 'block';
+  if (archiveView) archiveView.style.display = 'none';
+}
+
+// ============================================
+// INIT
+// ============================================
+document.addEventListener('DOMContentLoaded', function() {
+  initDarkMode();
+
+  const archiveBtn = document.getElementById('archive-btn');
+  const todayBtn = document.getElementById('today-btn');
+  if (archiveBtn) archiveBtn.addEventListener('click', showArchive);
+  if (todayBtn) todayBtn.addEventListener('click', showToday);
+
+  render(TODAY_MD);
+});
